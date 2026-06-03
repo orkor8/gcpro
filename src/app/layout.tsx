@@ -9,8 +9,8 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  title: "GCPRO | קהילת בוגרי GCP Academy",
-  description: "הפלטפורמה המקצועית לבוגרי מחקר קליני בישראל — GCPRO",
+  title: "GCPRO | קהילת בוגרי GCP Training Center",
+  description: "הפלטפורמה המקצועית לבוגרי GCP Training Center — GCPRO",
 };
 
 export default function RootLayout({

@@ -55,8 +55,10 @@ function SidebarContent({ profile, onClose }: Props & { onClose?: () => void }) 
     >
       {/* Logo */}
       <div className="px-5 pt-6 pb-5" style={{ borderBottom: "1px solid rgba(255,255,255,0.07)" }}>
-        <GCPROLogo variant="dark" size="md" />
-        <div className="text-sky-400/50 mt-1.5" style={{ fontSize: "0.68rem", paddingRight: 2 }}>קהילת בוגרי GCP Academy</div>
+        <Link href="/">
+          <GCPROLogo variant="dark" size="md" />
+        </Link>
+        <div className="text-sky-400/50 mt-1.5" style={{ fontSize: "0.68rem", paddingRight: 2 }}>קהילת בוגרי GCP Training Center</div>
       </div>
 
       {/* Nav */}
@@ -152,9 +154,9 @@ export function StudentSidebar({ profile }: Props) {
     <>
       {/* Mobile top bar */}
       <div className="lg:hidden fixed top-0 left-0 right-0 z-50 h-14 flex items-center justify-between px-4" style={{ background: "#0F2645", borderBottom: "1px solid rgba(14,165,233,0.15)" }}>
-        <div className="flex items-center gap-2">
+        <Link href="/">
           <GCPROLogo variant="dark" size="sm" />
-        </div>
+        </Link>
         <button onClick={() => setMobileOpen(true)} className="text-white p-1.5 rounded-lg" style={{ background: "rgba(14,165,233,0.15)" }}>
           <svg width="20" height="20" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
