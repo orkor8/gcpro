@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { createBrowserClient } from "@supabase/ssr";
 
 interface Lecturer {
   id: string;
@@ -61,28 +60,22 @@ export default function ExpertClient({
     setLoading(true);
     setError(null);
 
-    const supabase = createBrowserClient(
-      process.env.NEXT_PUBLIC_SUPABASE_URL!,
-      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-    );
-
-    const { data, error: insertError } = await supabase.from("questions").insert({
-      student_id: userId,
-      lecturer_id: selectedLecturer,
-      subject: subject.trim(),
-      body: body.trim(),
-      student_email: profile.email,
-    }).select("id, subject, body, created_at, lecturer_id").single();
+    const res = await fetch("/api/ask-expert", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ lecturerId: selectedLecturer, subject, body }),
+    });
 
     setLoading(false);
 
-    if (insertError) {
+    if (!res.ok) {
       setError("שגיאה בשליחת השאלה. נסה שוב.");
       return;
     }
 
-    if (data) {
-      setLocalQuestions(prev => [data as Question, ...prev]);
+    const { question } = await res.json();
+    if (question) {
+      setLocalQuestions(prev => [question as Question, ...prev]);
     }
 
     setSent(true);
