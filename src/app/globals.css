@@ -12,7 +12,6 @@
   --text-muted: #94a3b8;
   --background: var(--white);
   --foreground: var(--navy);
-  --font-rubik: var(--font-rubik);
 }
 
 @theme inline {
@@ -23,6 +22,7 @@
 
 * {
   box-sizing: border-box;
+  font-family: var(--font-rubik), 'Rubik', 'Segoe UI', sans-serif;
 }
 
 body {
