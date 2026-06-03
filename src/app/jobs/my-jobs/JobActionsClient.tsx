@@ -42,21 +42,19 @@ export function JobActionsClient({
         </form>
       )}
 
-      {/* Delete — only pending or rejected */}
-      {(status === "pending" || status === "rejected") && (
-        <form action={deleteJob} onSubmit={(e) => {
-          if (!confirm("למחוק את המשרה?")) e.preventDefault();
-        }}>
-          <input type="hidden" name="jobId" value={jobId} />
-          <button
-            type="submit"
-            className="text-xs font-semibold px-3 py-1.5 rounded-lg transition-all"
-            style={{ background: "rgba(239,68,68,0.08)", color: "#ef4444", border: "1px solid rgba(239,68,68,0.2)" }}
-          >
-            🗑 מחק
-          </button>
-        </form>
-      )}
+      {/* Delete — always available */}
+      <form action={deleteJob} onSubmit={(e) => {
+        if (!confirm("למחוק את המשרה לצמיתות?")) e.preventDefault();
+      }}>
+        <input type="hidden" name="jobId" value={jobId} />
+        <button
+          type="submit"
+          className="text-xs font-semibold px-3 py-1.5 rounded-lg transition-all"
+          style={{ background: "rgba(239,68,68,0.08)", color: "#ef4444", border: "1px solid rgba(239,68,68,0.2)" }}
+        >
+          🗑 מחק
+        </button>
+      </form>
     </div>
   );
 }
