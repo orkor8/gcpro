@@ -1,5 +1,6 @@
 import { createClient } from "@/lib/supabase/server";
 import { redirect } from "next/navigation";
+import Link from "next/link";
 
 export default async function PendingPage() {
   const supabase = await createClient();
@@ -59,14 +60,23 @@ export default async function PendingPage() {
           </p>
         </div>
 
-        <form action="/auth/signout" method="post">
-          <button
-            type="submit"
-            className="text-slate-500 hover:text-slate-300 text-xs transition-colors"
+        <div className="flex flex-col items-center gap-3">
+          <Link
+            href="/"
+            className="px-6 py-2.5 rounded-xl text-sm font-bold text-white transition-all"
+            style={{ background: "linear-gradient(135deg, #0EA5E9, #0284c7)" }}
           >
-            התנתק
-          </button>
-        </form>
+            חזרה לעמוד הבית
+          </Link>
+          <form action="/auth/signout" method="post">
+            <button
+              type="submit"
+              className="text-slate-500 hover:text-slate-300 text-xs transition-colors"
+            >
+              התנתק
+            </button>
+          </form>
+        </div>
       </div>
     </div>
   );
