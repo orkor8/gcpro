@@ -270,14 +270,14 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
 
         {/* ─── Welcome strip ─── */}
         <div
-          className="px-8 py-5 flex items-center justify-between"
+          className="px-4 md:px-8 py-4 md:py-5 flex items-center justify-between"
           style={{ background: "#0F2645", borderBottom: "1px solid rgba(14,165,233,0.1)" }}
         >
           <div>
-            <h1 className="text-white font-black text-xl" style={{ letterSpacing: "-0.02em" }}>
+            <h1 className="text-white font-black text-lg md:text-xl" style={{ letterSpacing: "-0.02em" }}>
               {(isLoggedIn || isPending) ? `שלום, ${profile!.full_name.split(" ")[0]}!` : "ברוך הבא ל-GCPRO"}
             </h1>
-            <p className="text-slate-400 text-sm mt-0.5">
+            <p className="text-slate-400 text-xs md:text-sm mt-0.5">
               {isLoggedIn
                 ? "הפלטפורמה המקצועית שלך לניהול הקריירה בתחום המחקר הקליני"
                 : isPending
@@ -322,7 +322,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
         {/* ─── Pending approval banner ─── */}
         {isPending && (
           <div
-            className="mx-6 md:mx-8 mt-4 rounded-2xl px-5 py-4 flex items-center gap-4"
+            className="mx-4 md:mx-8 mt-4 rounded-2xl px-4 md:px-5 py-4 flex items-center gap-3 md:gap-4"
             style={{ background: "linear-gradient(135deg, #fffbeb, #fef3c7)", border: "1.5px solid #fcd34d" }}
           >
             <div className="flex-shrink-0 w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: "#f59e0b" }}>
@@ -342,7 +342,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
         {/* ─── Approved banner (shown when profile is empty = just approved) ─── */}
         {isLoggedIn && !profile!.bio && !profile!.degree && !profile!.city && (
           <div
-            className="mx-6 md:mx-8 mt-4 rounded-2xl px-5 py-4 flex items-center gap-4"
+            className="mx-4 md:mx-8 mt-4 rounded-2xl px-4 md:px-5 py-4 flex items-center gap-3 md:gap-4"
             style={{ background: "rgba(16,185,129,0.08)", border: "1.5px solid rgba(16,185,129,0.3)" }}
           >
             <div className="flex-shrink-0 w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: "#10b981" }}>
@@ -393,7 +393,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
 
           return (
             <div
-              className="mx-6 md:mx-8 mt-4 rounded-2xl px-5 py-4 flex items-center gap-4 flex-wrap"
+              className="mx-4 md:mx-8 mt-4 rounded-2xl px-4 md:px-5 py-4 flex items-center gap-3 md:gap-4 flex-wrap"
               style={{ background: "linear-gradient(135deg, #fffbeb, #fef9c3)", border: "1.5px solid #fde68a" }}
             >
               {/* Progress ring */}
@@ -434,13 +434,13 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
           );
         })()}
 
-        <div className="p-6 md:p-8 space-y-10">
+        <div className="p-4 md:p-8 space-y-6 md:space-y-10">
 
           {/* ════════════════════════════
               SECTION 1 — JOBS
           ════════════════════════════ */}
-          <section id="jobs" className="rounded-3xl bg-white p-8" style={{ boxShadow: "0 2px 16px rgba(15,38,69,0.06)" }}>
-            <div className="flex items-center gap-3 mb-6">
+          <section id="jobs" className="rounded-2xl md:rounded-3xl bg-white p-5 md:p-8" style={{ boxShadow: "0 2px 16px rgba(15,38,69,0.06)" }}>
+            <div className="flex items-center gap-2 md:gap-3 mb-5 md:mb-6 flex-wrap">
               <h2 className="font-black text-xl" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>
                 משרות בתחום המחקר הקליני
               </h2>
@@ -538,7 +538,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
             <div className="glow-orb absolute w-80 h-80 rounded-full pointer-events-none" style={{ top: "-80px", right: "-60px", background: "radial-gradient(circle, rgba(14,165,233,0.2) 0%, transparent 70%)" }} />
             <div className="glow-orb-2 absolute w-64 h-64 rounded-full pointer-events-none" style={{ bottom: "-40px", left: "20%", background: "radial-gradient(circle, rgba(56,189,248,0.12) 0%, transparent 70%)" }} />
 
-            <div className="relative z-10 p-8 md:p-12 grid md:grid-cols-2 gap-10 items-center">
+            <div className="relative z-10 p-5 md:p-12 grid md:grid-cols-2 gap-6 md:gap-10 items-center">
               <div>
                 <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-bold mb-6" style={{ background: "rgba(14,165,233,0.12)", border: "1px solid rgba(14,165,233,0.25)", color: "#38bdf8" }}>
                   <svg width="14" height="14" fill="currentColor" viewBox="0 0 20 20"><path d="M15.98 1.804a1 1 0 0 0-1.96 0l-.24 1.192a1 1 0 0 1-.784.785l-1.192.238a1 1 0 0 0 0 1.962l1.192.238a1 1 0 0 1 .785.785l.238 1.192a1 1 0 0 0 1.962 0l.238-1.192a1 1 0 0 1 .785-.785l1.192-.238a1 1 0 0 0 0-1.962l-1.192-.238a1 1 0 0 1-.785-.785l-.238-1.192Z" /><path d="M6.949 5.684a1 1 0 0 0-1.898 0l-.683 2.051a1 1 0 0 1-.633.633l-2.051.683a1 1 0 0 0 0 1.898l2.051.684a1 1 0 0 1 .633.632l.683 2.051a1 1 0 0 0 1.898 0l.683-2.051a1 1 0 0 1 .633-.633l2.051-.683a1 1 0 0 0 0-1.898l-2.051-.683a1 1 0 0 1-.633-.633L6.95 5.684Z" /></svg>
@@ -630,10 +630,10 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
           {/* ════════════════════════════
               SECTION 3 — EXPERTS
           ════════════════════════════ */}
-          <section id="expert" className="rounded-3xl overflow-hidden bg-white" style={{ boxShadow: "0 4px 24px rgba(15,38,69,0.07)" }}>
-            <div className="p-8">
-              <div className="flex items-center gap-3 mb-6">
-                <h2 className="font-black text-xl" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>שאל את המומחים שלנו</h2>
+          <section id="expert" className="rounded-2xl md:rounded-3xl overflow-hidden bg-white" style={{ boxShadow: "0 4px 24px rgba(15,38,69,0.07)" }}>
+            <div className="p-5 md:p-8">
+              <div className="flex items-center gap-2 md:gap-3 mb-5 md:mb-6 flex-wrap">
+                <h2 className="font-black text-lg md:text-xl" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>שאל את המומחים שלנו</h2>
                 <span className="section-badge" style={{ background: "rgba(14,165,233,0.08)", color: "#0284c7" }}>הכה את המומחה</span>
               </div>
 
@@ -662,7 +662,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
               {isLoggedIn ? (
                 <Link
                   href="/expert"
-                  className="flex items-center justify-between p-5 rounded-2xl transition-all group"
+                  className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 p-4 md:p-5 rounded-2xl transition-all group"
                   style={{ background: "linear-gradient(135deg, #f0f9ff, #e0f2fe)", border: "1.5px solid #bae6fd" }}
                 >
                   <div className="flex items-center gap-4">
@@ -695,10 +695,10 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
           {/* ════════════════════════════
               SECTION 4 — KNOWLEDGE CENTER
           ════════════════════════════ */}
-          <section id="knowledge" className="rounded-3xl overflow-hidden" style={{ background: "#f8fafc", border: "1.5px solid #e8eef4" }}>
-            <div className="p-8">
-              <div className="flex items-center gap-3 mb-6">
-                <h2 className="font-black text-xl" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>מרכז הידע המקצועי</h2>
+          <section id="knowledge" className="rounded-2xl md:rounded-3xl overflow-hidden" style={{ background: "#f8fafc", border: "1.5px solid #e8eef4" }}>
+            <div className="p-5 md:p-8">
+              <div className="flex items-center gap-2 md:gap-3 mb-5 md:mb-6 flex-wrap">
+                <h2 className="font-black text-lg md:text-xl" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>מרכז הידע המקצועי</h2>
                 <span className="section-badge" style={{ background: "rgba(16,185,129,0.1)", color: "#059669" }}>
                   <span className="w-1.5 h-1.5 rounded-full bg-green-500 inline-block" /> תוכן חדש כל שבוע
                 </span>
@@ -731,7 +731,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
                       const color = typeColors[item.content_type] ?? "#0EA5E9";
                       return (
                         <div key={item.id} className="rounded-2xl overflow-hidden bg-white" style={{ boxShadow: "0 2px 12px rgba(15,38,69,0.06)" }}>
-                          <div className="h-44 flex items-center justify-center" style={{ background: `linear-gradient(135deg, ${color}, ${color}99)` }}>
+                          <div className="h-32 md:h-44 flex items-center justify-center" style={{ background: `linear-gradient(135deg, ${color}, ${color}99)` }}>
                             <svg width="32" height="32" fill="none" viewBox="0 0 24 24" stroke="rgba(255,255,255,0.6)" strokeWidth={1.5}>
                               <path strokeLinecap="round" strokeLinejoin="round" d="M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.347a1.125 1.125 0 0 1 0 1.972l-11.54 6.347a1.125 1.125 0 0 1-1.667-.986V5.653Z" />
                             </svg>
@@ -759,7 +759,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
                       const color = typeColors[item.content_type] ?? "#0EA5E9";
                       return (
                         <div key={item.id} className="rounded-2xl overflow-hidden bg-white" style={{ boxShadow: "0 2px 12px rgba(15,38,69,0.06)" }}>
-                          <div className="h-44 flex items-center justify-center" style={{ background: `linear-gradient(135deg, ${color}, ${color}99)` }}>
+                          <div className="h-32 md:h-44 flex items-center justify-center" style={{ background: `linear-gradient(135deg, ${color}, ${color}99)` }}>
                             <svg width="32" height="32" fill="none" viewBox="0 0 24 24" stroke="rgba(255,255,255,0.6)" strokeWidth={1.5}>
                               <path strokeLinecap="round" strokeLinejoin="round" d="M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.347a1.125 1.125 0 0 1 0 1.972l-11.54 6.347a1.125 1.125 0 0 1-1.667-.986V5.653Z" />
                             </svg>
@@ -810,7 +810,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
                 </div>
               </div>
 
-              <div className="flex flex-col justify-center px-8 py-10">
+              <div className="flex flex-col justify-center px-5 py-6 md:px-8 md:py-10">
                 <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-bold mb-5 self-start" style={{ background: "rgba(249,115,22,0.12)", border: "1px solid rgba(249,115,22,0.25)", color: "#fb923c" }}>
                   <svg width="12" height="12" fill="currentColor" viewBox="0 0 20 20"><path d="M6.3 2.841A1.5 1.5 0 0 0 4 4.11V15.89a1.5 1.5 0 0 0 2.3 1.269l9.344-5.89a1.5 1.5 0 0 0 0-2.538L6.3 2.84Z" /></svg>
                   הפודקאסט של התעשייה
