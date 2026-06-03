@@ -1,4 +1,5 @@
 import { createClient } from "@/lib/supabase/server";
+import { createAdminClient } from "@/lib/supabase/admin";
 import { redirect } from "next/navigation";
 import HomeClient from "./HomeClient";
 
@@ -10,6 +11,15 @@ export default async function Home() {
   let jobs: any[] = [];
   let lecturers: any[] = [];
   let knowledgeItems: any[] = [];
+
+  // Always fetch lecturers (public marketing info — use admin to bypass RLS)
+  const admin = createAdminClient();
+  const { data: allLecturers } = await admin
+    .from("lecturers")
+    .select("id, name, specialty, course_type, bio")
+    .eq("is_active", true)
+    .order("created_at", { ascending: true });
+  if (allLecturers) lecturers = allLecturers;
 
   if (user) {
     const { data: p } = await supabase
@@ -46,15 +56,6 @@ export default async function Home() {
           return { ...job, locked: false };
         });
       }
-
-      // Fetch lecturers
-      const { data: lecs } = await supabase
-        .from("lecturers")
-        .select("id, name, specialty, course_type, bio")
-        .eq("is_active", true)
-        .order("created_at", { ascending: true });
-
-      if (lecs) lecturers = lecs;
 
       // Fetch knowledge items
       const { data: knowledge } = await supabase

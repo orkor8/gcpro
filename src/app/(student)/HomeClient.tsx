@@ -238,11 +238,6 @@ const mockJobs: Job[] = [
   { id: "4", title: "מנהל/ת רגולציה קלינית", company: "נובה נורדיסק ישראל", location: "הרצליה", job_type: "משרה מלאה", description: "", is_discrete: false, is_junior_friendly: false, target_audience: null, early_access_until: "" },
 ];
 
-const mockLecturers: Lecturer[] = [
-  { id: "1", name: "ד\"ר שרה לוי", specialty: "רגולציה ו-GCP", course_type: "gcp", bio: null },
-  { id: "2", name: "פרופ' דוד כהן", specialty: "מחקר קליני מתקדם", course_type: "cra", bio: null },
-  { id: "3", name: "ד\"ר מיכל ברק", specialty: "ניהול ניסויים קליניים", course_type: "cra", bio: null },
-];
 
 const mockKnowledge: KnowledgeItem[] = [
   { id: "1", title: "עדכוני FDA 2024 — שינויים בדרישות הרגולטוריות", content_type: "video", published_at: "2025-03-28" },
@@ -260,7 +255,7 @@ export default function HomeClient({ user, profile, jobs, lecturers, knowledgeIt
   const isLoggedIn = !!user && !!profile && profile.status === "approved";
   const isPending = !!user && !!profile && profile.status === "pending";
   const displayJobs = jobs.length > 0 ? jobs : (isLoggedIn ? [] : mockJobs);
-  const displayLecturers = lecturers.length > 0 ? lecturers : mockLecturers;
+  const displayLecturers = lecturers;
   const displayKnowledge = knowledgeItems.length > 0 ? knowledgeItems : (isLoggedIn ? [] : mockKnowledge);
 
   return (
