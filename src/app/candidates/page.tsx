@@ -1,4 +1,5 @@
 import { createClient } from "@/lib/supabase/server";
+import { createAdminClient } from "@/lib/supabase/admin";
 import { redirect } from "next/navigation";
 import { Suspense } from "react";
 import { CandidateFilters } from "./CandidateFilters";
@@ -28,7 +29,8 @@ export default async function CandidatesPage({
 
   if (profile?.role !== "employer") redirect("/dashboard");
 
-  let query = supabase
+  const admin = createAdminClient();
+  let query = admin
     .from("profiles")
     .select("user_id, full_name, email, phone, city, linkedin_url, skills, bio, role, degree, field_of_study, institution, english_level, edc_systems, has_coordinator_experience")
     .in("role", ["student_gcp", "student_cra"])
