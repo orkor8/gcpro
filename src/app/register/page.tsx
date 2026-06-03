@@ -276,6 +276,7 @@ function RegisterPage() {
               style={{ background: "linear-gradient(135deg, #0EA5E9, #0284c7)", boxShadow: "0 0 24px rgba(14,165,233,0.4)" }}
             >
               <GCPROLogo variant="dark" size="md" />
+            </div>
           </Link>
         </div>
 
