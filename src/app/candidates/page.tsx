@@ -47,6 +47,18 @@ export default async function CandidatesPage({
 
   const { data: candidates } = await query.order("created_at", { ascending: false });
 
+  // Fetch certificates for all candidates
+  const candidateIds = candidates?.map(c => c.user_id) ?? [];
+  const { data: allCertificates } = candidateIds.length > 0
+    ? await admin.from("certificates").select("user_id, name, file_url").in("user_id", candidateIds)
+    : { data: [] };
+
+  const certsByUser: Record<string, { name: string; file_url: string }[]> = {};
+  (allCertificates ?? []).forEach(cert => {
+    if (!certsByUser[cert.user_id]) certsByUser[cert.user_id] = [];
+    certsByUser[cert.user_id].push({ name: cert.name, file_url: cert.file_url });
+  });
+
   return (
     <div
       className="min-h-screen"
@@ -141,6 +153,12 @@ export default async function CandidatesPage({
                       הורד קורות חיים
                     </a>
                   )}
+                  {(certsByUser[c.user_id] ?? []).map(cert => (
+                    <a key={cert.file_url} href={cert.file_url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:underline" style={{ color: "#7c3aed" }}>
+                      <svg width="14" height="14" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814" /></svg>
+                      {cert.name}
+                    </a>
+                  ))}
                   {c.linkedin_url && (
                     <a href={c.linkedin_url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-blue-700 hover:underline">
                       <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
