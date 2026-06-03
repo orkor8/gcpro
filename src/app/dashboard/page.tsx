@@ -107,8 +107,7 @@ export default async function DashboardPage() {
         <header style={{ background: "#0F2645", borderBottom: "1px solid rgba(14,165,233,0.1)" }}>
           <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
             <Link href="/dashboard" className="flex items-center gap-3">
-              <div className="w-9 h-9 rounded-lg flex items-center justify-center text-white font-black text-sm" style={{ background: "linear-gradient(135deg, #0EA5E9, #0284c7)" }}>CH</div>
-              <span className="text-white font-bold">ClinHub</span>
+              <GCPROLogo variant="dark" size="sm" />
             </Link>
             <div className="flex items-center gap-3">
               <span className="text-xs font-bold px-3 py-1 rounded-full" style={{ background: `${roleColor}20`, color: roleColor, border: `1px solid ${roleColor}40` }}>
@@ -123,7 +122,7 @@ export default async function DashboardPage() {
         <main className="max-w-5xl mx-auto px-6 py-10">
           <div className="mb-8">
             <h1 className="font-black text-2xl mb-1" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>שלום, {name} 👋</h1>
-            <p className="text-slate-500 text-sm">פאנל המעסיק שלך ב-ClinHub</p>
+            <p className="text-slate-500 text-sm">פאנל המעסיק שלך ב-GCPRO</p>
           </div>
 
           {/* סטטיסטיקות */}
@@ -204,7 +203,7 @@ export default async function DashboardPage() {
           <h1 className="font-black text-2xl mb-1" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>
             שלום, {name} 👋
           </h1>
-          <p className="text-slate-500 text-sm">ברוך הבא לפאנל האישי שלך ב-ClinHub</p>
+          <p className="text-slate-500 text-sm">ברוך הבא לפאנל האישי שלך ב-GCPRO</p>
         </div>
 
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
