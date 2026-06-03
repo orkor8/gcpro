@@ -166,8 +166,12 @@ function RegisterPage() {
       setError("הסיסמאות אינן תואמות");
       return;
     }
-    if (form.password.length < 6) {
-      setError("הסיסמה חייבת להכיל לפחות 6 תווים");
+    if (form.password.length < 8) {
+      setError("הסיסמה חייבת להכיל לפחות 8 תווים");
+      return;
+    }
+    if (!/[a-zA-Z]/.test(form.password) || !/[0-9]/.test(form.password)) {
+      setError("הסיסמה חייבת להכיל לפחות אות אחת באנגלית ומספר אחד");
       return;
     }
 
@@ -444,7 +448,7 @@ function RegisterPage() {
                     : []),
                   { name: "phone", label: "טלפון", type: "tel", placeholder: "050-0000000", required: false },
                   { name: "city", label: "עיר", type: "text", placeholder: "תל אביב", required: false },
-                  { name: "password", label: "סיסמה *", type: "password", placeholder: "לפחות 6 תווים", required: true },
+                  { name: "password", label: "סיסמה *", type: "password", placeholder: "לפחות 8 תווים, אותיות ומספרים", required: true },
                   { name: "confirmPassword", label: "אימות סיסמה *", type: "password", placeholder: "הכנס שוב את הסיסמה", required: true },
                 ].map((field) => (
                   <div key={field.name}>
