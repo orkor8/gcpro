@@ -5,7 +5,7 @@ const PROTECTED_ROUTES = ["/dashboard", "/profile", "/jobs", "/bot", "/expert", 
 const AUTH_ROUTES = ["/login", "/register"];
 const PENDING_ONLY_ROUTES = ["/pending"];
 
-export async function middleware(request: NextRequest) {
+export async function proxy(request: NextRequest) {
   let supabaseResponse = NextResponse.next({ request });
 
   const supabase = createServerClient(
