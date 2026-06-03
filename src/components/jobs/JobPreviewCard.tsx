@@ -4,6 +4,7 @@ export interface JobPreviewData {
   is_discrete: boolean;
   location: string;
   job_type: string;
+  role_type?: string;
   experience_level: string;
   description: string;
   requirements: string;
@@ -90,6 +91,11 @@ export function JobPreviewCard({ job }: { job: JobPreviewData }) {
         {job.job_type && (
           <span className="flex items-center gap-1 text-xs px-2.5 py-1 rounded-full" style={{ background: "#f1f5f9", color: "#475569" }}>
             {briefcaseIcon} {job.job_type}
+          </span>
+        )}
+        {job.role_type && (
+          <span className="text-xs px-2.5 py-1 rounded-full font-semibold" style={{ background: "rgba(16,185,129,0.1)", color: "#059669" }}>
+            {job.role_type}
           </span>
         )}
         {job.experience_level && (

@@ -4,8 +4,30 @@ import { useState } from "react";
 import { submitJob } from "./actions";
 import { JobPreviewCard, type JobPreviewData } from "@/components/jobs/JobPreviewCard";
 
-const LOCATIONS = ["מרכז", "צפון", "דרום", "ירושלים", "היברידי", "מהבית"];
-const JOB_TYPES = ["משרה מלאה", "משרה חלקית", "פרויקט זמני"];
+const LOCATIONS = [
+  "מרכז (תל אביב והסביבה)",
+  "שרון (נתניה, כפר סבא)",
+  "ירושלים והסביבה",
+  "צפון (חיפה וגליל)",
+  "דרום (באר שבע, נגב)",
+  "שפלה (ראשון לציון, רחובות)",
+  "היברידי",
+  "מהבית / Remote",
+];
+const JOB_TYPES = ["משרה מלאה", "משרה חלקית", "פרויקט זמני", "פרילנס"];
+const ROLE_TYPES = [
+  "מתאם/ת מחקר קליני (CRC)",
+  "CRA / Monitor",
+  "CTA",
+  "מנהל/ת פרויקט קליני",
+  "רגולציה / Regulatory Affairs",
+  "ועדת הלסינקי / IRB",
+  "הבטחת איכות (QA)",
+  "ניהול נתונים (Data Management)",
+  "פארמקווויג'ילנס",
+  "Medical Affairs",
+  "אחר",
+];
 const EXPERIENCE_LEVELS = ["ללא ניסיון / ג'וניור", "1-2 שנים", "Senior (3+)"];
 const THERAPEUTIC_AREAS = ["אונקולוגיה", "קרדיולוגיה", "נוירולוגיה", "אנדוקרינולוגיה", "מחלות נדירות", "זיהומיות", "אחר"];
 const TRIAL_PHASES = ["I", "II", "III", "IV"];
@@ -52,7 +74,7 @@ function Field({ label, required, children }: { label: string; required?: boolea
 export function JobPostForm() {
   const [form, setForm] = useState({
     title: "", company: "", is_discrete: false, location: "",
-    job_type: "", experience_level: "", description: "", requirements: "",
+    job_type: "", role_type: "", experience_level: "", description: "", requirements: "",
     application_method: "", travel_percent: "", therapeutic_area: "",
     trial_phase: "", salary_range: "", start_date: "",
     is_junior_friendly: false, target_cra: true, target_gcp: true,
@@ -139,7 +161,7 @@ export function JobPostForm() {
             <div className="grid grid-cols-2 gap-4">
               <Field label="מיקום" required>
                 <select name="location" value={form.location} onChange={set("location")} style={selectStyle} required>
-                  <option value="">בחר מיקום...</option>
+                  <option value="">בחר אזור...</option>
                   {LOCATIONS.map(l => <option key={l} value={l}>{l}</option>)}
                 </select>
               </Field>
@@ -150,6 +172,13 @@ export function JobPostForm() {
                 </select>
               </Field>
             </div>
+
+            <Field label="סוג תפקיד" required>
+              <select name="role_type" value={form.role_type} onChange={set("role_type")} style={selectStyle} required>
+                <option value="">בחר סוג תפקיד...</option>
+                {ROLE_TYPES.map(r => <option key={r} value={r}>{r}</option>)}
+              </select>
+            </Field>
 
             <Field label="ניסיון נדרש" required>
               <select name="experience_level" value={form.experience_level} onChange={set("experience_level")} style={selectStyle} required>

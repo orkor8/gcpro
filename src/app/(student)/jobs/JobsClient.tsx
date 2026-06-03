@@ -53,26 +53,29 @@ export default function JobsClient({ jobs, role }: { jobs: Job[]; role: string }
   const [q, setQ] = useState("");
   const [location, setLocation] = useState("");
   const [jobType, setJobType] = useState("");
+  const [roleType, setRoleType] = useState("");
   const [juniorOnly, setJuniorOnly] = useState(false);
   const [savedOnly, setSavedOnly] = useState(false);
   const { saved, toggle } = useSavedJobs();
 
   const locations = useMemo(() => [...new Set(jobs.map(j => j.location).filter(Boolean))], [jobs]);
   const jobTypes = useMemo(() => [...new Set(jobs.map(j => j.job_type).filter(Boolean))], [jobs]);
+  const roleTypes = useMemo(() => [...new Set(jobs.map(j => (j as any).role_type).filter(Boolean))], [jobs]);
 
   const filtered = useMemo(() => jobs.filter(job => {
     if (savedOnly && !saved.has(job.id)) return false;
     if (juniorOnly && !job.is_junior_friendly) return false;
     if (location && job.location !== location) return false;
     if (jobType && job.job_type !== jobType) return false;
+    if (roleType && (job as any).role_type !== roleType) return false;
     if (q) {
       const lower = q.toLowerCase();
       if (!job.title?.toLowerCase().includes(lower) && !job.company?.toLowerCase().includes(lower)) return false;
     }
     return true;
-  }), [jobs, q, location, jobType, juniorOnly, savedOnly, saved]);
+  }), [jobs, q, location, jobType, roleType, juniorOnly, savedOnly, saved]);
 
-  const hasFilters = q || location || jobType || juniorOnly || savedOnly;
+  const hasFilters = q || location || jobType || roleType || juniorOnly || savedOnly;
 
   return (
     <div>
@@ -97,7 +100,7 @@ export default function JobsClient({ jobs, role }: { jobs: Job[]; role: string }
           <select value={location} onChange={e => setLocation(e.target.value)}
             className="px-4 py-2.5 rounded-xl text-sm outline-none"
             style={{ background: "#f8fafc", border: "1.5px solid #e2e8f0", color: location ? "#0F2645" : "#94a3b8" }}>
-            <option value="">כל המיקומים</option>
+            <option value="">כל האזורים</option>
             {locations.map(l => <option key={l} value={l}>{l}</option>)}
           </select>
 
@@ -105,9 +108,19 @@ export default function JobsClient({ jobs, role }: { jobs: Job[]; role: string }
           <select value={jobType} onChange={e => setJobType(e.target.value)}
             className="px-4 py-2.5 rounded-xl text-sm outline-none"
             style={{ background: "#f8fafc", border: "1.5px solid #e2e8f0", color: jobType ? "#0F2645" : "#94a3b8" }}>
-            <option value="">כל הסוגים</option>
+            <option value="">היקף משרה</option>
             {jobTypes.map(t => <option key={t} value={t}>{t}</option>)}
           </select>
+
+          {/* Role type */}
+          {roleTypes.length > 0 && (
+            <select value={roleType} onChange={e => setRoleType(e.target.value)}
+              className="px-4 py-2.5 rounded-xl text-sm outline-none"
+              style={{ background: "#f8fafc", border: "1.5px solid #e2e8f0", color: roleType ? "#0F2645" : "#94a3b8" }}>
+              <option value="">סוג תפקיד</option>
+              {roleTypes.map(t => <option key={t} value={t}>{t}</option>)}
+            </select>
+          )}
         </div>
 
         {/* Toggle filters */}
@@ -136,7 +149,7 @@ export default function JobsClient({ jobs, role }: { jobs: Job[]; role: string }
           </button>
           {hasFilters && (
             <button
-              onClick={() => { setQ(""); setLocation(""); setJobType(""); setJuniorOnly(false); setSavedOnly(false); }}
+              onClick={() => { setQ(""); setLocation(""); setJobType(""); setRoleType(""); setJuniorOnly(false); setSavedOnly(false); }}
               className="px-3 py-1.5 rounded-lg text-xs font-semibold"
               style={{ background: "#f8fafc", color: "#94a3b8", border: "1.5px solid #e2e8f0" }}
             >

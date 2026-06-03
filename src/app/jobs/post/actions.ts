@@ -30,6 +30,7 @@ export async function submitJob(formData: FormData) {
     requirements: formData.get("requirements") as string || null,
     application_method: formData.get("application_method") as string,
     job_type: (formData.get("job_type") as string),
+    role_type: formData.get("role_type") as string || null,
     travel_percent: formData.get("travel_percent") ? Number(formData.get("travel_percent")) : null,
     therapeutic_area: formData.get("therapeutic_area") as string || null,
     trial_phase: formData.get("trial_phase") as string || null,
