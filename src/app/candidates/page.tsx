@@ -3,7 +3,8 @@ import { createAdminClient } from "@/lib/supabase/admin";
 import { redirect } from "next/navigation";
 import { Suspense } from "react";
 import { CandidateFilters } from "./CandidateFilters";
-import { AppHeader } from "@/components/ui/AppHeader";
+import { EmployerSidebar } from "@/components/ui/EmployerSidebar";
+import { Footer } from "@/components/ui/Footer";
 
 const roleLabel: Record<string, { text: string; color: string; bg: string }> = {
   student_cra: { text: "בוגר CRA", color: "#7c3aed", bg: "rgba(139,92,246,0.1)" },
@@ -60,14 +61,10 @@ export default async function CandidatesPage({
   });
 
   return (
-    <div
-      className="min-h-screen"
-      style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif", background: "#f1f5f9" }}
-      dir="rtl"
-    >
-      <AppHeader role="employer" title="חיפוש בוגרים" />
-
-      <main className="max-w-5xl mx-auto px-6 py-10">
+    <div className="min-h-screen" style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif", background: "#f1f5f9" }} dir="rtl">
+      <EmployerSidebar />
+      <div className="lg:mr-[260px] pt-14 lg:pt-0 flex flex-col min-h-screen">
+      <main className="max-w-5xl mx-auto px-4 md:px-6 py-10 flex-1">
         <div className="mb-6">
           <h1 className="font-black text-2xl mb-1" style={{ color: "#0F2645" }}>חיפוש בוגרים</h1>
           <p className="text-slate-500 text-sm">{candidates?.length ?? 0} בוגרים נמצאו</p>
@@ -171,6 +168,8 @@ export default async function CandidatesPage({
           })}
         </div>
       </main>
+      <Footer />
+      </div>
     </div>
   );
 }

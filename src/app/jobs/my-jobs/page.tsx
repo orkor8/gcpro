@@ -1,7 +1,8 @@
 import { createClient } from "@/lib/supabase/server";
 import { redirect } from "next/navigation";
 import Link from "next/link";
-import { AppHeader } from "@/components/ui/AppHeader";
+import { EmployerSidebar } from "@/components/ui/EmployerSidebar";
+import { Footer } from "@/components/ui/Footer";
 import { JobActionsClient } from "./JobActionsClient";
 import type { UserRole } from "@/types/database";
 
@@ -36,14 +37,10 @@ export default async function MyJobsPage({
     .order("created_at", { ascending: false });
 
   return (
-    <div
-      className="min-h-screen"
-      style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif", background: "#f1f5f9" }}
-      dir="rtl"
-    >
-      <AppHeader role="employer" title="המשרות שלי" />
-
-      <main className="max-w-4xl mx-auto px-6 py-10">
+    <div className="min-h-screen" style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif", background: "#f1f5f9" }} dir="rtl">
+      <EmployerSidebar />
+      <div className="lg:mr-[260px] pt-14 lg:pt-0 flex flex-col min-h-screen">
+      <main className="max-w-4xl mx-auto px-4 md:px-6 py-10 flex-1">
         {submitted && (
           <div className="mb-6 p-4 rounded-2xl text-sm font-medium" style={{ background: "#dcfce7", color: "#16a34a", border: "1px solid #bbf7d0" }}>
             ✓ המשרה נשלחה בהצלחה ותעלה לאוויר לאחר אישור האדמין
@@ -112,6 +109,8 @@ export default async function MyJobsPage({
           })}
         </div>
       </main>
+      <Footer />
+      </div>
     </div>
   );
 }

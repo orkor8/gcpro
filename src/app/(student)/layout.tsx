@@ -1,5 +1,6 @@
 import { createClient } from "@/lib/supabase/server";
 import { StudentSidebar } from "./StudentSidebar";
+import { Footer } from "@/components/ui/Footer";
 
 const roleLabels: Record<string, string> = {
   student_gcp: "בוגר GCP",
@@ -27,8 +28,9 @@ export default async function StudentLayout({ children }: { children: React.Reac
   return (
     <>
       <StudentSidebar profile={profile} />
-      <div className="lg:mr-[260px] pt-14 lg:pt-0" dir="rtl" style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif" }}>
-        {children}
+      <div className="lg:mr-[260px] pt-14 lg:pt-0 flex flex-col min-h-screen" dir="rtl" style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif" }}>
+        <div className="flex-1">{children}</div>
+        <Footer />
       </div>
     </>
   );

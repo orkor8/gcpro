@@ -3,6 +3,8 @@ import { redirect } from "next/navigation";
 import Link from "next/link";
 import type { UserRole } from "@/types/database";
 import { GCPROLogo } from "@/components/ui/GCPROLogo";
+import { EmployerSidebar } from "@/components/ui/EmployerSidebar";
+import { Footer } from "@/components/ui/Footer";
 
 const roleLabels: Record<UserRole, string> = {
   student_gcp: "בוגר קורס GCP",
@@ -104,22 +106,9 @@ export default async function DashboardPage() {
 
     return (
       <div className="min-h-screen" style={{ fontFamily: "var(--font-rubik), Rubik, sans-serif", background: "#f1f5f9" }}>
-        <header style={{ background: "#0F2645", borderBottom: "1px solid rgba(14,165,233,0.1)" }}>
-          <div className="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-            <Link href="/dashboard" className="flex items-center gap-3">
-              <GCPROLogo variant="dark" size="sm" />
-            </Link>
-            <div className="flex items-center gap-3">
-              <span className="text-xs font-bold px-3 py-1 rounded-full" style={{ background: `${roleColor}20`, color: roleColor, border: `1px solid ${roleColor}40` }}>
-                {roleLabel}
-              </span>
-              <form action="/auth/signout" method="post">
-                <button type="submit" className="text-slate-400 hover:text-white text-xs font-medium transition-colors">יציאה</button>
-              </form>
-            </div>
-          </div>
-        </header>
-        <main className="max-w-5xl mx-auto px-6 py-10">
+        <EmployerSidebar />
+        <div className="lg:mr-[260px] pt-14 lg:pt-0 flex flex-col min-h-screen">
+        <main className="max-w-5xl mx-auto px-4 md:px-6 py-10 flex-1">
           <div className="mb-8">
             <h1 className="font-black text-2xl mb-1" style={{ color: "#0F2645", letterSpacing: "-0.02em" }}>שלום, {name} 👋</h1>
             <p className="text-slate-500 text-sm">פאנל המעסיק שלך ב-GCPRO</p>
@@ -190,6 +179,8 @@ export default async function DashboardPage() {
             </Link>
           </div>
         </main>
+        <Footer />
+        </div>
       </div>
     );
   }
