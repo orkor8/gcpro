@@ -1,0 +1,10124 @@
+
+
+=== 10_Audit and Inspection.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+QUALITY IN 
+CLINICAL TRIALS
+AUDIT & INSPECTION
+בקרה
+ופיקוח
+ ©GCP Clinical Studies Ltd
+SPONSOR’S RESPONSIBILITY
+ The sponsor is responsible for implementing and maintaining quality assurance 
+and quality control.
+ The sponsor is responsible for securing agreement from all involved parties to 
+ensure direct access to all trial related sites, source data/documents , and reports 
+for the purpose of monitoring and auditing by the sponsor.
+© GCP Clinical Studies Ltd
+הקתעהל אל
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+MONITORING vs. Audit
+Monitoring
+ 
+ היוזם יעשה על כל החוקרים ללא יוצא
+מן הכלל
+ תהליך שמתחיל בהכנות לקראת
+הניסוי
+, 
+תוך כדי הניסוי ועד לסיומו
+.
+ 
+ אופי ותדירות הניטור ייקבעו על ידי
+היזם בתוכנית הניטור
+.
+הגורם המבצע ניטור הוא הCRA 
+ 
+ מטעם היזם או חברתCRO
+ 
+ שמבצעת
+את הניטור עבור היוזם
+Th
+© GCP Clinical Studies Ltd
+ 
+Audit
+ היזם יעשה באופן מדגמי
+ מבדק חד פעמי
+) 
+בדרך כלל
+(
+ הגורם המבצעAUDITOR
+ 
+ מטעם
+היוזם או חברת CRO
+AUDIT
+חלק
+ 
+ממערך
+ 
+אבטחת
+ 
+האיכות
+  של 
+היוזם
+© GCP Clinical Studies Ltd
+אל הקתעהל
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+AUDIT - DEFINITION
+(ICH-GCP R3)
+© GCP Clinical Studies Ltd
+A systematic and independent examination of trial-related activities and records 
+performed by the sponsor, service provider (including contract research 
+organization (CRO)) or institution to determine whether the evaluated trial-related 
+activities were conducted and the data were recorded, analyzed and accurately 
+reported according to the protocol, applicable standard operating procedures 
+(SOPs), Good Clinical Practice (GCP) and the applicable regulatory 
+requirement(s)
+AUDIT
+© GCP Clinical Studies Ltd
+Audits should be conducted in a manner that is proportionate to the risks associated with the conduct of the trial.
+The sponsor should appoint individuals who are independent of the clinical trial being audited.
+The sponsor should ensure that the auditors are qualified by training and experience to conduct audits properly.
+The sponsor should ensure that the auditing of clinical trials/processes is conducted in accordance with the sponsor’s 
+documented procedures on what , how to audit (i.e., on-site or remote), the frequency of audits and the form and 
+content of audit reports.
+The sponsor’s audit plan, program and procedures for a trial audit should be guided by the importance of the trial to 
+submissions to regulatory authorities, the number of participants in the trial, the type and complexity of the trial, the 
+level of risks to the trial participants and any identified problem(s).
+The observations and findings of the auditor(s) should be documented.
+To preserve the independence and value of the audit function, the regulatory authority(ies) should not routinely 
+request the audit reports. Regulatory authority(ies) may seek access to an audit report on a case-by-case basis when 
+evidence of serious GCP non-compliance exists or in the course of legal proceedings. 
+אל הקתעהל
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+INSPECTION - DEFINITION
+(ICH-GCP R3
+© GCP Clinical Studies Ltd
+The act by a regulatory authority(ies) of conducting an official review of 
+documents, facilities, records and any other resources that are deemed by the 
+authority(ies) to be related to the clinical trial and that may be accessed at the 
+investigator site, at the sponsor’s and/or service provider’s (including CRO’s) 
+facilities, or at other establishments deemed appropriate by the regulatory 
+authority(ies). Some aspects of the inspection may be conducted remotely
+  פי  על
+נוהל
+ 144 
+ 
+ של
+משרד
+ 
+הבריאות
+ 
+כל מוסד רפואי ימנה גוף מבקר 
+לבדיקה וניטור הניסויים שאושרו במוסד
+:
+המוסד
+ 
+הרפואי
+:
+הגוף
+ 
+המבקר
+ 
+ידווח
+אחת
+ ל-
+6
+ חודשים
+ 
+להנהלת
+ 
+המוסד
+ 
+ולוועדת
+ 
+הלסינקי
+.
+ועדת
+ 
+הלסינקי
+:
+תדון
+ 
+בממצאי
+ 
+הגוף
+ 
+המבקר
+ 
+ותדווח
+ 
+עליהם
+ 
+למשרד
+ 
+הבריאות
+ 
+אחת
+ ל-
+6
+ חודשים
+.
+משרד
+ 
+הבריאות
+:
+יפקח
+  על 
+פעילות
+ 
+ועדות
+ 
+הלסינקי
+ 
+והגופים
+ 
+המבקרים
+ 
+במוסדות
+ 
+הרפואיים
+.
+ ©GCP Clinical Studies Ltd
+Audit/Inspection
+ 
+  בישראל
+אל הקתעהל
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+סיווג ממצאי הביקורת
+ממצא
+ 
+משני
+ :minor finding-
+  כל
+חריגה
+ 
+מפרוטוקול
+ 
+הניסוי
+, 
+מנוהל
+ 
+עבודה
+ 
+פנימי
+, 
+מדרישות
+ 
+נוהל
+ 
+משרד
+ 
+הבריאות
+  או /ו 
+הנחיות
+ 
+הבינלאומיות
+ 
+שאין
+  בה 
+משום
+ 
+פ
+גיעה
+בבטיחותם
+, 
+רווחתם
+, 
+כבודם
+  או 
+זכויותיהם
+  של 
+המשתתפים
+ 
+במחקר
+  או /ו 
+בנתוני
+ 
+המחקר
+.
+ממצא
+ 
+מהותי
+ major finding-
+ :
+הפרה
+ 
+משמעותית
+  של 
+פרוטוקול
+ 
+המחקר
+  או /ו 
+נוהל
+ 
+עבודה
+ 
+פנימי
+, 
+נוהל
+ 
+משרד
+ 
+הבריאות
+  או /ו 
+הנחיות
+ 
+הבינלאומיות
+ 
+אשר
+ 
+עלולה
+ 
+לפגוע
+ 
+בבטיחותם
+, 
+רווחתם
+, 
+כבודם
+  או 
+זכויותיהם
+  של 
+המשתתפים
+ 
+במחקר
+  או /ו , 
+עלולה
+ 
+לגרום
+ 
+לסכנה
+ 
+ממשית
+: 
+לבריאות
+ 
+הציבור
+, 
+לפגוע
+ 
+באמינות
+ 
+נתוני
+ 
+המחקר
+, 
+להוביל
+ 
+לפסילת
+ 
+המחקר
+.
+ ©GCP Clinical Studies Ltd
+ממצא
+ 
+קריטי-
+critical finding
+:
+רשימת
+ 
+ממצאים
+  אי  של 
+התאמות
+ 
+שנצפו
+ 
+בעת
+ 
+הביקורת
+. 
+סיווג
+ 
+הממצאים
+ 
+נעשה
+ 
+בהתאם
+ 
+להנחיות
+ 
+הבינלאומיות
+ EUDRALEX Volume 10
+:
+הפרה
+ 
+משמעותית
+  של 
+פרוטוקול
+ 
+המחקר
+  או /ו 
+נוהל
+ 
+עבודה
+ 
+פנימי
+, 
+נוהל
+ 
+משרד
+ 
+הבריאות
+  או /ו 
+הנחיות
+ 
+הבינלאומיות
+ 
+אשר
+ 
+פגעה 
+בבטיחותם
+, 
+רווחתם
+, 
+כבודם
+  או 
+זכויותיהם
+  של 
+המשתתפים
+ 
+במחקר
+  או /ו , 
+שגרמה 
+לסכנה
+ 
+ממשית
+: 
+לבריאות
+ 
+הציבור
+, 
+פגעה 
+ 
+באמינות
+ 
+נתוני
+ 
+המחקר
+, 
+או שת
+וביל
+ 
+לפסילת
+ 
+המחקר
+ 
+עקב חשד לחוסר תום לב
+.
+דוגמאות
+ 
+ממצאי
+ AUDIT
+ חריגות
+ 
+מהפרוטוקול
+. 
+גויס משתתף לא לפי 
+קריטריוני
+ 
+ההכללה
+.
+ חוסר
+  של 
+מסמכים
+ 
+בתיק
+ 
+החוקר
+.
+ חוסר
+ 
+בתיעוד
+ 
+תרופות
+ 
+נלוות
+.
+ ליקוים
+ 
+בתיעוד
+ 
+ורישום
+ 
+מוצר
+ 
+המחקר
+.
+ תיקונים
+ 
+שנעשים
+  לא 
+  לפי
+כללי
+ ה-
+GCP
+.
+ מוצרי
+ 
+מחקר
+ 
+  פגי
+תוקף
+ 
+מאוחסנים
+ 
+ביחד
+  עם 
+מוצרים
+ 
+בתוקף
+.
+ חסרים
+ 
+טפסי
+ 
+הסכמה
+  של Screen Failures
+.
+ חסרים
+ 
+דוחות
+  של 
+דיווחי
+ 
+בטיחות
+ 
+בתיק
+ 
+החוקר
+.
+ חסרים
+ 
+אישורי
+ 
+הלסינקי
+ 
+לקבלת
+ 
+דיווחי
+ 
+בטיחות
+ 
+תקופתיים
+.
+ תיעוד
+ 
+חסר
+ ב-
+CRF
+   של
+ארועים
+ 
+חריגים
+ 
+שתועדו
+ 
+ברשומות
+.
+ הגדלת
+'  מס 
+המטופלים
+ 
+בניסוי
+ 
+הוגדל
+ 
+מעבר
+ 
+למוסכם
+ 
+בחוזה
+.
+ תוצאות
+ 
+בדיקות
+ 
+המעבדה
+  לא 
+חתומות
+ 
+ומתוארכות
+ ע"י 
+החוקר
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+דוגמאות
+ 
+ממצאי
+ AUDIT
+ - המשך
+ תוצאות
+ 
+בדיקות
+ 
+המעבדה
+ 
+ללא
+ 
+התייחסות
+ 
+קלינית
+.
+ שאלונים
+/
+יומנים
+ 
+למטופל
+ 
+מולאו
+ ע"י 
+צוות
+ 
+המחקר
+.
+ שינויים
+ 
+בצוות
+ 
+המחקר
+  לא 
+תועדו
+.
+ בית
+ 
+המרקחת
+ 
+השמיד
+  את 
+אריזות
+ 
+המקור
+ 
+לפני
+ 
+בדיקה
+ 
+ורישום
+ ע"י 
+המוניטור
+.
+ חסר
+ 
+תיעוד
+ 
+להכשרה
+/
+רענון
+  של 
+אנשי
+ 
+הצוות
+ 
+בנושא
+ 
+נהלי
+ GCP
+.
+ חסר
+ 
+תיעוד
+ 
+הדרכת
+ 
+אנשי
+ 
+הצוות
+ 
+חדשים
+.
+ חסר
+ 
+תיעוד
+ 
+עבודת
+ 
+הוועדה
+ 
+  לפי
+נהלי
+ ICH-GCP
+.
+ ברשימת
+ 
+חברי
+ 
+הוועדה
+  לא 
+צוינו
+ 
+תפקידיהם
+.
+ חסרה
+ 
+חתימת
+ 
+הורה
+ 
+  שני
+בטופס
+ 
+הסכמה
+ 
+מחקר
+ 
+קטינים
+.
+ שינוי
+ 
+מאושר
+  של 
+טופס
+ 
+הסכמה
+  לא 
+הוחתם
+ ע"י 
+המשתתפים
+.
+ החוקר
+ 
+המסביר
+  לא 
+תיארך
+  את 
+חתימתו
+  על 
+טופס
+ 
+ההסכמה
+.
+ הליך
+ 
+ההסכמה
+  לא 
+תועד
+ 
+ברשומות
+.
+ ©GCP Clinical Studies Ltd
+פעולות
+ 
+בעקבות
+ 
+הביקורת
+ פעולות
+ 
+תיקון
+ 
+ומניעה- 
+CAPA
+:
+Corrective & Preventive Actions 
+תוכנית
+ 
+לפעולות
+ 
+נקודתיות
+ 
+למניעת
+ 
+ליקויים
+ 
+ולתיקון
+ 
+ליקויים
+ 
+שנמצאו
+ 
+ודווחו
+ 
+והנם
+ 
+טעוני
+ 
+תיקון
+ 
+ושיפור
+. 
+תוכנית
+  זו 
+כוללת
+לוח 
+ 
+זמנים
+ 
+לביצוע
+. 
+באחריות
+ 
+המבוקר
+ 
+לאתר
+  את 
+שורש
+ 
+הליקוי
+  או /ו 
+הגורם
+ 
+לליקוי
+ 
+ולהכין
+ 
+תכנית
+ 
+לתיקון
+ 
+ומניעת
+ 
+הישנות
+ 
+הליקוי
+  או 
+ליקויים
+ 
+דומים
+.
+ במקרה
+ 
+ונמצאו
+ 
+בבקרה
+ 
+ליקויים
+אי  או -סדרים
+ 
+קריטיים
+גוף ר" יו
+ 
+הבקרה
+ ר" יו ,
+הוועדה
+ 
+המוסדית
+ 
+והנהלת
+ 
+המוסד
+ 
+ידונו
+ 
+בממצאי
+ 
+הבקרה
+, 
+וישקלו
+  את 
+הפעולות
+ 
+לתיקון
+ 
+שיש
+ 
+לבצע
+ 
+בלוחות
+ 
+זמנים
+ 
+         
+מוגדרים
+.
+בנוסף
+, 
+ידונו
+ 
+בצעדים
+ 
+המתאימים
+ 
+למניעת
+ 
+הישנות
+ 
+הליקויי
+ם 
+(CAPA)
+ .
+לאחר
+ 
+בירור
+ ר" יו , 
+הגוף
+ 
+הבקרה
+ ר" ויו 
+ועדת
+ 
+הלסינקי
+  או /ו 
+הנהלת
+ 
+המוסד
+ 
+רשאים
+ 
+להטיל
+ 
+סנקציות
+  על 
+החוקר
+ 
+הראשי
+  או 
+היזם
+ 
+לרבות
+ 
+          הפסקת
+ 
+גיוס
+, 
+הפסקת
+ 
+ניסוי
+, 
+איסור
+  על 
+אישור
+ 
+מחקרים
+ 
+נוספים
+.' וכו 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+© GCP Clinical Studies Ltd
+CLINICAL SITE AUDIT
+ביקורת
+ 
+באתר מחקר
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+הכנות
+ה  של -
+AUDITOR
+ לקראת
+ 
+ביקורת
+ 
+במרכז
+ 
+Audit plan per study
+      הכנת
+ 
+תוכנית
+ 
+ביקורת
+ 
+לכל
+ 
+מחקר
+.
+ 
+Considerations for choosing the audited sites
+      שיקולים
+ 
+לבחירת
+ 
+המרכזים
+.
+ ©GCP Clinical Studies Ltd
+ 
+ הודעה כתובה לחוקר הראשי
+   
+אחריות
+ 
+המרכז-
+הכנות
+ 
+לקראת
+ 
+הביקורת
+הודעה
+  של
+החוקר
+ 
+הראשי
+ ל
+כל ה
+צוות
+  על 
+הביקורת
+ 
+המתוכננת
+.
+  יש
+להכין
+:
+ חדר
+ 
+פגישות
+.
+ מלווה
+בעל ידע והכשרה
+.
+ כל מסמכי המחקר
+)
+מסמכים חיוניים
+; 
+מסמכים מקוריים
+(.
+מסמכי הצוות
+: 
+הדרכות
+, 
+חלוקת אחריות
+, 
+מעורבות
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+שיחת
+ 
+פתיחה
+ )
+חוקר
+ 
+ראשי
+, 
+מתאמי
+ 
+המחקר
+, 
+חוקרי
+ 
+משנה
+(.
+סיור
+ 
+בבית
+ 
+המרקחת
+ 
+והמחלקה
+.
+ מעבר
+  על 
+תיק
+ 
+המסמכים של 
+החוקר
+. 
+ מעבר
+ה  על -
+CRF
+ לעומת
+ 
+הרשומות
+ )
+מדגמי
+(.
+ ביצוע
+ 
+הביקורת
+ 
+ותיעודה
+.
+ העברת
+דוח 
+ 
+ממצאים
+ 
+לחוקר
+.
+ מעקב
+ 
+אחר
+ 
+הליכי
+ 
+ופעולות
+ 
+התיקון
+.
+ ©GCP Clinical Studies Ltd
+פעולות
+ ה-
+AUDITOR
+ במרכז
+ 
+הרפואי
+אחריות
+ 
+המרכז-
+במהלך
+ 
+הביקורת
+  על
+החוקר
+ 
+וצוותו
+:
+ להיות
+ 
+זמי
+נים
+.
+לספק
+  כל  את 
+המסמכים
+ 
+המבוקשים
+.
+בפגישת
+ 
+סיכום
+ 
+יומית- להשיב
+ 
+להערות
+ 
+המבקר
+ 
+ולתקן
+ 
+במידת
+ 
+הצורך
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp-academy.co.il 
+פעולות
+ 
+המבקר
+ 
+בתום
+ ה
+ביקורת
+כתיבת
+ 
+הדוח
+)ממצאים
+  פי  על 
+פרוטוקול
+, 
+נהלי
+ 
+עבודה
+,ICH-GCP 
+ וחוקים
+ 
+מקומיים
+ 
+ומסווגים
+ 
+  לפי
+דרגת
+ 
+חומרה
+(
+תגובות
+ 
+לדו
+"ח )
+חוקר
+, CRO
+(
+כתיבת
+ 
+הדו
+"ח 
+הסופי
+ FAR)
+(
+ח" הדו
+פנימי
+ 
+וחסוי
+ולא 
+ 
+מתוייק
+ 
+בתיק
+ 
+החוקר
+Audit Certificate
+נשלח
+ 
+לחוקר
+ול -
+CRO
+ לצורך
+ 
+תיעוד
+ 
+ותיוק 
+בתיק
+ 
+מחקר
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+הסתיים החלק הראשון של הלימוד המתוקשב
+. 
+נתראה בחלק השני במפגש עם המרצה 
+אל הקתעהל
+
+
+=== 2_GCP Principle.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+עקרונות והתפתחות ה-
+GCP
+ 
+© GCP Clinical Studies Ltd
+אורנה
+ 
+לנגרמן
+B.Pharm ; M.H.A
+מנהלת מרכז ההכשרה למחקר קליני
+  פי . סי .י'ג
+ניסויים
+ 
+קליניים
+מ" בע 
+orna@gcp.co.il
+054-4770542
+© GCP Clinical Studies Ltd
+אל הקתעהל
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Good
+Clinical
+Practice
+© GCP Clinical Studies Ltd
+OBJECTIVES
+Definition of Good Clinical Practice 
+The aim
+History development of GCP
+International Conference on Harmonization (ICH)
+13 basic principals of ICH-GCP
+Regulatory Authorities requirements regarding GCP 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Definition
+Harmonized Tripartite Guideline for Good Clinical Practice (ICH-GCP, E6): 
+Good Clinical Practice (GCP) is an international guideline ethical and scientific 
+quality standard for designing, conducting, recording and reporting trials that 
+involve the participation of human subjects.
+ICH-GCP R1- 1996
+ICH-GCP R2- 2016
+ICH-GCP R3- 2024
+© GCP Clinical Studies Ltd
+The Aim of GCP
+To assure that the rights, safety and well-being of trial 
+subjects are protected.
+To ensure data collected are accurate, valid and reliable.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+THE HISTORY OF 
+GOOD CLINICAL PRACTICE 
+(GCP) 
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+אל הקתעהל
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+אל הקתעהל
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+אל הקתעהל
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+The History of GCP
+1964- DECLARATION OF HELSINKI.
+WORLD MEDICAL ASSOCIATION DECLARATION OF HELSINKI
+Ethical Principles for Medical Research Involving Human Subjects
+
+Protocol reviewed and approved by independent committee.
+
+Physician obliged to preserve accuracy of data in publication.
+
+Informed consent.
+
+Interest of science never takes precedence over subject’s well-being
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+אל הקתעהל
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+International
+Conference on
+Harmonization
+© GCP Clinical Studies Ltd
+The History of GCP
+ICH Born
+April 1990 Brussels meeting European Federation of Pharmaceutical Industries   
+Association (EFPIA).
+Representatives of regulatory agencies and industry form EU, Japan, and USA.
+International Council for Harmonization of Technical requirements for
+Pharmaceuticals for human use.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ICH Goals
+To harmonise the requirements for product approval.
+To reduce duplicative testing of drugs so making the 
+most efficient use of human, animal and material 
+resources.
+© GCP Clinical Studies Ltd
+ICH documents categories
+Quality
+Safety
+Efficacy
+Multidisciplinary
+© GCP Clinical Studies Ltd
+אל הקתעהל
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+E1: Exposure
+E2: Clinical Safety
+E3: Safety Reports
+E4: Dose Response
+E5: Ethnic Factors
+E6: GCP
+E7: Special Trial Populations
+E8: General Considerations- Trial Design
+E9: Statistical Principles for Clinical Trials
+E10: Choice of Control Group
+E11: Pediatrics
+E12: Therapeutic Categories
+E14: Clinical evaluation of proarrythmic potential  for non-antiarrythmic drugs.
+E15: Pharmacogenomics definitions
+E16: Pharmagenomics-Context, structure & Format of qualification submissions
+E17: General principle on planning/designing Multi-Regional Clinical Trials
+E18: Genomics sampling and management of genomic data
+E19: Optimisation of Safety Data Collection
+E20:  Adaptive Clinical Trials
+© GCP Clinical Studies Ltd
+ICH documents categories
+© GCP Clinical Studies Ltd
+2024
+ 
+    
+ICH GCP R3
+2024
+2016
+ 
+    
+ICH GCP R2
+אל הקתעהל
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Published on 1996 (last version 2024).
+Became an international standard.
+Recognises the principles of the Declaration of Helsinki.
+Standardises terminology, informed consent requirements, 
+essential documents, etc.
+Defines responsibilities;
+
+IRB / IEC
+
+Investigator
+
+Sponsor
+ICH-GCP (E6)
+© GCP Clinical Studies Ltd
+ מבנה
+המסמך 
+וסדר 
+הפרקים 
+והנספחים
+ שימוש
+במערכות 
+איכות 
+QMS
+ 
+Patient
+centricity
+DCT
+ התחשבות
+בצרכי המטופל 
+בשלבי התכנון 
+והביצוע של 
+הניסוי
+RISK 
+BASED -
+ 
+APPROACH
+Data Quailty
+&  
+integrity 
+ מערכות ניהול
+מידע לאבטחת 
+איכות ושלמות 
+הנתונים
+Electronic 
+systems & 
+data
+© GCP Clinical Studies Ltd
+יותר גמישות
+ 
+בתכנון
+ 
+כולל שימוש 
+באביזרים לבישים
+, 
+טלמדיסין
+וכד 
+' 
+הסכמה מדעת 
+יותר פירוט על 
+התהליך  
+יותר דגש על  
+דרישות 
+הפיקוח מצד 
+יוזם הניסוי
+יותר  דגש על 
+דיווחי בטיחות  
+בזמן ובצורה 
+מדוייקת
+מה 
+השתנה
+?
+אל הקתעהל
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ICH-GCP (E6)R3
+© GCP Clinical Studies Ltd
+ICH-GCP (E6)R3- 11 principles
+© GCP Clinical Studies Ltd
+אל הקתעהל
+13
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+1.
+Clinical trials should be conducted in accordance with the ethical principles (Declaration of 
+Helsinki)  and are consistent with GCP and regulatory requirements. 
+2.
+Rights, safety, well-being of patients are the  most important considerations and should prevail over 
+interests of science and society.
+
+Before a trial is initiated, foreseeable risks  and inconveniences should be weighed against the  
+anticipated benefit. A trial should be initiate and continue only if the anticipated benefits justify the risks.
+
+The safety of  the participants should be reviewed periodically. 
+
+Trial design, scientific goal and purpose should be carefully considered to unnecessarily exclude 
+participants populations.
+
+A qualified physician or when appropriate dentist or other healthcare professionals (in accordance with 
+local regulatory requirements) should have the overall responsibility for the trial in the site.
+
+The confidentiality of information that could identify participants should be protected, in accordance with 
+applicable privacy and  data protection requirements .
+.
+ICH-GCP; 11 principles
+© GCP Clinical Studies Ltd
+2.
+Informed consent is an integral feature of the ethical conduct of the trial. 
+Clinical trial participation should be voluntary and based on a consent process 
+that ensures participants are well-informed.
+
+Freely given informed consent should be obtained from every participant prior to clinical trial 
+participation
+
+the information provided should be clear and understandable to the participant.
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+אל הקתעהל
+14
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+3. Clinical trials should be subject to an independent review by an institutional 
+review board / independent ethics committee
+
+A trial should always be conducted in compliance with the protocol that receives prior IRB 
+approval.
+
+Periodic review of the trial by the IRB should also be conducted in accordance with applicable 
+regulatory requirements.
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+4. Clinical trials should be scientifically sound for their intended purpose and 
+based on robust and current scientific knowledge and approaches
+
+the Available non-clinical and clinical information on an investigational product  
+should  be adequate to support  the proposed  clinical trial.
+
+Trials should be scientifically sound and reflect the state of knowledge and 
+experience with the investigational product described in a clear, detailed protocol.
+
+There should be periodic review of current scientific knowledge to determine 
+whether modifications to the trial are needed.
+ICH-GCP; 11 principles
+אל הקתעהל
+15
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+5.
+Clinical trials should be designed and conducted by qualified individuals
+
+individuals with different expertise and training may be needed across all phases of clinical trial 
+such as physicians, scientists, ethicists, technology experts, trial coordinators, monitors, auditors 
+and statisticians.
+
+Each Individual involved in conducting trials should be qualified by education, training, experience 
+to perform study tasks.
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+6.
+Quality should built into scientific and operational design and conduct of 
+clinical trials.
+
+quality should fit to purpose. The amount of information generated should support 
+good decision making.
+
+factors critical to quality should be identified. Quality by design should focus on all 
+trial components.
+
+strategies to avoid serious non-compliance with protocol, GCP and regulatory 
+requirements should be implemented
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+אל הקתעהל
+16
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+7. Clinical trial processes, measures and approaches should be implemented in a 
+way that is proportionate to the risks to participants and to the importance of 
+the data collected.
+
+risk  management and assessment should be done . 
+
+Risks include risks to right, safety and well being as well as risks to the reliability of 
+trial results.
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+8. Clinical trial should be described in a clear , concise and operationally feasible 
+protocol 
+
+a well designed protocol is fundamental to the protection of participants and for the 
+generation of reliable results.
+
+the scientific objectives of any trial should be clear and explicitly stated in the 
+protocol
+
+plans or the documents associated with protocol execution should be clear and 
+concise (e.g monitoring plan, statistical plan)
+l
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+אל הקתעהל
+17
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+9. Clinical trails should generate reliable results.
+
+All trial information should be recorded/handled/stored in a way that allows its 
+accurate reporting, interpretation, verification.
+
+The computerised systems used in the trial should fit to purpose.
+
+Clinical trials records should be retained by sponsors and investigators and should 
+be available to RA. 
+
+for transparency Clinical trials in drug developments should be registered in publicly 
+accessible and recognised database
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+10. Role and responsibilities in clinical trials should be clear and documented 
+appropriately.
+
+The sponsor may transfer all or some study activities, but overall responsibility retain at 
+sponsor .
+
+The investigator  may delegate all or some study activities, but overall responsibility 
+retain at investigator.
+
+Agreements should be in writing and  define the role and responsibilities of all parties.
+
+the spnosor and investigator should maintain appropriate oversight respectively.
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+אל הקתעהל
+18
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+11. Investigational products used in a clinical trial should be manufactured in 
+accordance with applicable GMP standards and be stored, shipped, 
+handled and disposed in accordance with product specifications and trial 
+protocol.
+
+Measures should be in place to ensure that the investigational product provided to 
+participants retains its quality.
+
+The investigational product should be used in accordance with the protocol and other 
+relevant trial documents.
+© GCP Clinical Studies Ltd
+ICH-GCP; 11 principles
+בישראל
+:
+© GCP Clinical Studies Ltd
+אל הקתעהל
+19
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+בישראל
+:
+2020
+ נוהל14
+ 
+ פרק1
+ 
+ נוהל14
+ 
+ פרק2
+ 
+ נוהל14
+ 
+ פרק3
+ 
+© GCP Clinical Studies Ltd
+2024
+ נוהל14
+ 
+ פרק4
+Regulatory Authorities 
+requirements regarding GCP 
+US Code of Federal Regulations (CFR) Title 21,
+Parts 11, 50, 54, 56, 312, 314, & 812.
+The European Union Clinical Trials Directive (CTD).
+ICH-GCP Guidelines - E6 & MOH guidelines. 
+and…
+SOPs- Standard Operating Procedures. 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+20
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+
+
+=== 3_Ministry of Health.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ נוהל משרד הבריאות לביצוע ניסויים
+רפואיים בבני אדם
+עיקרי נוהל 14
+ 
+ פרק1
+ 
+ ,
+3
+ ו-
+4
+© GCP Clinical Studies Ltd
+דרישות כלליות
+הסדרת אופן הגשת המידע הנדרש לצורך אישור מחקרים רפואיים בבני אדם
+. 
+הגדרת התוכן הנדרש בעת ההגשה הראשונה וכן עדכונו עם התקדמות המחקר
+. 
+ התייחסות לכל סוגי המחקרים הרפואיים בבני אדם בהתאם לתקנות בריאות העם
+)
+ניסויים רפואיים בבני-אדם
+,  (
+תשמ
+"א-
+1980
+ )להלן התקנות
+(.
+עמידה בדרישות הנ
+,  ל"
+מטרתה
+ 
+להגן על המשתתפים בניסוי ולהבטיח שזכויותיהם
+, 
+בטיחותם ורווחתם של המשתתפים 
+במחקר תשמרנה וכן שהמידע שייאסף במחקר יהיה אמין ומדויק
+. 
+הנוהל מפורסם באתר משרד הבריאות
+: www.health.gov.il/clinicaltrials
+  
+© GCP Clinical Studies Ltd
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+כל ניסוי יתוכנן
+, 
+יאושר
+, 
+יבוצע
+, 
+יתועד וידווח תוך הקפדה 
+יתרה על
+:
+עקרונות הצהרת הלסינקי
+. 
+ תקנות בריאות העם
+)
+ניסויים בבני-אדם
+( 
+התשמ
+"א-
+1980
+ ,על תוספותיהן ותיקוניהן עד תשנ
+"ט-
+1999
+ .
+ חוק מידע גנטי
+התשס
+"א-
+2000
+ .
+הוראות נוהל זה של משרד הבריאות לניסויים רפואיים בבני-אדם
+.
+הוראות הנוהל ההרמוני הבינלאומי
+, 
+העדכני
+, 
+להליכים קליניים נאותים
+:
+Harmonized Tripartite Guideline for Good Clinical Practice (ICH-GCP, E6)      
+© GCP Clinical Studies Ltd
+כל ניסוי יתוכנן
+, 
+יאושר
+, 
+יבוצע
+, 
+יתועד וידווח תוך הקפדה 
+יתרה על- המשך
+הוראות התקן העדכני למחקרים רפואיים בבני-אדם באביזרים ומכשור רפואי
+.
+ISO 14155-1, 14155-2 Clinical Investigation of Medical Devices for Human Subjects
+.
+חוזרים של משרד הבריאות המתפרסמים מעת לעת
+. 
+במקרה של אי-התאמה בין נהלים או הנחיות
+, 
+הנוהל הקובע הוא נוהל משרד הבריאות
+. 
+בנושאים בהם אין הנחיות של משרד הבריאות
+, 
+ההנחיות תהיינה על פי הנהלים הבינלאומיים
+. 
+ ©GCP Clinical Studies Ltd
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+נושאי ההרצאה
+סוגי הוועדות
+. 
+הגדרת ניסוי רפואי בישראל
+. 
+הגדרת מוצר מחקר
+. 
+סוגי הניסויים- חלוקה לקבוצות
+. 
+תהליך אישור ניסוי
+/ 
+מחקר בישראל 
+)
+מיוחד ולא מיוחד
+(. 
+השלבים בהגשת בקשה חדשה לניסוי
+. 
+שלבים במהלך הניסוי
+. 
+ ©GCP Clinical Studies Ltd
+סוגי הוועדות בישראל
+© GCP Clinical Studies Ltd
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+סוגי הוועדות בישראל
+ וועדות במוסדות הרפואיים
+:
+ועדת הלסינקי של בית חולים או מוסד רפואי
+. 
+תת-ועדת הלסינקי
+. 
+ וועדות מייעצות לניסויים רפואיים בבני-אדם בנושאים הבאים
+:
+תכשירים
+.
+
+ אביזרים ומכשור רפואי
+(.  ר" אמ )
+תאים ורקמות
+. 
+ועדה ארצית לניסויים רב מרכזיים שאינם מיוחדים
+. 
+וועדה עליונה לניסויים רפואיים בבני-אדם שנותנת חוות דעתה ב
+:
+ניסויים ומחקרים הנוגעים למערך הגנטי של האדם
+.
+טיפול גני
+. 
+הפריית אישה שלא כדרך הטבע
+. 
+עניינים אחרים כמו מחקרים שיזומים ע
+"
+י משרד הבריאות
+, 
+נושאים אתיים
+. 
+ ©GCP Clinical Studies Ltd
+ניסוי רפואי
+/ 
+מחקר רפואי
+/ 
+ניסוי קליני-
+כמוגדר בתקנות ובהצהרת הלסינקי
+. 
+מטרותיו של מחקר רפואי בבני אדם הן לשפר טיפול
+, 
+אבחון מניעה של מחלות ולתרום להבנת האטיולוגיה 
+והפתוגנזה
+ 
+של מחלות או מצבים רפואיים
+:
+.1
+ עשיית שימוש במוצר מחקר
+בניגוד לאישור
+ 
+שניתן לאותו שימוש לפי חיקוק
+, 
+או כאשר 
+השימוש האמור אינו מקובל בישראל
+ 
+לצרכים שמבקשים 
+לייעדו להם
+, 
+או 
+שטרם נוסה בישראל
+ 
+ויש בו או שמייעדים אותו להשפיע על בריאותו
+, 
+גופו או נפשו של האדם או של עובר
+, 
+או חלק מהם
+, 
+לרבות המערך הגנטי
+.
+.2
+ עשיית כל הליך
+, 
+פעולה או בדיקה בבן אדם
+, 
+שאינם מקובלים
+. 
+שאינם נהוגים בפרקטיקה הרפואית והמקצועית
+.
+מהו ניסוי רפואי בבני-אדם
+?
+ ©GCP Clinical Studies Ltd
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ 
+ תכשיר
+)
+או אינבו- פלסבו
+(
+ציוד רפואי
+/ 
+ר" אמ
+מוצר רפואי המכיל תאים סומטיים ממקור הומני
+מוצר רפואי המכיל רקמות מהונדסות
+ מוצר רפואי לטיפול גני
+)
+מוצר רפואי לטיפול גני- 
+ תכשיר ביולוגי המכיל חומצת גרעין
+רקומביננטית
+ 
+ומיועד לשם בקרה
+, 
+תיקון
+, 
+החלפה
+, 
+הוספה או הסרה של רצף גנטי
+. )
+כולל וירוסים 
+אונקוליטיים
+ 
+ולא כולל חיסונים למחלות זיהומיות
+(.
+תכשיר קוסמטי
+, 
+תוסף תזונה
+, 
+תכשיר הומאופתי
+, 
+צמח מרפא הנבדק או המשמש כמוצר ייחוס בניסוי רפואי בבני אדם
+. 
+ 
+ מוצר המאושר לשיווק כאשר נעשה בו שימוש באופן שונה מן השימוש הרשום או כאשר השימוש הוא להתוויה בלתי
+רשומה
+, 
+או כאשר השימוש נועד כדי לרכוש מידע נוסף על השימוש הרשום או כאשר השימוש בו נועד אך ורק לצורך 
+מחקר
+.
+הגדרת מוצר מחקר
+ ©GCP Clinical Studies Ltd
+ ניסוי רפואי בתכשיר
+)
+כולל 
+פרמקוגנטי
+(.
+ ניסוי רפואי במכשיר או אביזר רפואי
+(. ר" אמ )
+ניסוי רפואי בתרפיות מתקדמות- תכשיר ביולוגי המורכב מגנים או תאים כמו
+: 
+תאים 
+סומטים
+ 
+חיים ממקור אנושי
+, 
+תכשיר רפואי לטיפול גני
+, 
+מוצר רפואי המכיל רקמה מהונדסת
+, 
+מוצר משולב עם תרפיה מתקדמת 
+ואמ
+"ר.
+ניסוי
+/ 
+מחקר גנטי
+.
+סוגי הניסויים על פי הנוהל
+ ©GCP Clinical Studies Ltd
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ניסוי רפואי ללא מוצר מחקר
+:
+פרוצדורה שאינה נהוגה בפרקטיקה וללא מוצר מחקר
+דמים
+דגימות
+ניסוי לא התערבותי
+:
+מחקר בו
+, 
+במהלך טיפול הניתן למשתתף בניסוי
+, 
+נאספים נתונים על הטיפול ותוצאותיו
+, 
+ובלבד שהטיפול מקובל למצבו של 
+המשתתף בניסוי
+, 
+וניתן לו לפי החלטת מטפל בלא שתוכנית הניסוי משנה את הטיפול המקובל או את המעקב אחר מצבו 
+של המטופל
+,
+או משפיעה עליהם
+.
+סוגי הניסויים על פי הנוהל- המשך
+ ©GCP Clinical Studies Ltd
+מחקר בשאלונים ובנתונים קיימים
+:
+
+ מחקר פרוספקטיבי שבו נאסף מידע בריאות מבני אדם תוך יצירת קשר עמם
+)
+ראיון
+, 
+שאלון
+(.
+מחקר רטרוספקטיבי במידע בריאות
+, 
+בו נאסף מידע מרשומות רפואיות של מטופלים  ללא עירוב המטופלים
+.
+ובלבד שהמחקר אינו כרוך בביצוע הליך
+, 
+פעולה או בדיקה גופנית
+, 
+או במתן תרופה
+, 
+קרינה
+, 
+חומר כימי
+, 
+ביולוגי
+, 
+רדיולוגי או פרמקולוגי למשתתף
+.
+סוגי הניסויים על פי הנוהל- המשך
+ ©GCP Clinical Studies Ltd
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+סיווג הניסויים על פי הנוהל
+ ניסוי רפואי
+לא-מיוחד
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+סיווג ניסוי רפואי מיוחד- 
+אינו נדרש לאישור נוסף של משרד הבריאות
+. 
+
+ בתהליך האישור
+ועדת הלסינקי המוסדית מאשרת את הניסוי 
+)
+מנפיקה טופס 6
+ /
+16
+ (
+ ולאחריו יונפק אישור מנהל המוסד
+הרפואי 
+)
+טופס 7
+ /
+17
+.(
+ סיווג הניסויים על פי הנוהל- המשך ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ ניסויים בתכשירים
+)
+למעט תרפיות מתקדמות
+(:
+
+ ניסוי העושה שימוש בתכשיר
+רשום 
+או בתכשיר 
+המותר
+ 
+לשיווק במדינה מוכרת
+, 
+להתוויה הרשומה 
+ובמינון המקובל
+, 
+ולרבות 
+ניסוי כאמור
+, 
+במשתתפים העלולים להיות חשופים ללחץ או ניצול ובלבד שההתוויה הרשומה או ההיתר לשיווק מתייחסים 
+במפורש לאותו סוג אוכלוסייה
+.
+
+ ניסוי רפואי
+שמטרתו 
+בדיקת יעילות
+ 
+ובתנאי שנתקיימו כל אלה
+:
+ניסויים קודמים לבדיקת בטיחות התכשיר
+, 
+שנערכו במדינה מוכרת
+, 
+הסתיימו בהצלחה ותוצאותיהם מדווחות בפרוטוקול הניסוי או בנספחיו
+.
+הניסוי מתייחס להתוויה
+, 
+לצורת מתן ולמינון שאליהם התייחסו הניסויים הקודמים
+.
+הניסוי לא יכלול משתתפים העלולים להיות חשופים ללחץ או ניצול
+ 
+למעט 
+אם הניסויים הקודמים נערכו במשתתפים אלה
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+ ניסויים בתכשירים
+)
+למעט תרפיות מתקדמות
+(:
+ניסוי המתבצע בכמה מרכזים רפואיים בארץ
+, 
+שאושר או נמצא בבחינה על ידי המנהל הכללי במרכז רפואי אחד
+, 
+ובלבד 
+שפרוטוקול הניסוי ונוסח טופס ההסכמה מדעת זהים לאלו שכבר אושרו
+.
+הבהרה
+: 
+כאשר הניסוי נמצא בבחינה במשרד הבריאות
+, 
+יסווג המחקר במרכז הרפואי כ
+"
+מיוחד - ממתין לאישור משרד הבריאות
+".
+ניסוי רפואי של זמינות ביולוגית השוואתית בתכשיר גנרי כנגד תכשיר רשום או מותר לשיווק במדינה מוכרת
+. 
+ניסוי העושה שימוש במוצרי תאים ורקמות פשוטים
+.
+ניסוי העושה שימוש במוצר מחקר מסוג מזון
+, 
+תוסף תזונה
+, 
+תכשיר הומאופתי
+, 
+צמח מרפא או תכשיר קוסמטי המותר לשיווק 
+במדינה מוכרת ו
+/
+או בישראל
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ניסויים בתרפיות מתקדמות
+:
+ניסוי העושה שימוש במוצר מסוג תרפיה מתקדמת
+, 
+הרשום או המותר לשיווק במדינה מוכרת ו
+/
+או בישראל
+, 
+להתוויה הרשומה 
+ובמינון המקובל
+.
+
+ כולל במשתתפים העלולים להיות חשופים ללחץ או ניצול ובלבד שההתוויה הרשומה או ההיתר לשיווק מתייחסים במפורש
+לאותו סוג אוכלוסייה
+.
+ ניסויים גנטיים
+ופרמקוגנטיים
+:
+
+ מוסדות שקיבלו האצלה מהוועדה העליונה- 
+ ניסוי
+פרמקוגנטי
+ 
+בבגירים כשירים
+.
+
+ ניסוי גנטי שמטרתו לבדוק מחלות
+מונוגניות
+ 
+משפחתיות
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+ אביזרים ומכשירים רפואיים
+:(ר" אמ )
+
+ ניסוי העושה שימוש בציוד רפואי
+/ 
+ ר" אמ
+מוכר
+, 
+לפי 
+ההתוויה המקובלת 
+ובאותן המגבלות ובלבד שהטיפול והמעקב אחר 
+המשתתף בניסוי אינם שונים מהמקובל ביחס למטופל במצבו
+. 
+כולל במשתתפים העלולים להיות חשופים ללחץ או ניצול 
+בתנאי
+ 
+ שההתוויה
+הרשומה 
+או ההיתר לשיווק 
+מתייחסים במפורש 
+לאותו סוג אוכלוסייה
+.
+ניסוי רפואי שמטרתו בדיקת יעילות ובתנאי שנתקיימו כל אלה
+:
+o
+ ניסויים קודמים לבטיחות
+האמ
+"ר 
+נערכו בישראל
+/ 
+מדינה מוכרת הסתיימו בהצלחה ותוצאותיהם מדווחות בפרוטוקול או בנספחיו
+.
+oהניסוי מתייחס לצורת השימוש כמו בניסויים הקודמים
+.
+oהניסוי לא יכלול משתתפים העלולים להיות חשופים ללחץ או ניצול
+, 
+למעט אם הניסויים הקודמים נערכו במשתתפים אלה
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אביזרים ומכשירים רפואיים
+:(ר" אמ )
+ניסוי המתבצע בכמה מרכזים רפואיים בארץ
+, 
+שאושר או נמצא בבחינה על ידי המנהל הכללי במרכז רפואי אחד
+, 
+ובלבד 
+שפרוטוקול הניסוי ונוסח טופס ההסכמה מדעת זהים לאלו שכבר אושרו
+.
+הבהרה
+: 
+כאשר הניסוי נמצא בבחינה במשרד הבריאות
+, 
+יסווג המחקר במרכז הרפואי כ
+"
+מיוחד - ממתין לאישור משרד הבריאות
+".
+איסוף נתונים שאינם חלק מהטיפול או המעקב הרפואי השגרתי
+, 
+תוך שימוש בציוד רפואי מוכר
+, 
+ושאינו חודרני
+.
+oלדוגמה שקילה
+; EEG ,ECG
+ ,תרמוגרפיה
+, 
+זיהוי רדיואקטיביות הקיימת באופן טבעי
+, 
+אקוגרפיה דיאגנוסטית
+,ERG 
+ ,אולטרהסאונד
+. 
+למעט 
+איסוף נתונים שיש בו חשיפה לגורם מסכן לדוגמה קרינה מייננת
+, 
+חומרי ניגוד רדיואקטיביים וכד
+.  '
+o
+ סעיף זה אינו כולל בדיקתMRI בילדים
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+ניסויים ללא מוצר מחקר
+: )
+ללא דגימות גנטיות
+(:
+ניסוי לא התערבותי
+.
+מחקר המתבצע על נתונים קיימים
+, 
+מסמכים
+, 
+הקלטות
+, 
+רישומים
+, 
+צילומים
+.
+
+ לקיחת דם מבגירים
+)
+לא כולל נשים בהריון
+( 
+בכמות כוללת שאינה עולה על 450
+ ,  ק" סמ
+בתקופה של שמונה שבועות רצופים ובתדירות שאינה עולה על פעמיים בשבוע
+.
+
+ לקיחת דם מילדים
+בכמות שאינה עולה על 8.0
+ "ק/ק" סמ
+ג משקל גוף
+, 
+בלקיחה אחת וכן לקיחת דם מילדים בכמות כוללת שאינה עולה על 4.2
+ "ק/ק" סמ
+ג משקל 
+גוף בתקופה של ארבעה שבועות רצופים
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ניסויים ללא מוצר מחקר
+: )
+ללא דגימות גנטיות
+( - המשך
+:
+לקיחת נוזלי גוף
+, 
+הפרשות או רקמות מתות בדרך המקובלת
+.
+
+ הקלטות קול
+, 
+תרגול  גופני מתון המותאם לאוכלוסיית המשתתפים
+. 
+מחקר המתבצע על דגימות קיימות שנלקחו למטרות רפואיות או למטרות מחקר עתידי
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+מחקרים בנתונים קיימים ושאלונים
+:
+מחקר רטרוספקטיבי בנתונים קיימים בו נאסף מידע מרשומות רפואיות ללא עירוב המטופלים
+.
+מחקר שאלונים בו נאסף מידע מבני אדם תוך אינטראקציה עמם
+. 
+המידע מתייחס באופן ישיר למצבו הבריאותי
+, 
+הגופני או הנפשי של המשתתף
+/ 
+המטופל או לטיפול הרפואי בו
+.
+ניסויים רפואיים מיוחדים
+;
+תנאים ונימוקים לסיווג
+ ניסוי רפואי
+מיוחד
+ ©GCP Clinical Studies Ltd
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+סיווג ניסוי רפואי שאינו מיוחד- 
+
+ כל
+ניסוי שאינו מופיע  ב
+רשימת התנאים והנימוקים שעל פיהם ניתן לסווג את האישור שניתן כ
+"
+מיוחד
+) " 
+נוהל 14
+ 
+ פרק1
+(
+דורש את אישור משרד הבריאות
+.
+ניסויים הכרוכים בקנאביס רפואי
+.
+
+ בתהליך האישור ועדת הלסינקי המוסדית מאשרת את הניסוי הרפואי
+)
+טופס 6
+(
+ ,
+ מעבירה לאישור משרד הבריאות
+)
+טופס 8
+ (
+ ולאחריו יונפק אישור מנהל המוסד הרפואי
+)
+טופס 7
+.(
+בכל מקרה
+, 
+החוקר רשאי להתחיל בניסוי הרפואי רק 
+לאחר
+ 
+קבלת אישור סופי של מנהל בית החולים 
+)
+ טופס7
+ 
+ לניסוי רפואי או טופס17
+ למחקר בנתונים קיימים או שאלונים
+(.
+סיווג הניסויים על פי הנוהל- המשך ניסוי רפואי
+לא-מיוחד
+ ©GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+13
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ טיפול בבקשות
+ניסויים מיוחדים
+במוסד הרפואי
+© GCP Clinical Studies Ltd
+ טיפול בבקשות
+ניסויים לא-
+מיוחדים
+ בתהליך של
+הגשה מקבילה
+© GCP Clinical Studies Ltd
+14
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ חבילות ההגשה לניסוי
+)
+דרך תוכנת מטרות
+(
+חבילה א
+' - 
+ לניסוי בתכשיר
+)
+כולל 
+פרמקוגנטי
+(
+חבילה ב
+' - 
+ לניסוי באביזר מכשיר רפואי
+(ר" אמ )
+חבילה ג
+' -
+  לניסוי בתרפיה מתקדמת
+חבילה ד
+' - לניסוי גנטי
+חבילה ה
+' - לניסוי ללא מוצר
+חבילה ו
+' - למחקר בנתונים קיימים ושאלונים
+ ©GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+15
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+בחירת טופסי הגשה לוועדת הלסינקי
+© GCP Clinical Studies Ltd
+)
+ פירוט בהתאם לסוג הניסוי בנוהל14
+ 
+ פרק3
+  
+ סעיף4.2
+ וב-
+ICH-GCP
+ ,
+ פרק6
+:(
+ניסוי רפואי בתכשיר
+ ניסוי רפואי
+באמ
+"ר
+ניסוי רפואי בתרפיות מתקדמות
+ניסוי רפואי ללא מוצר מחקר
+מחקר רפואי בנתונים קיימים ושאלונים
+פרוטוקול הניסוי
+© GCP Clinical Studies Ltd
+16
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+)
+ פירוט בהתאם לסוג הניסוי בנוהל14
+ 
+ פרק3
+  
+ סעיף4.3
+ וב-
+ICH-GCP
+ ,
+ פרק7
+:(
+עבור תכשיר רשום בישראל
+/
+מדינה מוכרת יש להגיש עלון לרופא
+, 
+או
+Summary of Medicinal Product
+ עבור ציוד רפואי מוכר
+)
+בישראל 
+/
+מדינה מוכרת
+( 
+ומתייחס להתוויה הרשומה
+, 
+יש להגיש מסמכי רישום מהרשויות המתאימות
+.
+חוברת לחוקר
+© GCP Clinical Studies Ltd
+השלבים בתהליך אישור בקשה חדשה לניסוי רפואי
+ *
+ שלבים7
+-
+3
+ יידרשו בהתאם לסוג הניסוי וסיווגו
+© GCP Clinical Studies Ltd
+17
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ שלבים4
+ ,
+5
+ ,
+6
+ - חוזה
+, 
+ביטוח והתקשרות מסחרית
+התקשרויות עם גופים מסחריים
+; 
+הכללים להתקשרויות בעלות אופי מסחרי מפורטים בחוזר המנהל הכללי מס
+' 13/2018
+.
+חוזה
+; 
+ניתן להשתמש בטיוטת חוזה בין המרכז הרפואי והיזם כפי שפורסם באתר משרד הבריאות
+.
+ביטוח
+;
+חברה מסחרית
+, 
+המתקשרת עם מוסד רפואי ו
+/
+או חוקר לביצוע ניסוי קליני
+, 
+תדאג לביטוח על פי דיני מדינת ישראל מפני 
+תביעות שיוגשו על-ידי המשתתפים בניסוי הקליני ו
+/
+או תביעות צד ג
+ – ' 
+בכל קשר עם הניסוי הקליני
+, 
+בין בתקופת ביצוע הניסוי 
+ובין לאחריו
+. 
+הביטוח יורחב לכלול את האחריות החוקית של המוסד הרפואי ו
+/
+או הצוות הרפואי ו
+/
+או החוקר 
+)
+להלן
+: "
+עורכי הניסוי
+"( 
+הנובעים 
+מהמעורבות שלהם בעריכת הניסוי
+, 
+בכפוף לחריג בגין נזקים הנובעים ממעשים ו
+/
+או מחדלים שבוצעו על-
+ ידי הצוות הרפואי של
+המוסד הרפואי עקב חריגה מפרוטוקול הניסוי הקליני
+, 
+לרבות ביצוע רשלני
+, 
+חוסר זהירות או טעות שמקורם בביצוע פרוטוקול 
+הניסוי הקליני על-ידי הצוות הרפואי
+.
+ ©GCP Clinical Studies Ltd
+ שלבים4
+ ,
+5
+ ,
+6
+ - חוזה
+, 
+ביטוח והתקשרות מסחרית- המשך
+ 
+ ביטוח
+– 
+המשך
+:
+
+ הכיסוי יהיה על בסיס האירוע ובמקרה של פוליסה על בסיס הגשת התביעה יצוין במפורש כי הכיסוי כפוף גם לחוק
+ההתיישנות של מדינת ישראל
+. 
+החברה המסחרית תמציא אישור ביטוחי למוסד הרפואי
+.
+גבול האחריות לא יפחת מ-
+3,000,000
+ 
+ $
+)שלושה מיליון
+( 
+דולר ארה
+"ב.
+ניסויים ביוזמת חוקר
+, 
+החוקר יקבל את הסכמת המוסד הרפואי לבטח 
+את צוות המחקר העוסק בניסוי הרפואי מפני תביעות 
+אשר עלולות להיות מוגשות על-ידי המשתתפים במחקר
+.
+ ©GCP Clinical Studies Ltd
+18
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ שלב7
+- רישום באתר המחקרים הקליניים
+my trial
+ של משרד הבריאות
+מידע בעברית
+. 
+ניסוייים פרוספקטיביים מבוקרים במטופלים בלבד
+, 
+הכוללים התערבות רפואית אחת או יותר ובוחנים השפעה על תוצאים של בריאות
+.
+ החוקר יפעל לרשום את הניסוי באתר לאחר קבלת טופס6
+ ויעביר את מספר הרישום לוועדת הלסינקי
+. 
+רק לאחר הרישום באתר משרד הבריאות רשאי מנהל המוסד לתת אישור סופי
+. 
+חוקר
+, 
+או יוזם
+, 
+שירצה לרשום גם במאגר של ה-
+NIH
+ 
+ רשאי לעשות זאת
+)
+לצורך פרסום
+(. 
+עדכון האתר באחריות החוקר
+, 
+או היוזם
+, 
+לפחות פעם ברבעון
+, 
+או לפי בקשה
+.
+בקשה לפטור מרישום תוגש לוועדת הלסינקי
+. 
+אם יינתן פטור
+, 
+זה יצוין בטופס 6
+ .
+© GCP Clinical Studies Ltd
+השלבים בתהליך אישור בקשה חדשה לניסוי רפואי
+ *
+ שלבים7
+-
+3
+ יידרשו בהתאם לסוג הניסוי וסיווגו© GCP Clinical Studies Ltd
+19
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+האישור הסופי לביצוע הניסוי
+ טופס7
+ לניסוי
+. 
+ טופס17
+ למחקר בנתונים קיימים ושאלונים
+.
+© GCP Clinical Studies Ltd
+אישור סופי לביצוע המחקר תקף בתנאים הבאים
+:
+ ביצוע
+הניסוי לפי עקרונות הלסינקי ודרישות הנהלים הבינלאומיים 
+)ICH-GCP
+.(
+מתן הסבר למשתתף והחתמתו על טופס הסכמה מדעת
+.
+אישור ועדת הלסינקי על כל שינוי פרוטוקול
+.
+דיווח לוועדת הלסינקי וליוזם על כל אירוע חריג
+רציני 
+)SAE
+ (ועל הפסקת ניסוי
+.
+הארכת תוקף הניסוי דו
+"
+ח והגשת התקדמות 3
+-חודשים לפני שפג תוקף האישור
+.
+הגשת דו
+"
+ח מסכם בסוף הניסוי
+. 
+בניסויים רפואיים חובה על החוקר הראשי להודיע לרופא המטפל בקהילה על השתתפות החולה בניסוי
+.
+איסור פרסום מידע על הניסוי למעט לצורך גיוס משתתפים או פרסום בעיתונות וכנסים מדעיים
+.
+ ©GCP Clinical Studies Ltd
+20
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ מה נדרש מיום קבלת האישור הסופי
+לביצוע הניסוי ועד תום הניסוי
+? 
+ ©GCP Clinical Studies Ltd
+שלבים במהלך הניסוי וסיומו
+© GCP Clinical Studies Ltd
+21
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+מעקב ופיקוח של הוועדה על ניסויים שאושרו
+הוועדה צריכה לקבל מהחוקר בקשות הארכה
+, 
+שינויים ודיווחים על ידי
+:
+בקשה לשינויים
+: 
+טופס 12
+ .
+ דיווח עלSEA
+ :
+ טופס13
+. 
+בכפוף לדיווחים שמקבלת הוועדה היא מנפיקה אישורי הארכה
+: 
+אישור הועדה להארכת מחקר
+: 
+טופס 6/  א16 .א
+אישור המנהל להארכת מחקר
+: 
+טופס 7/  א17.א
+אישור משרד הבריאות להארכת מחקר
+: 
+טופס 8) א
+אם נדרש
+(.
+© GCP Clinical Studies Ltd
+חבות דיווח במהלך המחקר
+דרישות מהחוקר
+:
+ דיווח
+על אירוע חריג חמור 
+(SAE)
+ 
+ באמצעות
+טופס 13
+. 
+ טופס הגשות שינויים ותיקונים לפרוטוקול  בניסוי רפואי בבני אדם
+)
+טופס 12
+.(
+ 
+ דווח ביניים שנתי
+ +בקשה להארכת תוקף הניסוי
+.
+דיווח על הפסקת ניסוי טרם זמנו
+.
+דיווח על סיום מחקר
+.
+© GCP Clinical Studies Ltd
+22
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ חבות דיווח במהלך המחקר- המשך
+דרישות מוועדת הלסינקי
+:
+להעביר למשרד הבריאות את דיווחי הביניים ודיווחים אודות סיום הניסויים
+. 
+ במקרה של הפסקת ניסוי- להודיע להנהלת המוסד ובית המרקחת
+. 
+© GCP Clinical Studies Ltd
+ חבות דיווח במהלך המחקר- המשך
+ דרישות מהיוזם בסיום
+/ 
+הפסקת הניסוי
+:
+להודיע לחוקר על סגירת הניסוי במרכזו
+. 
+במקרה של הפסקת ניסוי להודיע לכל הגופים המעורבים
+. 
+להבטיח איסוף
+/ 
+החזרה
+/ 
+השמדת מוצר המחקר
+. 
+ להעביר למשרד הבריאות את סיכום תוצאות הניסוי
+/ 
+עותק של מאמר אם פורסם
+. 
+© GCP Clinical Studies Ltd
+23
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ דווח ביניים
+ +בקשה להארכת תוקף הניסוי
+ פרטי הבקשה
+)
+תאריך הדיווח
+, 
+מספר הבקשה
+, 
+שם הניסוי
+, 
+מספר הבקשה 
+הממוחשבת במוסד ובמשרד הבריאות
+(.
+מספר ותאריך עדכני של פרוטוקול וטופס הסכמה מדעת
+.
+שם החוקר הראשי וחוקרי המשנה ומחלקה
+. 
+ תאריך אישור אחרון
+)
+טופס 7
+ 
+ (ותוקף האישור
+. 
+מספר המשתתפים שגויסו  עד כה  ביחס למספר החולים המתוכנן במרכז
+.
+מספר המשתתפים שהוצאו מהניסוי והסיבות לכך
+.
+מספר המשתתפים שהפסיקו  מרצונם השתתפותם והסיבות לכך
+.
+ ציון האירועים החריגים שנצפו
+)SUSAR/ USADE
+.(
+תוצאות ביניים
+. 
+ מועד משוער של סיום  גיוס וסיום ניסוי
+.
+הנימוק להארכת תוקף האישור
+.
+החוקר יגיש דו
+"
+ח לוועדת הלסינקי
+, 
+דיווח שנתי
+, 3
+-
+ חודשים לפני
+שפג תוקף האישור
+:
+ הוועדה תדון ותנפיק אישור הארכה
+)
+טופס 6(  'א
+שיועבר למנהל המוסד שינפיק אישור חדש 
+)
+טופס 7('א
+)
+אם נדרש אישור משרד הבריאות
+, 
+יונפק על גבי טופס 8
+ א'(
+ ©GCP Clinical Studies Ltd
+ דווח על הפסקת
+/ 
+סיום ניסוי רפואי
+ פרטי הבקשה
+)
+תאריך הדיווח
+, 
+מספר הבקשה הממוחשבת
+, 
+שם הניסוי
+(.
+מספר ותאריך עדכני של פרוטוקול וטופס הסכמה מדעת
+.
+שם החוקר הראשי וחוקרי המשנה ומחלקה
+. 
+ תאריך אישור אחרון
+)
+טופס 7
+ .(
+ מספר המשתתפים שגויסו לניסוי הרפואי בהשוואה למספר החולים המתוכנן
+במרכז
+.
+ מספר המשתתפים שעברו
+רנדומיזציה
+ 
+ונכנסו לניסוי
+. 
+מספר המשתתפים שהוצאו מהניסוי והסיבות לכך
+.
+מספר המשתתפים שהפסיקו מרצונם השתתפותם והסיבות לכך
+.
+ ציון האירועים החריגים שנצפו
+)SUSAR/ USADE
+ (
+ ותאריך הדיווח עליהם
+לוועדה
+.
+ תוצאות הניסוי עד כה
+)
+אם פורסמו
+(. 
+ תאריך סיום הניסוי
+)
+משתתף אחרון שגויס סיים את הניסוי
+(.
+תאריך וסיבה להפסקת הניסוי ותוכנית מעקב אחרי המטופלים
+..
+בנוסף
+, 
+בניסויים של יוזם-חוקר
+:
+פירוט משך ומקום שמירת המסמכים של הניסוי
+.
+דיווח על איסוף
+/ 
+השמדת כל מוצרי המחקר במרכז 
+)
+אם רלוונטי
+(. 
+ ©GCP Clinical Studies Ltd
+24
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+
+
+=== 4_Ethics Committees.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ETHICS COMMITTEES
+ו הו
+עדות
+ 
+האתיות
+, 
+ועדת
+ 
+הלסינקי
+מבנה
+, 
+תפקוד
+ 
+ואחריות
+I C H - G C P 
+ 
+An n e x  1פ ר ק
+ 1
+ ו נ וה ל
+ 
+מש ר ד
+ 
+ה ב ר י א ות
+ 
+מס
+' 1 4
+ 
+פ ר ק
+ 1
+© GCP Clinical Studies Ltd
+מטרות
+הכרת
+ 
+המונחים
+תפקיד
+ 
+ואחריות
+ו הו 
+עדה
+תאור
+ 
+מבנ
+ה 
+והרכב
+ הו
+ועדה
+תפקוד
+ הו
+ועדה
+ ©GCP Clinical Studies Ltd
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+הו
+ועדות
+האתיות
+I R B : Institutional Review Board (USA) An independent body constituted of medical, scientific, and non-scientific 
+members, whose responsibility is to ensure the protection of the rights, safety and well-being of human subjects 
+involved in a trial by, among other things, reviewing, approving, and providing continuing review of trial protocol 
+and amendments and of the methods and material to be used in obtaining and documenting informed consent of 
+the trial subjects.
+I E C : Independent Ethics Committee (generic ICH term, outside of the USA)
+An independent body (a review board or a committee, institutional, regional, national, or supranational), 
+constituted of medical professionals and non-medical members, whose responsibility it is to ensure the protection 
+of the rights, safety and well-being of human subjects involved in a trial and to provide public assurance of that 
+protection, by, among other things, reviewing and approving / providing favourable opinion on, the trial protocol, 
+the suitability of the investigator(s), facilities, and the methods and material to be used in obtaining and 
+documenting informed consent of the trial subjects.
+The legal status, composition, function, operations and regulatory requirements pertaining to Independent Ethics 
+Committees may differ among countries, but should allow the Independent Ethics Committee to act in agreement 
+with GCP as described in this guideline.
+© GCP Clinical Studies Ltd
+ הו
+ועד
+ה האתית בישראל
+מרכזית
+מוסדית
+אבל
+....
+לכל
+ 
+הוועדות
+ 
+אותו
+ 
+תפקיד-מהו
+?
+ועדת
+ 
+הלסינקי
+ 
+ועדה
+ 
+מוסדית
+  
+בלתי
+ 
+תלויה
+ 
+שהרכבה
+, 
+דרכי
+ 
+מינויה
+ 
+ומניינה
+ 
+החוקי
+ 
+מוגדר
+  ים
+בתקנות
+. 
+ ©GCP Clinical Studies Ltd
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+תפקיד
+ 
+ואחריות
+ 
+ועדת
+ 
+הלסינקי
+להבטיח
+  את 
+זכויותיהם
+, 
+בטיחותם
+ 
+ורווחתם
+  של 
+המשתתפים
+.
+לבחון
+ 
+ולאשר
+  את 
+הפרוטוקול
+ 
+וטופס
+ 
+ההסכמה
+.
+לנהל
+ 
+מעקב
+ 
+אחר
+ 
+הניסוי
+ 
+לרבות
+ 
+אישור
+ 
+שינויים
+ 
+ולפקח
+  על 
+הניסוי
+.
+תשומת
+  לב 
+מיוחדת
+ 
+צריכה
+ 
+להינתן
+ 
+לאוכלוסיות
+ 
+פגיעות
+, 
+העלולות
+ 
+להיות
+ 
+חשופות
+ 
+ללחץ
+  או 
+ניצול
+.
+ ©GCP Clinical Studies Ltd
+תפקיד
+ 
+ואחריות
+ 
+ועדת
+ 
+הלסינקי- המשך
+אוכלוסיות
+ 
+פגיעות
+, 
+העלולות
+ 
+להיות
+ 
+חשופות
+ 
+ללחץ
+  או 
+ניצול
+:
+אנשים
+ 
+שרצונם
+ 
+עלול
+ 
+להיות
+ 
+מוטה
+ 
+עקב
+ 
+יחסי
+ות מר 
+, 
+תלות
+  או 
+הפעלת
+ 
+לחץ
+  לא 
+הוגן
+, 
+לדוגמה
+: 
+נשים בהריון
+קטינים
+אנשים
+ 
+שאינם
+ 
+כשירים
+ 
+לתת
+ 
+הסכמה
+אנשים
+ 
+במשמורת
+ 
+חוקית
+חברים
+ 
+בארגון
+ 
+הירככי
+ 
+כגון
+,  ל" צה :
+ ,ס" שב
+מוסד
+ 
+אקדמי
+, 
+מוסד
+ 
+רפואי
+.
+חולים
+ 
+במחלות
+ 
+חשוכות
+ 
+מרפא
+מ
+טופלים
+ 
+במוסד
+ 
+סיעודי
+מטופלים
+ 
+במצבי
+ 
+חירום
+אנשים
+ 
+ללא
+ 
+הכנסה
+  או 
+ללא 
+מעמד
+ 
+אזרחי
+פליטים
+אוכלוסי
+ה מיוחדת 
+)
+תקנות בריאות העם
+(
+© GCP Clinical Studies Ltd
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+הרכב
+ הו
+ועדה
+;
+נוהל 14
+ 
+ פרק1
+חברי הוועדה יחדיו יהיו בעלי הכישורים והמומחיות לבחון ולהעריך את התקפות המדעית
+, 
+הרפואית והאתית 
+של הבקשות לניסויים רפואיים בבני אדם
+. 
+מנהל המוסד הממנה את חברי הוועדה במוסדו
+, 
+יוודא ייצוג מגדרי ומגזרי הולם בהתאם לנסיבות
+. 
+כתב המינוי ייכנס לתוקף רק לאחר בחינה ואישור משרד הבריאות
+.
+תוקף האישור שנתיים
+.
+ ©GCP Clinical Studies Ltd
+הרכב
+ הו
+ועדה
+ 
+המוסדית
+ )
+הלסינקי
+( 
+בבתי
+ 
+החולים
+ 
+בישראל
+שבעה
+ 
+חברים
+ 
+לפחות
+, 
+ובהם-
+.1נציג
+ 
+ציבור
+ 
+שהוא
+איש 
+  או  דת 
+משפטן
+.
+.2שלושה
+ 
+רופאים
+ 
+שהם
+ 
+מנהלי
+ 
+מחלקות
+  או 
+בעלי
+ 
+תואר
+ 
+פרופ
+' 
+חבר
+ 
+ואשר
+ 
+לפחות
+ 
+אחד
+ 
+מהם
+ 
+מומחה
+ 
+לרפואה
+ 
+פנימית
+. 
+אחד
+ 
+מהם
+ 
+יהיה
+ו הו ר" יו 
+עדה
+.
+.3רופא
+ 
+אחד
+ 
+נציג
+ 
+ההנהלה
+.
+.4רוקח
+ 
+בכיר
+.
+.5  ציג נ
+מומחה
+ 
+בעל
+ 
+תואר
+ PhD
+ ממקצועות
+ 
+הבריאות
+,  
+או מומחה בהיבטים אתיים או בבטיחות המוצר או הנדסה רפואית
+, 
+ביוסטטיסטיקה
+, 
+עבודה סוציאלית 
+.  ' וכו
+כמו כן
+, 
+יש למנות נציגים הנחוצים לאישור שימושים משניים במידע בריאות בהתאם 
+לצורך
+. 
+כל זאת
+, 
+לפי שיקולי הנהלת המוסד הרפואי ואופי המחקרים במוסד
+.
+ ©GCP Clinical Studies Ltd
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ פורום
+ועדת
+ 
+הלסינקי
+ 
+לאישור ניסויים
+פורום
+ 
+חוקי
+לאישור
+ 
+ניסוי
+ 
+חדש
+:
+חמישה
+ 
+לפחות
+ו , 
+בהם
+; 
+נציג
+ 
+ציבור
+, 
+רופא
+ 
+מומחה
+ 
+לרפואה
+ 
+פנימית
+ 
+ונציג
+ 
+ההנהלה
+.
+* 
+בדיונים
+  על 
+ניסוי
+ 
+בתכשיר
+ 
+נדרש
+  גם 
+רוקח
+.
+ תיעוד
+הרכב
+ו הו 
+עדה
+ 
+בכל
+ 
+ישיבה
+, 
+  כדי
+לאשר
+ 
+שהיה
+ 
+מניין
+ 
+חוקי
+!
+פורום
+ 
+חוקי
+ 
+להחלטות נוספות
+: 
+כל מוסד יקבע בנוהל העבודה את דרך הטיפול באישורים וההחלטות הנוספות 
+הניתנות ע
+"
+י הוועדה המוסדית 
+)
+כינוס ועדה במניין חוקי
+, 
+מניין מצומצם
+, 
+החלטת יו
+(. ר"
+ ©GCP Clinical Studies Ltd
+הרכב
+תת -ועדת
+ 
+הלסינקי
+ממונה
+ ר" יו  ידי  על 
+ועדת
+ 
+הלסינקי
+.
+תמנה חברים מתוך ועדת הלסינקי המוסדית בהרכב הבא
+:
+.1נציג
+ 
+הנהלה
+, 
+רופא
+.2נציג
+ 
+ציבור
+     3
+  .  ציג נ
+מומחה
+ 
+בעל
+ 
+תואר
+ PhD
+ ממקצועות
+ 
+הבריאות
+,  
+או מומחה בהיבטים אתיים או בבטיחות המוצר או הנדסה
+          
+רפואית
+, 
+ביוסטטיסטיקה
+, 
+עבודה סוציאלית 
+.  ' וכו
+כמו כן
+, 
+יש למנות נציגים הנחוצים לאישור שימושים משניים
+          
+במידע בריאות בהתאם לצורך
+. 
+כל זאת
+, 
+לפי שיקולי הנהלת המוסד הרפואי ואופי המחקרים במוסד
+.
+מינוי תת-ועדה אינו נדרש לאישור נוסף במשרד הבריאות
+ ©GCP Clinical Studies Ltd
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+סמכויות
+תת -ועדת
+ 
+הלסינקי
+לאשר
+:
+מחקרי
+ 
+איסוף
+ 
+מידע
+ 
+פרוספקטיבי
+ 
+  תוך
+אינטראקציה
+  לא 
+פיזית
+ )
+ראיונות
+, 
+שא
+לונים
+(.
+מחקרי
+ 
+איסוף
+ 
+מידע
+ 
+מרשומות
+ )
+רטרוספקטיבי
+( 
+ללא
+ 
+עירוב
+ 
+המטופלים
+.
+  תת
+ועדה
+ 
+תנפיק
+ 
+אישור
+ 
+עקרוני
+ )
+טופס
+ 16
+(
+מנהל
+ 
+המוסד
+ 
+ינפיק
+ 
+אישור
+ 
+סופי
+ )
+טופס
+ 17
+(
+© GCP Clinical Studies Ltd
+למי
+ 
+מותר
+ 
+להשתתף
+ 
+בישיבות
+ו הו 
+עדה
+?
+חברי
+ 
+ועדה
+  מן 
+המניין
+.
+חוקר
+ 
+שמגיש
+ 
+הצעה
+ 
+לפרוטוקול
+ 
+ונדרש
+ 
+להציג
+ 
+אותו
+.
+מומחים
+ 
+חיצוניים
+ 
+שזימנה
+ 
+הועדה
+ 
+לקבלת
+ 
+חווות
+ 
+דעת
+ 
+מקצועית
+.
+נוכחים נוספים
+, 
+כגון
+; 
+משקיף 
+)
+גם מנהל המוסד
+,  (
+רכז ועדה
+, 
+נציג גוף בקרה מוסדי וכדומה
+. 
+אישור 
+נוכחותם הינו באחריות הנהלת המוסד
+. 
+ ©GCP Clinical Studies Ltd
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+למי
+ 
+מותר
+ 
+להצביע
+?
+ זכות הצבעה תינתן רק
+לחברי ועדה 
+שהשתתפו בבחינת הבקשה ובדיון בה
+, 
+ושאין להם זיקה ליזמים 
+ולחוקרים
+. 
+על 
+ו הו
+עדה
+ 
+לנהל
+ 
+רישום
+מדוייק
+  של 
+הנוכחים
+ 
+בישיבות
+.
+ ©GCP Clinical Studies Ltd
+מסמכים
+שיש להגיש 
+לו
+ועדה
+ וה על
+ועדה
+ 
+לבחון
+ 
+ולאשר
+  את 
+המסמכים
+ 
+הבאים
+:
+ פרוטוקול
+ותיקונים 
+לפרוטוקול
+ טופסי הגשה
+)1-11
+(
+ חוברת מידע
+לחוקר 
+)IB
+(
+
+ טופס1
+נוסח
+ 
+לטופס
+ 
+הסכמה
+ 
+מדעת
+ )
+טופס
+ 2
+ 
+ או3
+(
+
+ התחייבות היזם
+)
+טופס 4
+(
+
+ מכתב לרופא המטפל
+)
+טופס 11
+(
+הנחיות
+ 
+כתובות
+ 
+למטופלים
+, 
+יש  אם
+מידע
+  על 
+תשלום
+ 
+ופיצויים
+ 
+למשתתפי
+ 
+המחקר
+קורות
+ 
+החיים
+  של 
+החוקר
+ 
+והכשרתם לביצוע הניסוי
+מידע אחר לפי דרישת הועדה
+ ©GCP Clinical Studies Ltd
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+נוהלי
+ 
+עבודה
+ 
+(Standard Operating Procedures, SOPs)
+ על
+ו הו
+עדה
+ 
+להתנהל
+ 
+  לפי
+תקנון
+ 
+ונהלי
+ 
+עבודה
+ 
+כתובים
+ 
+שצריכים
+ 
+לכלול
+  בין 
+היתר
+:
+מועדי ישיבות הועדה
+תהליכי
+ 
+העבודה
+ 
+השוטפת
+  
+במוסד 
+)
+אופן
+ 
+הגשה
+, 
+סוקרים
+, 
+טיפול
+ 
+בפניות 
+, 
+דיווחי
+ 
+בטיחות
+, 
+הארכות
+ 
+תוקף
+, 
+סיום
+, 
+בקשות
+ 
+מיוחדות
+ 
+וכד
+'(
+דיווחים
+ 
+לוועדה
+תשלומים
+ 
+לוועדה
+סודיות
+, 
+היעדר
+ 
+ניגוד
+ 
+עניינים
+ 
+וזיקה
+ ©GCP Clinical Studies Ltd
+שמירת
+ 
+מסמכים
+ על 
+ידי
+ הו
+ועדה
+כמה
+ 
+זמן
+?
+בניסוי
+ 
+רפואי
+:7 
+-שנים
+ 
+מתום
+ 
+הניסוי
+.
+  לא  אם
+גוייסו
+ 
+משתתפים
+: 
+שנה
+ 
+מיום
+ 
+סגירת
+ 
+הניסוי
+.
+במחקרי
+ 
+איסוף
+ 
+נתונים
+ 
+ושאלונים
+: 
+שנה
+ 
+מסיום
+ 
+המחקר
+.
+© GCP Clinical Studies Ltd
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ זכרו
+!
+רשויות
+ 
+התקינה
+, 
+עלולות
+ 
+לפסול
+ 
+נתונים
+ 
+המוגשים
+ 
+כבקשה
+ 
+לאישור
+ 
+שיווק
+ 
+מוצר
+, 
+במידה
+ו
+הנתונים
+ 
+נאספו
+ 
+ממחקרים
+ 
+שלא
+ 
+אושרו
+כדת
+ 
+וכדין
+  ידי  על 
+ועדות
+ 
+אתיות
+....
+עיתונות
+ 
+מקצועית
+  לא , 
+תפרסם 
+מחקרים
+ 
+וניסויים
+ 
+שלא
+ 
+קיבלו
+ 
+אישור
+  של 
+ועדה
+ 
+אתית
+.
+ ©GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+
+
+=== 5_Sponsor.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ יוזם המחקר
+(Sponsor)
+© GCP Clinical Studies Ltd
+יוזם המחקר
+ICH GCP R3 ANNEX 1 
+CHAPTER 3 : SPONSOR
+  
+© GCP Clinical Studies Ltd
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Definitions   
+Sponsor;
+An individual, company, institution, or organization which takes responsibility for 
+the initiation, management, and/or financing of a the trial. (ICH-GCP 1.53)
+Sponsor-Investigator;
+An individual who both initiates and conducts, alone or with others, a clinical trial. 
+The obligations of a sponsor-investigator include both those of a sponsor and 
+those of an investigator. (ICH-GCP 1.54)
+© GCP Clinical Studies Ltd
+הגדרות לפי הנוהל בישראל
+"יזם
+"- אדם לרבות תאגיד
+, 
+או מוסד האחראים לייזומו
+, 
+ניהולו ומימונו של הניסוי הרפואי
+.
+"יזם-חוקר
+"- אדם
+, 
+למעט תאגיד או מוסד שהוא גם יזם הניסוי הרפואי וגם החוקר הראשי
+, 
+בין אם 
+במימון עצמי ובין במימון צד ג
+' 
+וללא תלות במקור המימון
+. 
+החובות החלים עליו הם גם של החוקר 
+הראשי וגם של היזם
+.
+)
+נוהל ניסויים רפואיים בבני-אדם
+, 
+פרק הגדרות
+(.
+© GCP Clinical Studies Ltd
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+The Sponsor’s Responsibilities 
+Quality and risk  Management 
+Quality Assurance & Quality Control
+Allocation of activities
+Qualification and training -Medical Expertise
+Trial Design
+Resources
+Trial Management
+Selection of investigators
+Financing
+Agreements (with investigator/institution or 
+with service provider)
+Insurance / compensation to participants and 
+investigator
+Communication with Regulatory Authorities (RAs) 
+and ECs
+Investigational Product (IP)
+Safety
+Monitoring
+Data Safety Monitoring Board
+Data , records and reports
+Audit and Noncompliance
+oversight
+© GCP Clinical Studies Ltd
+Quality Management
+             
+The sponsor should:
+Implement a system to manage quality throughout all stages of the trial 
+process.
+Quality management includes the design of efficient clinical trial 
+protocols and tools and procedures for data collection and processing.
+The methods used to assure and control the quality of the trial should be 
+proportionate to the risks inherent in the trial and the importance of the 
+information collected.
+© GCP Clinical Studies Ltd
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+The sponsor should – cont.:
+Ensure that all aspects of the trial are operationally feasible.
+Protocols, case report forms, and other operational documents should be clear, 
+concise, and consistent.
+The quality management system should use a risk-based approach.
+Quality Management – cont.
+© GCP Clinical Studies Ltd
+Risk Evaluation
+The Sponsor should evaluate the identified risks, against existing risk controls 
+by considering:
+The likelihood of errors occurring.
+The extent to which such errors would be detectable.
+The impact of such errors on human subject protection and reliability of trial.
+© GCP Clinical Studies Ltd
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Risk Based Monitoring (RBM)
+Sponsor should develop a systematic, prioritized, risk-based approach to 
+monitoring clinical trials.
+Outcomes of any centralized monitoring should also be reported.
+Centralized monitoring processes provide additional monitoring capabilities that 
+can complement and reduce the extent and/or frequency of on-site monitoring.
+ICH-GCP 1.39, 5.18.3 , 5.18.6 (e), and 5.18.7
+© GCP Clinical Studies Ltd
+Quality Assurance and Quality Control
+Implementing and maintaining quality assurance and quality control systems with 
+written SOPs.
+Direct Access to all trial-related sites, source data/documents, reports.
+Applied at each stage of data handling.
+© GCP Clinical Studies Ltd
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Allocation to Service provider
+service provider?
+Who is a 
+   
+A person or an organization (commercial, academic, or other) providing a service 
+used during the conduct of a clinical trial to either the sponsor or the investigator to 
+fulfil one or more of their trial related activities.
+© GCP Clinical Studies Ltd
+for example : 
+Delegation to a CRO 
+(Contract Research Organization)
+Who is a CRO?
+   
+A person or an organization (commercial, academic, or other) contracted by the 
+s trial related duties and functions.
+’
+Sponsor to perform one or more of a Sponsor
+© GCP Clinical Studies Ltd
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+Sponsor oversight of vendors 
+The Sponsor should ensure oversight of any trial-related duties and functions carried 
+out on its behalf.
+The Sponsor should document approval of any subcontracting of trial-related duties 
+and functions by a CRO.
+Sponsor oversight of their vendors (e.g. CROs) has been a GCP inspection hot topic 
+for many regulatory inspectors. 
+© GCP Clinical Studies Ltd
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Delegation to a CRO 
+(Contract Research Organization)
+Everything may be delegated.
+Ultimate responsibility remains with sponsor.
+Delegation must be in writing.
+What is not transferred remains the sponsor’s responsibility.
+ICH-GCP 5.2
+© GCP Clinical Studies Ltd
+Medical Expertise
+Qualified medical personnel.
+Advise on trial related medical questions or problems.
+ICH-GCP 5.3
+© GCP Clinical Studies Ltd
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Trial Design
+Qualified individuals (e.g. Biostatisticians, clinical pharmacologists) 
+Throughout all stages of the trial process.
+ICH-GCP 5.4
+© GCP Clinical Studies Ltd
+Trial Management
+Utilize qualified individuals to supervise overall conduct of trial, handle data, verify 
+data, conduct analysis, prepare reports.
+May consider establishing DSMB to assess progress of trial.
+Instruction for using and handling electronic data and/or remote electronic trial data 
+systems.
+Use unambiguous subject ID code that allows for identification of all data reported.
+Retain all sponsor-specific essential documents.
+ICH-GCP 5.5
+© GCP Clinical Studies Ltd
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Investigator Selection
+Selecting investigators qualified by training and experience. Investigators should have 
+adequate resources.
+Provide investigator with protocol and up-to-date Investigator’s Brochure (IB).
+Obtain agreement of investigator to conduct trial according to GCPs, regulatory 
+requirements and protocol.
+Permit monitoring, auditing and inspection.
+ICH-GCP 5.6
+© GCP Clinical Studies Ltd
+Compensation & Financing
+Provide insurance or should indemnify investigator/institution against claims arising from 
+trial.
+Sponsor’s procedures should address costs of treatment of trial subjects in event of trial-
+related injury.
+Method/manner of compensation of subjects should comply with regulatory 
+requirements.
+Financial aspects should be documented between sponsor and investigator.
+ICH-GCP 5.8 & 5.9
+© GCP Clinical Studies Ltd
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Investigational Product
+Manufacture IP in accordance with GMP.
+Code and label according to applicable regulations, while 
+protecting the blind.
+Determine storage conditions and inform involved parties.
+Supply IP to the sites with written instructions for handling and 
+storage.
+Ensure IP stability over the period of use.
+ICH-GCP 5.13-5.14
+© GCP Clinical Studies Ltd
+Safety 
+Ongoing safety evaluation.
+Notification to investigators and RAs of safety findings.
+Expedite reporting of Serious Unexpected Adverse Drug Reactions.
+Submit the RAs, as required, safety updates and periodic reports.
+ אחריות היזם בנוגע לדיווחי בטיחות מפורטת בנוהל164/01
+ של משרד הבריאות
+.
+  
+© GCP Clinical Studies Ltd
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Monitoring 
+Definition:
+The act of overseeing the progress of a clinical trial, and of ensuring that it is 
+conducted, recorded, and reported in accordance with the protocol, SOPs, GCPs, and 
+the applicable regulatory requirement(s) (ICH-GCP 1.38)
+Purpose:
+To verify-
+Rights and well-being of subjects protected.
+Reported trial data are accurate, complete, verifiable from source documents.
+Conduct of trial is in compliance with protocol, amendments, GCP and applicable 
+regulatory requirements.
+© GCP Clinical Studies Ltd
+Definition of Monitoring Plan
+A description of the methods, responsibilities and requirements for monitoring the trial (1.38.1)
+The sponsor should develop a monitoring plan that is tailored to the specific human subject 
+protection and data integrity risks of the trial. 
+The plan should describe the monitoring strategy, the monitoring responsibilities of all the 
+parties involved, the various monitoring methods to be used and the rationale for their use.
+The plan should also emphasize the monitoring of critical data and processes. Particular 
+attention should be given to those aspects that are not routine clinical practice and that 
+require additional training.
+© GCP Clinical Studies Ltd
+13
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Qualification Of Monitors 
+Appointed by the Sponsor or his designee.
+Appropriately trained, have scientific and/or clinical knowledge; qualifications should 
+be documented.
+Familiar with investigational product, protocol, written ICF, Sponsor’s SOPs, GCP and 
+applicable regulatory requirements.
+  
+© GCP Clinical Studies Ltd
+Essential Documents
+  
+BEFORE
+DURING
+& AFTER
+© GCP Clinical Studies Ltd
+14
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Audit & Noncompliance
+  
+Performed as part of QA implementation (ICH-GCP 5.19)
+If noncompliance is discovered :
+Prompt action by Sponsor to secure compliance.
+If persistent, Sponsor to terminate site and notify Regulatory Authorities.
+(ICH-GCP 5.20)
+© GCP Clinical Studies Ltd
+ מוצר המחקר
+)
+תכשיר
+( - דרישות
+על פי נוהל ייצור וייבוא תכשירים ניסיוניים במדינת ישראל- 
+2013
+ 
+ex-012/01
+.
+ בניסויי פאזהI+II 
+ - הצהרה על עמידה בתנאי ייצור נאותים
+.
+ בניסוי פאזהIII
+ 
+–
+ 
+ אישורGMP 
+ ממדינה מוכרת
+/ 
+מאתר הייצור בארץ
+.
+  
+ ©GCP Clinical Studies Ltd
+15
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ישראל- התחייבות היזם
+  
+ היזם יחתום על התחייבות
+)
+טופס 4
+(
+ ,והחוקר הראשי יאשרה בחתימתו
+. 
+ההתחייבות תצורף לחוזה עם 
+מוסד הרפואי
+.
+ על מה מתחייב היוזם
+?
+לפעול לפי הנהלים המקומיים והבינלאומיים לניסויים רפואיים
+, 
+ובפרט בנושאים הבאים
+:
+oאחריות לבטיחות ותקינות מוצר המחקר
+oמסירת מידע על הניסוי
+oניטור מהלך הניסוי
+oדיווחי בטיחות
+o
+Accountability
+ לגבי מוצר המחקר
+oשמירת המסמכים
+o
+ פרסום תוצאות המחקר במלואן ובלא להוציא דברים מהקשרם
+o
+ ביטוח
+)
+חברה מסחרית או יזם
+–
+חוקר
+(
+oאספקת מוצר המחקר
+)
+נוהל ניסויים רפואיים
+, 2014
+ ,
+ טופס4
+(
+© GCP Clinical Studies Ltd
+מוצר המחקר
+; 
+אספקה במהלך המחקר
+היזם מתחייב לספק למוסד הרפואי את מוצרי המחקר במשך כל תקופת הניסוי הרפואי ועד לסיומו
+, 
+ללא תשלום
+.  
+ לצורך ייבוא קבלת אישור לייבוא יש לצרף למסמכי היבוא טופס7
+ ולפנות למשרד הבריאות ל- 
+rok.import@moh.health.gov.il 
+משרד הבריאות מספק אישור לשנה
+, 
+ויש לדאוג לחדש את תוקף אישור הייבוא
+.
+  
+ ©GCP Clinical Studies Ltd
+16
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+מוצר המחקר
+; 
+אספקה בתום המחקר
+ במידה ויובהר לאחר סיום הניסוי הרפואי שטובת החולה המשתתף בניסוי מחייבת המשך הטיפול במוצר
+המחקר ואין טיפול חליפי מתאים אחר
+: 
+היזם מתחייב להמשיך את אספקת מוצר המחקר 
+,
+ללא תשלום
+, 
+לתקופה של 3
+ שנים
+, 
+למעט
+ 
+באחד מהמקרים הבאים 
+)
+בתנאי שאושר על ידי ועדת הלסינקי
+(:
+.1פיתוח המוצר הופסק או שהניסויים הרפואיים במוצר לא הסתיימו בהצלחה
+.
+.2ידוע כי מתן מוצר המחקר לתקופה ממושכת זו עלול לפגוע בבריאותו של החולה
+.
+.3כאשר מוצר המחקר אושר לשיווק במדינת ישראל להתוויה המבוקשת וניתן לקבלו מקופת החולים בה החולה מבוטח
+.
+.4מוצר המחקר
+ 
+אינו קנאביס ואינו 
+תכשיר רפואי
+, 
+כגון
+: 
+מוצר קוסמטי
+, 
+מזון
+, 
+תוסף תזונה 
+/ 
+צמח מרפא
+.
+.5
+ מתן מוצר המחקר מיועד למתן חד פעמי או תקופה קצובה
+)
+לא טיפול כרוני
+(.
+.6כאשר יזם הניסוי הוא החוקר הראשי והניסוי לא ממומן בשום צורה על ידי חברה מסחרית
+.
+  
+ ©GCP Clinical Studies Ltd
+המשך מתן מוצר המחקר לאחר סיום הניסוי כפוף לתנאים הבאים
+:
+
+ במסגרת פרוטוקול מעקב שייכתב על ידי החוקר הראשי ויאושר על ידי ועדת הלסינקי המוסדית ויזם
+המחקר
+.
+באחריות החוקר הראשי
+,  
+לעקוב באופן שוטף אחר מצבו הבריאותי של המטופל ולדווח לוועדת      
+הלסינקי על כל האירועים החריגים שאירעו במהלך טיפול ההמשך
+, 
+כמקובל בניסוי רפואי
+. 
+החוקר הראשי ידווח בדו
+"
+ח ביניים
+, 
+לפחות אחת לשנה
+, 
+על התקדמות הטיפול בחולה
+.
+המוסד הרפואי ידאג לכיסוי ביטוחי
+.
+  
+מוצר המחקר
+; 
+אספקה בתום המחקר - המשך
+ ©GCP Clinical Studies Ltd
+17
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+לסיכום
+אחריות היוזם נוגעת לכל שלבי הפיתוח של המוצר מההתחלה ועד לסיום הניסויים הקליניים
+.
+על-מנת שניתן יהיה להגיש את הנתונים הנאספים במסגרת הניסויים לרשויות הבריאות
+, 
+נדרשת מיוזם 
+המחקר תשומת לב רבה והשקעה כדי לוודא שהניסויים בוצעו לפי 
+כללי ה-
+ICH-GCP
+ ,דרישות הרגולציה והפרוטוקולים
+.
+  
+ ©GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+
+
+=== 6_Investigator.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+החוקרים
+ 
+והחוקרות
+ 
+הראשיים
+ ©GCP Clinical Studies Ltd
+אורנה
+ 
+לנגרמן
+B.Pharm ; M.H.A
+מנהלת מרכז ההכשרה למחקר קליני
+  פי . סי .י'ג
+ניסויים
+ 
+קליניים
+ מ" בע 
+orna@gcp.co.il
+054-4770542
+© GCP Clinical Studies Ltd
+אל הקתעהל
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+החוקר
+ 
+הראשי
+מט – 
+רות
+ 
+הגדרת
+ 
+החוקר
+ 
+הראשי
+ 
+וצוותו
+דרישות
+  פי  על 
+נוהל
+ 
+משרד
+ 
+הבריאות
+דרישות
+ ICH-GCP R3
+ 
+ANNEX 1 פרק
+ 2
+דרישות דיווח במהלך המחקר
+תיעוד
+ 
+מסמכים
+ 
+חיוניים
+שמירת
+ 
+מסמכים
+ ©GCP Clinical Studies Ltd
+הגדרות
+ 
+לפיICH-GCP R3 
+ 
+Investigator
+"A person responsible for the conduct of the clinical trial, including the trial participants for 
+whom that person has responsibility during the conduct of the trial. If a trial is conducted 
+by a team of individuals, the investigator is the responsible leader of the team and may be 
+called the principal investigator. Where an investigator/institution is referenced in this 
+guideline, it describes expectations that may be applicable to the investigator and/or the 
+institution in some regions. Where required by the applicable regulatory requirements, the 
+“investigator” should be read as “investigator and/or the institution.” 
+Subinvestigator
+Any individual member of the clinical trial team designated and under the oversight of the 
+investigator to perform significant trial-related procedures and/or to make important trial 
+related decisions (e.g., associates, residents, research fellows). 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+הגדרות
+ 
+לפי
+ 
+הנוהל
+ 
+בישראל
+חוקר
+ 
+ראשי
+: "
+אדם
+ 
+ממקצועות
+ 
+הרפואה
+  או 
+הבריאות
+ 
+האחראי
+ 
+לעריכת
+ 
+הניסוי
+ 
+הרפואי
+ 
+באתר
+ 
+הניסוי
+  אם .
+הניסוי
+ 
+נערך
+  ידי  על 
+מספר
+ 
+אנשים
+ 
+החוקר
+ 
+הראשי
+ 
+הוא
+ 
+ראש
+ 
+הצוות
+ 
+באתר
+ 
+הניסוי
+."
+חוקר
+ 
+משנה
+  כל " :
+אדם
+ 
+בצוות
+ 
+הניסוי
+ 
+הרפואי
+ ,
+שמונה
+  ידי  על 
+החוקר
+ 
+הראשי
+ 
+ונמצא
+ 
+בהוראתו
+, 
+באתר
+ 
+הניסוי
+, 
+לביצוע
+ 
+תהליכים
+ 
+משמעותיים
+ 
+הקשורים
+ 
+בניסוי
+  או 
+בקבלת
+ 
+החלטות
+ 
+חשובות
+ 
+הקשורות
+ 
+בניסוי
+."
+יוזם-חוקר
+: "
+אדם
+ ,
+למעט
+ 
+תאגיד
+  או 
+מוסד
+ 
+שהוא
+  גם 
+יוזם
+ 
+הניסוי
+ 
+הרפואי
+וגם 
+ 
+החוקר
+ 
+הראשי
+  אם  בין ,
+במימון
+ 
+עצמי
+ 
+ובין
+ 
+במימון
+ 'ג  צד 
+וללא
+ 
+תלות
+ 
+במקור
+ 
+המימון
+. 
+החובות
+ 
+החלים
+ 
+עליו
+  של  גם  הם 
+החוקר
+ 
+הראשי
+וגם 
+  של 
+היוזם
+.
+ ©GCP Clinical Studies Ltd
+החוקר
+ 
+הראשי
+בהתאם לנוהל משרד הבריאות כ
+ל 
+ניסוי
+ 
+יתוכנן
+, 
+יאושר
+, 
+יבוצע
+ 
+יתועד
+ 
+ודיווח
+ 
+  תוך
+הקפדה
+ 
+יתרה
+: על 
+עקרונות
+ 
+הצהרת
+ 
+הלסינקי
+.
+תקנות
+ 
+בריאות
+ 
+העם
+ )
+ניסויים
+ 
+רפואיים
+ 
+בבני-אדם
+( 
+התשמ
+"א1980 
+   על
+תוספותיהן
+ 
+ותיקוניהן
+  עד 
+תשנ
+"ט1999
+.
+חוק
+ 
+מידע
+ 
+גנטי
+ 
+התשס
+"א2000
+.
+נוהל
+ 
+משרה
+"ב 
+לניסויים
+ 
+רפואיים
+ 
+בבני-אדם
+, 
+מהדורה
+ 
+עדכני
+ת.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+החוקר
+ 
+הראשי
+כל ניסוי יתוכנן
+, 
+יאושר
+, 
+יבוצע יתועד ודיווח תוך הקפדה יתרה על - המשך
+:
+הוראות
+ 
+הנוהל
+ 
+ההרמוני
+ 
+הבינלאומי
+ ,
+העדכני
+ ,
+להליכים
+ 
+קליניים
+ 
+נאותים
+.
+     Harmonized Tripartite Guideline for Good Clinical Practice (ICH-GCP), E6
+הוראות
+ 
+התקן
+ 
+העדכני
+ 
+למחקרים
+ 
+רפואיים
+ 
+בבני-אדם
+ 
+באביזרים
+ 
+ומכשור
+ 
+רפואי
+.
+ISO 14155-1, 14155-2 Clinical Investigation of Medical Devices for Human Subjects
+חוזרים
+  של 
+משרד
+ 
+הבריאות
+ 
+המתפרסמים
+ 
+מעת
+ 
+לעת
+.
+ ©GCP Clinical Studies Ltd
+החוקר
+Investigator
+ICH-GCP (R3), 
+Annex 1 , chapter 2
+© GCP Clinical Studies Ltd
+אל הקתעהל
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+  מה
+נדרש מ
+החוקר
+ 
+הראש
+י לפ י R3 ICH-GCP
+?
+2.1
+ 
+Qualifications and Training
+•
+ שתהיה
+  לו 
+ולחוקרי
+ 
+המשנה
+ 
+הכשרה
+ 
+מתאימה
+(GCP) 
+ לביצוע
+ 
+הניסוי
+, 
+ושיהיה תיעוד להכשרה  
+•
+להיות
+ 
+ א בקי
+במידע
+ 
+הקיים
+ 
+בחוברת
+ 
+לחוקר
+, 
+בפרוטוקול ובאופן השימוש במוצר המחקר
+.
+2.2
+ 
+Resources
+להראות פוטנציאל
+ל
+גיוס
+ 
+מטופלים
+ 
+לניסוי
+ ו
+לדאוג 
+למשאבים 
+)
+זמן וכוח אדם
+( 
+לביצוע הניסוי בצורה בטוחה ובהתאם לפרוטוקול
+2.3
+ 
+Responsibilities
+•
+ האצלת
+סמכויות
+ 
+לצוות
+  
+בכתב
+ 
+אבל 
+האחריות האולטימטיבית על החוקר 
+הראשי
+.
+•
+ פעולות שהן חלק משגרת העבודה הקלינית הרגילה לא חייבות להיות מואצלות
+)
+תלוי דרישות היוזם
+(
+•
+על החוקר לוודא שמי שהוא מאציל לו משימות הוא בעל הכשרה מתאימה וקיבל הדרכה על המשימות והפרוטוקול
+. 
+•
+ההדרכה צריכה להתמקד בפעולות ספציפיות של הפרוטוקול שהן שונות משגרת העבודה הרגילה
+.
+•
+צריך 
+לעשות פיקוח יזום 
+)oversight
+ (על הצוות כדי לוודא שזכויות
+, 
+רווחת המשתתפים ובטיחותם נשמרים ושהנתונים 
+שנאספים מהימנים
+.
+•
+רמת הפיקוח תלויה באופי הפעולות שהואצלו ופרופציונלית ביחס לרמת הסיכון וחשיבות המידע
+.
+•
+הסכמים של החוקר
+/ 
+המוסד עם נותני שירות חייבים להיות מתועדים
+.
+•
+החוקר צריך 
+לאפשר
+ 
+ביצוע
+ 
+ניטור
+, 
+בקרה
+ 
+וביקורת
+ 
+במרכז
+ 
+על ידי היוזם
+, 
+רשויות בריאות והועדות האתיות
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+  מה
+נדרש מ
+החוקר
+ 
+הראש
+י לפ י R3 ICH-GCP
+?
+2.4
+     
+Communication with IRB/IEC
+•
+ הגשת המסמכים לוועדה תתבצע על ידי החוקר או היוזם בהתאם לדרישות הרגולציה המקומיות
+.
+•
+מסמכי ההגשה יכללו פרוטוקול
+, 
+חוברת לחוקר 
+, 
+נוסח הסכמה ומסמכים נוספים בהתאם לדרישות המקומיות
+.
+•
+לפני שהמחקר מתחיל חייב להתקבל אישור מתועד  על ידי הועדה על הפרוטוקול
+, 
+תהליך וטופס ההסכמה 
+, 
+מודעות פרסום
+ 
+    
+)
+בישראל נדרש גם אישור מנהל המוסד הרפואי
+.
+•
+יש לעדכן את הועדה בשינויים של מסמכי המחקר 
+)
+פרוטוקול
+, 
+חוברת לחוקר
+, 
+טופס הסכמה
+( 
+ולקבל את אישורה
+.
+•
+יש לעדכן את הועדה בסטטוס המחקר על פי דרישות הרגולציה 
+)
+בישראל לפחות פעם בשנה
+(.
+•
+יש ליידע את הוועדה 
+מיידית
+ 
+בכל שינוי משמעותי או הגדלה של הסיכון למשתתפים
+.
+2.5
+ 
+Compliance with Protocol 
+•החוקר יחתום על הפרוטוקול או מסמך אחר שיאשר שיש הסכם עם היוזם
+•
+החוקר יבצע את המחקר בהתאם לפרוטוקול
+, 
+כללי הGCP
+ והדרישות הרגולטוריות המקומיות
+.
+•
+החוקר יתעד את כל הסטיות מהפרוטוקול 
+)
+גם אלה שיגלה בעצמו וגם אלה שיתגלו בניטור
+. 
+סטיות משמעותיות יוסברו על ידי 
+החוקר בכתב ויוטמעו תהליכים למניעת הישנות
+)
+תוכניות
+ CAPA
+ (
+•
+ החוקר יסטה מהפרוטוקול רק כדי לשלול סיכון
+מיידי
+ 
+ממשתתף ויידע את היוזם ואת הועדה בפעולות שננקטו
+.
+ ©GCP Clinical Studies Ltd
+  מה
+נדרש מ
+החוקר
+ 
+הראש
+י לפ י R3 ICH-GCP
+?
+2.6
+     
+Premature Termination or Suspension of a Trial
+•החוקר יעדכן את המשתתפים בהחלטה על הפסקה או השהייה של מחקר מכל סיבה שהיא
+, 
+וידאג להמשך טיפול ומעקב 
+הולם עבורם
+.
+•
+אם החוקר מפסיק על דעתו את המחקר
+, 
+ללא אישור מקדים מהיוזם 
+,
+החוקר יעדכן 
+מיידית
+ 
+את היוזם
+, 
+הוועדה
+, 
+המוסד ורשות 
+הבריאות ויספק הסבר על הסיבה
+.
+•
+אם היוזם הפסיק 
+א
+ת המחקר
+, 
+החוקר יעדכן 
+מיידית
+ 
+את הוועדה ורשויות הבריאות בצירוף הסבר על הסיבה להפסקה
+.
+•
+עם הועדה עצרה או השהתה את המחקר
+, 
+החוקר 
+מיידית
+ 
+את היוזם
+.
+Participant Medical Care and Safety Reporting 2.7 
+•
+ טיפול והחלטות רפואיות יינתנו למשתתפי המחקר
+רק על ידי חוקר ראשי או חוקר משנה 
+שהוא רופא מורשה או איש מקצוע 
+בריאות מורשה בהתאם לדרישות הרגולציה המקומית
+.
+•
+החוקר יוודא שהמשתתפים יקבלו טיפול מתאים  בגין אירועים חריגים ותופעות לוואי
+.
+•
+החוקר יעדכן את רופא המשפחה של המטופל שהוא משתתף במחקר בכפוף להסכמת המטופל
+.
+•
+ 
+החוקר ידווח  ליוזם על דיווחי בטיחות ואירועים חריגים בהתאם לדרישות הפרוטוקול
+.
+•
+החוקר ידווח ליוזם 
+מיידית
+ 
+על כל SAE
+ ,
+ חוץ מSAE
+ 
+ שהוגדרו מראש בפרוטוקול  שאינם נדרשים
+לדייוח
+ 
+מיידי
+. )
+בתנאי שאינו 
+סותר דרישות 
+רגולוציה
+ 
+מקומית
+(
+•
+ 
+החוקר ידווח 
+לועדה
+ 
+על אירועי SAE
+ בהתאם לדרישות הרגולציה המקומיות
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+  מה
+נדרש מ
+החוקר
+ 
+הראשי
+ 
+לפי R3 ICH-GCP
+  
+?
+2.8
+     
+Informed Consent of Trial Participants
+•תהליך ההסכמה מדעת וטופס ההסכמה יהיו בהתאם לדרישות הרגולציה המקומית
+, 
+כללי הGCP
+ 
+ והעקרונות האתיים של
+הצהרת הלסינקי
+. 
+התהליך יכלול
+:
+•
+החוקר יוודא כי קיים אישור
+ 
+בתוקף לניסוי לפני פנייה 
+למשתתפים
+•
+החוקר ימסור למשתתף את המידע בעל פה ובכתב בשפה פשוטה וברורה שמובנת למשתתף
+) . 
+בתבנית טופס הסכמה של 
+משרד הבריאות
+(.
+•
+טופס הסכמה דיגיטלי אפשרי
+, 
+אך יש לתת למטופל אופציה לחתום על טופס מנייר
+.
+•
+תהליך הסכמה מרחוק אפשרי
+, 
+בהתאם לנסיבות ודרישות הרגולציה המקומית
+•
+על החוקר לוודא את זהות המשתתף לפני החתימה
+.)
+צרחוק
+ 
+או פנים מול פנים
+(
+•
+יש לעדכן את המשתתף בכל מידע רלוונטי שיכול להשפיע על רצונו להמשיך בניסוי
+•
+יש לעדכן גרסה של טופס הסכמה ולקבל את אישור ועדת הלסינקי
+•
+        
+חתימה על  טופס מעודכן 
+, 
+תידרש ממשתתפים חדשים
+, 
+פעילים או שסיימו את הניסוי
+, 
+בהתאם לשינוי בטופס
+. 
+ ©GCP Clinical Studies Ltd
+  מה
+נדרש מ
+החוקר
+ 
+הראשי
+ 
+לפיR3 ICH-GCP
+ 
+?
+2.8
+     
+ המשך-
+- Informed Consent of Trial Participants
+•
+ החוקר
+יעשה ככל שניתן לאפשר למשתתף לתת הסכמה מדעת ברצון ללא תלות 
+,
+או הפעלת לחץ או השפעה בלתי הוגנים
+.
+ 
+•
+החוקר
+, 
+או חוקר משנה שקיבל את האצלת סמכות יבצע את תהליך ההסכמה
+.
+•
+משתתף 
+שאינו כשיר
+, 
+נציגו החוקי ייתן הסכמה בשמו
+.
+•
+הליך ההסכמה יבוצע מוקדם ככל שניתן
+. 
+החוקר יוודא כי ניתן למשתתף מספיק זמן לקרוא את טופס ההסכמה 
+)
+למעט במצבי 
+דחופים
+( 
+ויאפשר 
+ויעודד את המשתתף להתייעץ עם גורמים נוספים ולשאול שאלות גם מעבר למעמד מתן ההסבר 
+הראשוני
+•
+טופס ההסכמה ייחתם ויתוארך על ידי המשתתף או נציגו החוקי  והחוקר המסביר
+. 
+אם קבלת ההסכמה מתבצעת ביום הטיפול הניסיוני יש לתעד גם את שעת החתימה
+.
+•
+כשהמשתתף אינו יכול לקרוא את טופס ההסכמה
+, 
+עד בלתי תלוי יהיה נוכח בהקראת הטופס ומתן ההסברים ויעיד בחתימתו 
+שהמשתתף נתן הסכמתו 
+. 
+המשתתף יחתום גם אם הוא מסוגל
+.
+•
+גיוס קטינים ידרוש הכנת טופס הצהרה מותאם לקטין ובנוסף טופס הסכמה להוריו
+.
+•
+       
+קטין שהפך לבגיר במהלך הניסוי
+, 
+יחתום על טופס הסכמה מדעת
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+  מה
+נדרש מ
+החוקר
+ 
+הראשי
+ 
+לפיR3 ICH-GCP
+?
+End of Participation in a Clinical Trial 2.9
+•זכותו של המשתתף לפרוש מהניסוי בכל שלב
+. 
+על החוקר לתעד את הסיבה לפרישה ולהסביר למשתתף על ההשלכות 
+, 
+מבלי להפעיל לחץ לא הוגן
+.
+•
+כשמשתתף בוחר לפרוש מהניסוי
+, 
+על החוקר לפעול לפי הפרוטוקול ולעשות כל מאמץ לשמר את המידע שנאסף מהמשתתף 
+עד כה כדי למנוע הטיות בניתוח תוצאות המחקר
+.
+•
+אם רלוונטי
+,  
+והמשתתף ביקש לדעת
+, 
+החוקר יידע את המשתתף על תוצאות המחקר הטיפול שקיבל 
+)
+אם היזום ימסור את 
+המידע לאחר פתיחת הסמיות
+(
+2.10
+ 
+Investigational Product Management
+•החוקר
+/ 
+המוסד אחראים על ניהול המלאי 
+,
+ההנפקה והאיסוף של מוצר המחקר
+. )
+יכלים להיעזר בכלים שיספק להם היוזם
+(.
+•
+החוקר יכול להאציל את הסמכות לניהול המלאי וההנפקה לרוקח
+, 
+א נדרש לפקח עליו באופן יזום 
+)oversight
+(
+•החוקר
+/ 
+הרוקח
+/  
+המוסד יתעדו באופן מפורט ועם תאריך 
+: 
+קבלת תעודות משלוח
+, 
+ניפוק מוצר פר משתתף
+, 
+החזרת מוצר 
+, 
+השמדת מוצר כולל פירוט על כמויות ומינונים
+.
+•
+המוצר יאוחסן בהתאם לדרישות היוזם ודרישות הרגולציה המקומית
+.
+•
+המוצר יינתן בהתאם לדרישות הפרוטוקול 
+, 
+ובהתאם לצורך יוסבר למשתתף על אופן השימוש
+.
+•
+המוצר יכול להינתן למשתתף במוסד
+, 
+או להישלח למשתתף  לביתו 
+Randomization Procedures and Unbinding 2.11
+•
+ על
+החוקר לשמור על סדר 
+הרנדומיזציה
+•
+פתיחת קוד הסמיות אם מוצדקת  תהיה בהתאם לפרוטוקול 
+) 
+למשל מצב חירום או סיכון משמעותי למשתתף
+(
+•
+  
+החוקר 
+יתעד וידווח 
+מיידית
+ 
+ליוזם מה הייתה הסיבה לפתיחת הקוד
+.
+ ©GCP Clinical Studies Ltd
+  מה
+נדרש מ
+החוקר
+ 
+הראשי
+ 
+לפי R3 ICH-GCP
+?
+Records 2.12
+•החוקר צריך לוודא שכל הנתונים שנאספים במרכז אמינים ושלמים
+.
+•
+החוקר צריך לוודא שיהיה מסמכי מקור לכל אחד מהמשתתפים שיהיו ALCOAC 
+ 
+•החוקר יגדיר מהו מסמך מקור
+.
+•
+יש להימנע עד כמה שניתן מהעתקה מיותרת ממסמכי המקור לCRF
+ 
+•החוקר יוודא שהמידע מועבר ליוזם באמצעות ה- 
+CRF
+ בהתאם ללוחות הזמנים שהוגדרו בפרוטוקול או החוזה עם היוזם
+•
+החוקר ינקוט באמצעים הדרושים על מנת לשמור על פרטיות המשתתפים
+•
+גישה למידע במסמכי המקור 
+והCRF
+ 
+ תינתן לאנשי צוות מורשים בלבד
+•
+החוקר  יתייק וישמור את הכל המסמכים החיוניים הנדרשים על פי נספח C
+ 
+ ודרישות
+הרגולוציה
+ 
+המקומית למשך הזמן 
+הגבוה מבין השניים
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+  מה
+נדרש מ
+החוקר
+ 
+הראשי
+ 
+לפי R3 ICH-GCP
+?
+2.12
+ 
+Records
+- המשך
+•
+בשימוש 
+במערכות ממוחשבות יש להקפיד על
+::
+    
+מערכות בשימוש בית החולים- שרק לצוות מורשה תהיה גישה
+    
+מערכות שסיפק היזם 
+)
+למשל 
+ (e-CRF 
+ החוקר יעדכן את היזום בכל שינוי באנשי הצוות והצורך בביטול או קבלת הרשאות
+    
+מערכות של בית החולים שהן לשימוש ספציפי במסגרת ניסויים 
+קלינים
+, 
+צריך לוודא שרמת האבטחה של המערכת מותאמת
+    
+לרמת הסיכון במחקר וחשיבות הנתונים
+.
+    
+כלים לאיסוף נתונים מהמשתתפים 
+, 
+כמו יומן אלקטרוני
+, 
+החוקר יוודא שהם קיבלו הדרכה 
+    
+יש לדווח ליוזם על תקלות במערכות
+, 
+שהחוקר חושב שיכולה להיות להם השפעה משמעותית על אבטחת המידע 
+Reports 2.13
+•
+ בסיום המחקר
+, 
+על החוקר לשלוח לוועדת הלסינקי 
+::
+•
+הודעה על סיום הניסוי 
+•
+" דו
+ח סיכום  תוצאות של הניסוי
+ ©GCP Clinical Studies Ltd
+דיווחים הנדרשים  על ידי החוקר במהלך הניסוי
+ על
+אירועים
+ 
+חריגים
+ 
+חמורים
+ 
+(SAE)
+ ליוזם תמיד בהתאם לדרישות הפרוטוקול
+, 
+ולוועדה 
+בהתאם לדרישות נוהל 164
+ 
+ על
+עדכונים
+  של 
+חוברת
+ 
+לחוקר
+)  .
+לוועדה
+(
+שינויים
+ 
+ותיקונים
+ 
+לפרוטוקול
+. )
+לוועדה
+(
+סטיות
+ 
+והפרות
+  של 
+הפרוטוקול
+)  . 
+לוועדה
+, 
+ואם יש צורך ליוזם
+(
+ ח" דו
+ביניים
+, 
+שנתי
+  על ,
+התקדמות
+ 
+המחקר
+. )
+לוועדה
+(
+ עצירה או הפסקת מחקר עם הסיבה
+) 
+לוועדה
+, 
+ואם יש צורך ליוזם
+(
+ סיום המחקר
+)
+לוועדה
+(
+© GCP Clinical Studies Ltd
+אל הקתעהל
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ סיכום דרישות מהחוקר הראשי לפיICH GCP R3
+ לחוקר הראשי
+ולחוקרי
+ 
+המשנה
+  
+תהיה 
+הכשרה
+ 
+מתאימה
+(GCP) 
+ לביצוע
+ 
+הניסוי
+, 
+ושיהיה תיעוד על ההכשרה
+.
+להיות
+ 
+ א בקי
+במידע
+ 
+הקיים
+ 
+בחוברת
+ 
+לחוקר
+, 
+בפרוטוקול ובאופן השימוש במוצר 
+המחקר
+.
+להראות פוטנציאל
+ 
+לגיוס מטופלים לניסוי ו
+לדאוג למשאבים 
+)
+זמן וכוח אדם
+( 
+לביצוע 
+הניסוי
+.
+ לנהל
+רישום מסודר של רשימת האצלת סמכויות לצוות
+. 
+לוודא שהנוטלים חלק במחקר מתודרכים לגבי המשימות 
+שלהם בניסוי
+.
+הסכמים של החוקר
+/ 
+המוסד עם נותני שירות חייבים להיות 
+מתועדים
+.
+לאפשר
+ 
+ביצוע
+ 
+ניטור
+, 
+בקרה
+ 
+וביקורת
+ 
+במרכז
+ו 
+על ידי היוזם
+, 
+רשויות בריאות והועדות 
+האתיות
+.
+לנהל תקשורת רציפה ומסודרת עם ועדת הלסינקי
+.
+החוקר יבצע את המחקר בהתאם לפרוטוקול
+, 
+כללי הGCP
+ והדרישות הרגולטוריות המקומיות
+.
+ החוקר יתעד את כל הסטיות מהפרוטוקול
+)
+גם אלה שיגלה בעצמו וגם אלה שיתגלו בניטור
+. 
+סטיות משמעותיות יוסברו על ידי 
+החוקר בכתב ויוטמעו תהליכים למניעת הישנות
+)
+תוכניות
+ CAPA
+ (
+החוקר יעדכן את המשתתפים בהחלטה על הפסקה או השהייה של מחקר מכל סיבה שהיא
+, 
+וידאג להמשך טיפול ומעקב הולם 
+עבורם
+. 
+ויעדכן את ועדת הלסינקי והיוזם
+.
+ טיפול והחלטות רפואיות יינתנו למשתתפי המחקר
+רק על ידי חוקר ראשי או חוקר משנה 
+שהוא רופא מורשה או 
+איש מקצוע 
+ בריאות מורשה
+בהתאם לדרישות הרגולציה המקומית
+.
+תהליך ההסכמה מדעת וטופס ההסכמה יהיו בהתאם לדרישות הרגולציה המקומית
+, 
+כללי הGCP
+ 
+ והעקרונות האתיים של
+הצהרת הלסינקי
+.
+ 
+ ©GCP Clinical Studies Ltd
+ 
+ סיכום דרישות מהחוקר הראשי לפיICH GCP R3 
+  החוקר ידווח  ליוזם על דיווחי בטיחות ואירועים חריגים  כולל אירועיSAE
+ בהתאם לדרישות הפרוטוקול
+, 
+וידווח 
+לועדה
+ 
+על 
+אירועי SAE
+ בהתאם לדרישות הרגולציה המקומיות
+.
+ זכותו
+של המשתתף לפרוש מהניסוי בכל שלב
+. 
+על החוקר לתעד את הסיבה לפרישה ולהסביר למשתתף על ההשלכות 
+מבלי 
+להפעיל 
+עליו לחץ 
+לא 
+הוגן להישאר בניסוי
+.
+החוקר צריך לוודא שכל הנתונים שנאספים במרכז אמינים ושלמים
+.
+ על החוקר לשמור על סדר
+הרנדומיזציה
+ ,
+לפתוח את קוד הסמיות רק אם יש הצדקה ולפי דרישות הפרוטוקול
+, 
+ולדווח ליוזם 
+מה הייתה הסיבה לפתיחת הקוד
+.
+החוקר
+/ 
+המוסד אחראים על ניהול המלאי 
+,
+ההנפקה והאיסוף של מוצר המחקר
+. )
+יכולים 
+להיעזר בכלים שיספק להם היוזם
+(.
+ החוקר צריך לוודא שכל הנתונים שנאספים במרכז אמינים
+ושלמים 
+ושהכל
+ 
+מתועד במסמכי המקור 
+ובCRF
+.
+ החוקר
+ינקוט באמצעים הדרושים על מנת לשמור על פרטיות 
+המשתתפים
+. 
+ גישה
+למידע במסמכי המקור 
+והCRF
+ 
+ תינתן לאנשי צוות מורשים
+בלבד
+. 
+  החוקר
+יתייק וישמור את הכל המסמכים החיוניים הנדרשים על פי נספח C
+ 
+ שלICH GCP R3 
+ 
+ ודרישות
+הרגולוציה
+ 
+המקומית למשך הזמן הגבוה מבין 
+השניים 
+. 
+ בשימוש
+במערכות ממוחשבות יש להקפיד 
+שרק 
+לצוות מורשה תהיה 
+גישה למערכות
+.
+ 
+ לדווח דיווחים שוטפים במהלך
+הניסוי ובסיום הניסוי 
+)
+לוועדת הלסינקי וליוזם
+(.
+ צריך לעשות פיקוח יזום
+)
+(oversight) על הצוות כדי לוודא שזכויות
+, 
+רווחת המשתתפים ובטיחותם נשמרים ושהנתונים 
+שנאספים מהימנים
+. 
+רמת הפיקוח תלויה באופי הפעולות שהואצלו ופרופציונלית ביחס לרמת הסיכון וחשיבות המידע
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ 
+ יוזמה אקטיבית
+ 
+מצד 
+החוקר הראשי
+  
+שיהיה לה תיעוד בכתב על 
+פעולות  הפיקוח
+.
+ 
+למשל
+:
+
+ שיחה עם בית
+המרקחת
+ 
+
+ ישיבה תקופתית עם צוות המחקר לקבלת
+עדכון על הניסוי
+
+ שיחה עם נותני שירות
+בסייט
+ 
+כמו
+  
+מעבדה
+, 
+מכוני 
+הדמייה
+שיחות אחד על אחד עם חוקרי המשנה ומתאם המחקר
+ 
+ 
+זו הציפייה בהתאם 
+ל ICH GCP R3
+ 
+ וכנראה
+יבוא לידי ביטוי בעתיד במה 
+שייבדק
+  
+בניטור 
+, 
+ב audit
+ 
+ וinspection
+.
+ 
+© GCP Clinical Studies Ltd
+Investigator oversight of their site
+נשאלת
+ 
+השאלה-
+האם
+ 
+אדם
+ 
+אחד
+ 
+יכול
+ 
+לעשות
+  את 
+הכל
+?
+© GCP Clinical Studies Ltd
+אל הקתעהל
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+כן
+...
+© GCP Clinical Studies Ltd
+בניית
+ 
+צוות
+חוקרי
+ 
+משנה
+אנשי
+ 
+צוות
+ 
+הניסוי-
+מתאמי
+ 
+מחקר
+אנשי
+ 
+צוות
+ 
+אחרים
+ 
+)
+טכנאים
+ 
+רוקח
+וכד 
+'(
+חוקר
+/ת 
+ראשי
+© GCP Clinical Studies Ltd
+אל הקתעהל
+13
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ניתן
+ 
+להאציל
+ 
+סמכויות
+ )
+חלקן
+  או 
+כולן
+( 
+לחברי
+ 
+צוות
+ 
+נוספים
+ 
+בתנאי
+ ש:
+ האצלת
+סמכויות
+ 
+לצוות
+  
+בכתב
+ 
+אבל האחריות האולטימטיבית על החוקר 
+הראשי
+. 
+ צריך
+ 
+תיעוד
+ 
+בכתב
+,  
+של 
+  מה
+הואצל
+, 
+למי
+ 
+ולאיזו
+ 
+תקופה
+.
+ משימות שהן חלק משגרת העבודה  הקלינית  הרגילה היומיומית אין חובה לפרט ולהאציל
+בטבלה
+. ) 
+יהיה בהתאם לדרישות היוזם בdelegation log 
+(
+ יש להאציל את כל המשימות שהן ספציפיות לפרוטוקול
+המחקר
+.
+ על החוקר לוודא שמי שהוא מאציל לו משימות הוא בעל הכשרה מתאימה וקיבל הדרכה על
+המשימות והפרוטוקול
+. 
+ ההדרכה צריכה להתמקד בפעולות ספציפיות של הפרוטוקול שהן שונות משגרת העבודה
+הרגילה
+התיעוד
+ 
+נעשה
+ 
+בטבלה
+ 
+מסודרת
+  עם 
+דוגמאות
+ 
+חתימה
+  כל  של 
+הנוגעים
+ 
+בדבר
+.
+שימו
+  לב 
+האצלת
+ 
+סמכות
+  ≠
+העברת
+ 
+אחריות
+!!!
+בניית
+ 
+צוות
+© GCP Clinical Studies Ltd
+דוגמה
+ 
+לטופס
+ 
+האצלת
+ 
+סמכויות
+החוקר
+ 
+הראשי
+ 
+רשאי
+ 
+להסמיך
+ 
+אנשים
+ 
+מורשים
+ 
+מטעמו
+, 
+בעלי
+ 
+ההכשרה
+ 
+המתאימה
+ 
+למלא
+  את 
+המשימות
+ 
+הקשורות
+ 
+למחקר
+.
+  יש
+לפרט
+ 
+עבור
+ 
+אותם
+ 
+אנשי
+ 
+צוות
+ 
+המחקר
+ 
+אליהם
+ 
+האציל
+ 
+החוקר
+ 
+הראשי
+ 
+מסמכויותיו
+, 
+  את
+הפרטים
+ 
+המתבקשים
+ 
+בטבלה
+ 
+מטה
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+14
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+תיעוד
+ 
+נתונים
+ 
+במסמכי
+ 
+מקור
+ ו-
+CRF
+© GCP Clinical Studies Ltd
+תיעוד
+ 
+נתונים
+ 
+באופן
+ 
+כללי
+:
+תנאי
+ 
+לאיסוף
+ 
+נתונים
+ 
+הוא
+ 
+שכל
+  מי 
+שנחשף
+ 
+לפרטים
+ 
+מזהים
+  של 
+משתתפים
+ 
+ישמור
+ 
+  על
+סודיות
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+15
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+מהם
+ 
+נתוני
+ 
+מקור
+ 
+(?source data)
+  כל
+מידע
+ 
+מקורי
+ ה
+נמצא
+ 
+במסמכים
+ 
+מקוריים
+ 
+ובעותקים
+ 
+מורשים
+  של 
+מסמכים
+ 
+מקוריים
+ 
+)
+ממצאים
+ 
+קליניים
+, 
+תוצאות
+ 
+מעבדה
+וכד 
+'(
+מידע
+  זה 
+נחוץ
+והכרחי
+ 
+לצורך
+ 
+הערכת
+ 
+המחקר
+ 
+ושחזורו
+ 
+במידת
+ 
+הצורך
+.
+נתוני
+ 
+המקור
+ 
+נשמרים
+ 
+במסמכי
+ 
+המקור
+.
+ ©GCP Clinical Studies Ltd
+  הם  מה
+מסמכי
+ 
+מקור
+?
+Source Documents & Records
+Original documents or data (which includes relevant metadata) or certified copies of the 
+original documents or data, irrespective of the media used. This may include trial 
+participants’ medical/health records/notes/charts; data provided/entered by trial participants 
+(e.g., electronic patient-reported outcomes (ePROs)); healthcare professionals’ records 
+from pharmacies, laboratories and other facilities involved in the clinical trial; and data from 
+automated instruments, such as wearables and sensors (ICH GCP R3, GLOSSARY)
+מסמך
+ 
+מקורי
+  או 
+עותק
+ 
+נאמן
+ 
+למקור
+  של 
+ממצאים
+ 
+קליניים
+, 
+אבחנות
+  או 
+פעילויות
+ 
+אחרות
+ 
+הנחוצות
+ 
+לשחזור
+ 
+והערכת
+ 
+הניסוי
+ 
+הרפואי
+.
+למשל
+: 
+רשומה
+ 
+רפואית
+ 
+בביה
+,  ח"
+ידנית
+  או 
+אלקטרונית
+, 
+תוצאות
+ 
+מעבדה
+, 
+רישומי
+בית 
+ 
+המרקחת
+ 
+בהנפקת
+ 
+תרופות
+, 
+רישומים
+ 
+ממכשירים
+ 
+אוטומטיים
+, 
+צילומי
+ 
+רנטגן
+, 
+יומן
+ 
+החולה
+, 
+טופסי
+ 
+הערכה
+, 
+מרשמי
+ 
+תרופות
+, 
+נגטיבים
+  של 
+תמונות
+, 
+דיסקים
+, 
+תיקי
+ 
+חולה
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+16
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+  מה
+מומלץ
+ 
+לתעד
+ 
+במסמכי
+ 
+המקור
+ 
+ורשומות
+ 
+רפואיות
+  של 
+החולה
+?
+ביצוע
+ 
+תהליך
+ 
+וחתימה
+  על 
+הסכמה
+ 
+מדעת
+.
+היסטוריה
+ 
+רפואית
+ 
+רלוונטית
+ 
+והתאמה
+ 
+לקריטריוני
+ 
+הכללה
+ 
+למחקר
+.
+מתן
+ 
+מוצר
+ 
+המחקר
+.
+ מידע מפורט לגבי
+אירועים
+ 
+חריגים
+  /  יש  אם ,
+תיעוד
+ 
+שאין
+ 
+אירועים
+ 
+חריגים
+.
+ מידע מפורט לגבי
+מחלות
+ 
+נלוות
+ 
+ותרופות
+ 
+נוספות
+.
+מידע לגבי
+ 
+נשירת
+  /
+עזיבת
+ 
+חולה
+ 
+מהמחקר
+ 
+והסיבות
+ 
+לכך
+.
+חשוב 
+!!! 
+מי שמתעד צריך לתארך 
+ולחתום על הרשומה
+.
+© GCP Clinical Studies Ltd
+תיעוד
+ 
+נתונים
+ 
+ובכלל
+...
+  לא  זה  אם
+כתוב
+  לא  זה ,
+נעשה
+!!! 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+17
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Case Report Form (CRF)
+מסמך
+ 
+מודפס
+, 
+אופטי
+  או 
+אלקטרוני
+ 
+המעוצב
+ 
+בהתאם
+ 
+לפרוטוקול
+ 
+הניסוי
+ 
+הרפואי
+ 
+ונועד
+ 
+לרישום
+ 
+  כל
+המידע
+ 
+הנאסף
+  כל  על 
+משתתף
+ 
+במהלך
+ 
+הניסוי
+ 
+הרפואי
+ 
+ומדווח
+ 
+ליוזם
+.
+ה- 
+CRF
+ מגיע
+ 
+ליוזם
+ 
+לצורך
+ 
+עיבוד
+ 
+הנתונים
+.
+© GCP Clinical Studies Ltd
+שיטות
+ 
+לתיקון
+ 
+והוספת
+ 
+נתונים
+ 
+במסמכי
+ 
+המקור
+ וב-
+CRF
+  על  קו
+התאוט
+ ,
+הוספת
+ 
+המידע
+ 
+הנכון
+ 
+וחתימה
+ )
+ראשי
+ 
+תיבות
+( 
+  עם
+תאריך
+.
+במידת
+ 
+הצורך
+  יש ,
+להסביר
+  את 
+התיקון
+.
+הוספת
+ 
+נתונים
+ 
+מאוחרת
+ 
+תתועד
+  עם 
+תאריך
+ 
+ההוספה
+ !
+אסור
+ 
+לתארך
+ 
+ולחתום
+ 
+בדיעבד
+  או 
+למפרע
+.
+CRF 
+ אלקטרוני
+ 
+בנוי
+  כך 
+שתיעוד
+  על 
+הוספה
+/
+תיקון
+ 
+יכיל
+  את 
+מידע
+.ל" הנ 
+טעות
+© GCP Clinical Studies Ltd
+אל הקתעהל
+18
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+תיעוד
+ 
+נתונים
+החוקר
+ 
+הראשי
+:
+אחראי
+  על 
+שלמות
+ 
+ודיוק
+ 
+הנתונים
+ 
+המתועדים
+ 
+במסמכי
+ 
+המקור
+וב -
+CRF
+.
+אחראי
+  על 
+מתן
+ 
+הסבר
+ 
+במקרה
+אי  של -התאמות
+.
+מילוי
+ CRF
+ בהתאם
+ 
+ללוחות
+ 
+הזמנים
+ 
+שקבע
+ 
+היוזם
+.
+ואילו
+ 
+תפקיד 
+ה-
+CRA
+ ,מטעם היוזם
+:
+
+ לאמת נתוניםSource Data Verification (SDV)
+להשוות
+  את 
+הנתונים
+ין  ב 
+מסמכי
+ 
+המקור
+ 
+לבין 
+ה-
+CRF
+ ,ולתת
+ 
+משוב
+ 
+לחוקר
+ 
+במידת
+ 
+הצורך
+.
+© GCP Clinical Studies Ltd
+גישה
+ 
+למסמכי
+ 
+המחקר
+ 
+במרכז
+ 
+החוקר
+ 
+והמוסד
+ 
+הרפואי
+ 
+צריכים
+ 
+לאפשר
+ 
+גישה
+ 
+ישירה
+ 
+למסמכי
+ 
+המחקר
+ ל:
+מוניטורים
+  של ) 
+היוזם
+  של  /
+חברת
+ CRO
+ מטעם
+ 
+היוזם
+(.
+בקרים
+ 
+מטעם
+ 
+היוזם
+ 
+(Auditors)
+.
+פקחים
+ 
+מטעם
+ 
+רשויות
+ 
+התקינה
+.
+כולם
+ 
+חייבים
+ 
+לשמור
+  על 
+סודיות
+וחיסיון
+ 
+הפרטים
+  של 
+משתתפי
+ 
+המחקר
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+19
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+  מה  על
+נדרש
+ 
+לדווח
+?
+אירועים
+ 
+חריגים
+ 
+חמורים
+ 
+(SAE)
+.
+עדכונים
+  של 
+חוברת
+ 
+לחוקר
+.
+שינויים
+ 
+ותיקונים
+ 
+לפרוטוקול
+.
+סטיות
+ 
+והפרות
+  של 
+הפרוטוקול
+ .
+ ח" דו
+ביניים
+, 
+שנתי
+  על ,
+התקדמות
+ 
+המחקר
+.
+ה
+שעייה
+ 
+או הפסקת מחקר עם הסיבה
+סיום המחקר
+© GCP Clinical Studies Ltd
+תיוק
+ 
+ושמירת
+ 
+מסמכים
+ 
+חיוניים
+ 
+בניסוי
+/
+במחקר
+Essential Records
+ICH-GCP R3 ANNEX 1 APPENDIX C 
+© GCP Clinical Studies Ltd
+במחקר מצטברים הרבה מסמכים
+. 
+אופי המסמכים וההיקף שלהם תלוי בסוג הניסוי
+.
+המסמכים החיוניים מאפשרים הערכה של אופן ביצוע המחקר והענות החוקר לדרישות הנהלים  
+הבינלאומיים ודרישות משרד הבריאות
+.
+המסמכים ייבדקו על ידי היוזם ורשויות הבריאות במסגרת ביקורות 
+החוקר והיוזם יתעדו היכן נשמרים המסמכים
+.
+החוקר והיוזם ידאגו לתעד תיעוד שלם
+, 
+מדוייק
+ 
+וקריא של כל המסמכים
+.
+
+ המסמך המקורי יישמר על ידי הגורם האחראי
+)
+היוזם או החוקר
+(. 
+אם נדרש העתק של מסך להחליף את מסמך המקור
+, 
+עליו להיות 
+"
+העתק נאמן למקור
+" 
+)
+(certified copy
+
+ איסוף ותיוק המסמכים יהיה במסגרת זמן סביר
+.
+המסמכים צריכים להיות זמינים לביקורת על פי בקשת רשויות הבריאות או היוזם
+אל הקתעהל
+20
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+תיוק
+ 
+ושמירת
+ 
+מסמכים
+ 
+חיוניים
+ 
+בניסוי
+/
+במחקר
+Essential Records
+ICH-GCP R3 ANNEX 1 APPENDIX C 
+© GCP Clinical Studies Ltd
+ניהול המסמכים
+כל מסמך יזוהה בשם ומספר גרסה
+. 
+לדוגמא
+: 
+פרוטוקול XYZ123 
+ גרסה מספר1
+ 
+
+ מסמכים שנדרשת עליהם חתימה ייחתמו עם תאריך וחתימה
+) 
+אלקטרונית או חתימה בעט
+(
+
+ המסמכים יישמרו בצורה מסודרת בתיוק אלקטרוני או ידני אצל היוזם
+: TMF-TRIAL 
+MASTER FILE 
+ ואצל החוקר
+: ISF- INVESTIGATOR SITE FILE
+ המסמכים לפני
+, 
+תוך כדי ובסיום המחקר  יישמרו על היוזם
+, 
+החוקר או על ידי שניהם
+.
+צריך לשים לב ש
+:
+מסמכים שמכילים מידע פרטי 
+לא יגיעו לידי היזם
+)
+למשל עותק של  רשומה רפואית של מטופל
+(
+ 
+ מסמכים שנוגעים לסמיות
+לא יגיעו לידי החוקר 
+) 
+למשל רשימת 
+הרנדומיזציה
+ (
+תיוק
+ 
+ושמירת
+ 
+מסמכים
+ 
+חיוניים
+ 
+בניסוי
+/
+במחקר
+Essential Records
+Investigator to maintain Essential Documents for the 
+conduct of the study:
+Before the trial formally starts.
+During the trial conduct.
+After completion/termination of trial.
+ICH-GCP R3 ANNEX 1 APPENDIX C 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+21
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ESSENTIAL RECORDS
+איך נחליט מה נחשב מסמך חיוני
+?
+© GCP Clinical Studies Ltd
+תיוק
+ 
+ושמירת
+ 
+מסמכים
+ 
+חיוניים
+ 
+בניסוי
+/
+במחקר
+Essential Records
+ICH-GCP R3 ANNEX 1 APPENDIX C 
+© GCP Clinical Studies Ltd
+עקרונות לקביעה האם מסמך עונה להגדרה של מסמך חיוני
+:
+
+ מסמכים שהוגשו
+לועדות
+ 
+הלסינקי או לרשות הבריאות 
+)
+למשל הטפסים שמוגשים לאישור 
+הועדה
+(
+
+ מסמכים שנוגעים באופן ספציפי לניסוי
+)
+למשל פרוטוקול
+(
+תכתובות רלוונטיות שנוגעות להחלטות חשובות
+
+ מסמכים   שמעידים על ביצוע
+פרוצדרות
+ 
+בניסוי
+
+ הסכמים בין הצדדים השונים
+)
+חוזה 
+, 
+ביטוח
+, 
+הסכם שיפוי 
+(
+
+ אישורי רשויות רגולטוריות וועדות אתיות
+לביוע
+ 
+הניסוי
+ 
+ועוד
+...
+לרשימת העקרונות המלאה עיינו ב
+:
+APPENDIX C , SECTION C.3: essentiality of trial records 
+ 
+ICH GCP R3
+ 
+אל הקתעהל
+22
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ESSENTIAL DOCUMENTS
+Before the trial
+דוגמאות
+© GCP Clinical Studies Ltd
+Before
+Investigator Brochure
+Signed protocol, amendments, sample CRF
+Informed consent and any other written information given to subject
+Financial aspects of trial
+Insurance statement, where required
+Signed agreement between involved parties
+חלק
+ 
+מהמסמכים
+  לא 
+רלוונטיים
+ 
+במחקרי
+ 
+יוזם-חוקר
+. 
+איזה
+?
+© GCP Clinical Studies Ltd
+אל הקתעהל
+23
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Dated, documented approval of IEC/IRB
+IEC/IRB membership list
+Regulatory authority authorization/notification
+CVs of investigator/sub-investigators
+Laboratory normal values/ranges
+Laboratory accreditation/certification
+איזה
+ 
+מסמך
+ 
+נוסף
+ 
+נדרש
+ 
+בישראל
+ 
+כדי
+ 
+להתחיל
+ 
+ניסוי
+/
+מחקר
+?
+Before
+© GCP Clinical Studies Ltd
+Sample of label attached to investigational product (IP) container
+Instructions for handling IPs and materials
+Shipping records of the above
+Certificate of analysis for IPs
+Decoding procedures
+Master randomisation list
+Pre-trial monitoring report
+Initiation visit report
+Before
+© GCP Clinical Studies Ltd
+אל הקתעהל
+24
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ESSENTIAL DOCUMENTS
+During the trial
+דוגמאות
+© GCP Clinical Studies Ltd
+During
+Investigator Brochure updates
+Revisions to protocol, amendments, informed consent form, 
+advertisements etc
+Dated, documented approvals of the above revised documents
+Regulatory authorization/notification of the above revised documents (when 
+required)
+Updates of CVs and CVs for new investigator
+© GCP Clinical Studies Ltd
+אל הקתעהל
+25
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Updates to laboratory normal values/ranges
+Updates to laboratory accreditation /certification
+Documentation of IPs shipments
+Certificate of analysis for new batches of Ips
+Monitoring visit reports
+During
+© GCP Clinical Studies Ltd
+Relevant communications other than site visits
+Signed informed consent forms
+Source documents
+Signed, dated, completed CRFs
+Documentation of CRF corrections
+מדוע יש מסמכים שהיוזם לא נדרש לשמור
+?
+During
+© GCP Clinical Studies Ltd
+אל הקתעהל
+26
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Copies of SAE reports (Investigator to Sponsor)
+Copies of “expedited” SAE reports to regulatory authorities and IEC/IRB 
+(unexpected serious ADRs)
+Notification by sponsor to investigators of safety information
+Interim or annual reports to IEC/IRB
+During
+© GCP Clinical Studies Ltd
+Subject screening log
+Subject identification code list
+Subject enrolment log
+Investigational Product accountability at site
+Signature sheet/delegation log/site signature log
+During
+© GCP Clinical Studies Ltd
+אל הקתעהל
+27
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ESSENTIAL DOCUMENTS
+After completion of the trial
+דוגמאות
+© GCP Clinical Studies Ltd
+After
+Investigational Product (IP) accountability
+Documentation of IP destruction
+Subjects’ identification code list
+Audit certificate
+Close-out monitoring report
+Treatment allocation and decoding information
+Final investigator report to IEC/IRB
+Clinical study report
+© GCP Clinical Studies Ltd
+אל הקתעהל
+28
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+שמירת
+ 
+מסמכי
+ 
+הניסוי
+  /
+המחקר
+ לפי3
+ICH GCP R
+•
+ החוקר
+יתייק 
+וישמור את הכל המסמכים החיוניים הנדרשים על פי נספח C
+ 
+ ודרישות
+הרגולוציה
+ 
+המקומית למשך הזמן הגבוה מבין 
+השניים
+.
+•
+החוקר יוודא שלמסמכים תהיה גישה רק לאנשים מורשים וייתן ליוזם של שם איש קשר 
+לפי
+ 
+הנוהל
+ 
+בישראל
+:
+ניסוי
+ 
+רפוא
+י - 
+15 
+ שנים
+ 
+מתום
+ 
+הניסוי
+.
+
+ אם נלקחו דגימות גנטיות בניסוי
+, 
+הדגימות יישמרו 20
+ שנה
+במחקר
+ 
+איסוף
+ 
+נתונים
+ 
+רטרוספקטיבי
+ 
+או 
+שאלונים
+ -
+7 
+ שנים
+ 
+מתום
+ 
+המחקר
+.
+בכל
+ 
+מקרה
+ 
+  אין
+להשמיד
+  את 
+מסמכי
+ 
+המחקר
+  עד 
+לקבלת
+ 
+אישור
+ 
+בכתב
+ 
+מיוזם
+ 
+המחקר
+!
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+אל הקתעהל
+
+
+=== 7_Investigational Drug Development.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+שלבים בפיתוח תרופה
+Investigational Drug 
+Development 
+© GCP Clinical Studies Ltd
+ אורנה
+לנגרמן
+B.Pharm ; M.H.A
+מנהלת מרכז ההכשרה למחקר קליני
+  פי . סי .י'ג
+ניסויים קליניים בע
+"מ
+orna@gcp.co.il
+054-4770542
+© GCP Clinical Studies Ltd
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Stages & Activities
+Chemical & Biological Research
+Pre-Clinical Development
+Clinical (Human) Trials
+Regulatory Constrains
+© GCP Clinical Studies Ltd
+Investigational Medical Product Development 
+© GCP Clinical Studies Ltd
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Stages & Activities – cont.
+Chemical & Biological research
+Understand the Disease: Identify factors/targets causing/affected by the disease
+Discover the Drug: Search for the Chemicals/Biological capable to 
+prevent/treat/cure
+Test the Drug: In vitro/In vivo Activities in applicable models
+© GCP Clinical Studies Ltd
+Pre-Clinical Development
+Experimental Pharmacology:
+o Pharmacokinetics (PK): Absorbsion, Distribution, Metabolism, Elimination 
+(ADME)
+o Pharmacodynamics (PD): Efficacy-in Cell systems & Animal models (GLP)
+Toxicology: Acute/Chronic, Teratogenicity, 
+Mutagenicity, Carcinogenicity
+Feasibility: Proof of Concept (PoC)
+Stages & Activities – cont.
+© GCP Clinical Studies Ltd
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Investigational Medical Products Development 
+© GCP Clinical Studies Ltd
+Regulatory constrains - request an Approval to 
+initiate Human Clinical Investigations
+USA- Investigational New Drug (IND) application
+30 days “clock" response time
+EUR- Clinical Trial Application (CTA)
+60 days “clock” response time
+Stages & Activities – cont.
+© GCP Clinical Studies Ltd
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Investigational Medical Product Development 
+© GCP Clinical Studies Ltd
+Clinical Trials:
+
+The Final, Critical and most Expensive stage, in the 
+development process of new drug products.
+
+Concluding years of intensive Chemical, Biological & Pre-
+Clinical research, preparing for successful Marketing 
+Authorization.
+
+Must be conducted under strict cGCP Guidelines.
+Stages & Activities – cont.
+© GCP Clinical Studies Ltd
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Clinical Trials - Phase 0 (Exploratory)
+optional
+First in human, Sub-Therapeutics (micro dosing).
+10-15 healthy volunteers preliminary PK data.
+No safety or efficacy measures (Dosing Below therapeutic levels).
+Candidate molecules ranked according best PK profile for 
+further development.
+In accordance with U.S. FDA 2006 Guidance on Exploratory IND Studies
+© GCP Clinical Studies Ltd
+Clinical Trials - Phase I 
+(Exploratory)
+First time in human.
+Safety profile only.
+10-20 Healthy volunteers/Patients (e.g. HIV,Cancer).
+Short study duration (days, weeks).
+Closely monitored.
+Single and Multiple Ascending Doses .
+Tolerance/Escalation.
+Effect of Food.
+© GCP Clinical Studies Ltd
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Clinical Trials - Phase II 
+(Exploratory)
+Safety & Efficacy
+Patients diagnosed with indication to be treated
+Tens to Hundreds enrolled
+Dose Ranging/Tolerance
+Maximal positive effect/Minimal side effects
+© GCP Clinical Studies Ltd
+Pivotal Studies
+Confirm Safety & Efficacy
+Well Controlled
+More than one pivotal study (sometimes)
+Demonstrate Independent & Reproducible results
+Basis for Labeling claims
+Hundreds to Thousands patients enrolled
+Clinical Trials - Phase III  (Confirmatory)   
+© GCP Clinical Studies Ltd
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Investigational Medical Products Development 
+© GCP Clinical Studies Ltd
+Submission for Marketing Authorization
+All Chemical, Biological, Pre-Clinical & Clinical information on the Drug 
+Substance, Drug Product, its Manufacturing, Controls & Labeling.
+Regulatory Review:
+FDA: New Drug Application (NDA)
+Europe: Marketing Authorization Application (MAA)
+© GCP Clinical Studies Ltd
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Clinical Trials – Phase IV and 
+Post-Marketing Surveillance (PMS)
+Long-term safety profiles.
+Larger patients populations treated in daily medical 
+practice.
+Additional Promotional medical information.
+Discovery of potential different Indications.
+Cost/benefit marketing analyses.
+© GCP Clinical Studies Ltd
+Comparison with other existing approved 
+treatments.
+Possible Drugs Interactions.
+Effects in different populations (Age, Gender etc.)
+Comment !
+New Indications or Formulation changes   
+require NEW Trials but with “easier” Regulatory route.
+Clinical Trials – Phase IV and 
+Post-Marketing Surveillance (PMS)
+© GCP Clinical Studies Ltd
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Adaptive Seamless Designs
+Primary Objective:
+ 
+ Combine Phase II (Exploratory) dose selection and 
+Phase III (Confirmatory) into one continuous Trial.
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+
+
+=== 8_Informed consent.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ תהליך הסכמה מדעת וטופס
+ההסכמה מדעת
+Informed Consent process 
+& informed consent form 
+(ICF )
+ נוהל14
+ 
+ פרק2
+© GCP Clinical Studies Ltd
+מה הכוונה בהסכמה מדעת
+?
+ תנאי למתן טיפול רפואי מקובל
+/ 
+ניסיוני הוא הסכמה של המטופל לקבל 
+הטיפול על סמך המידע שניתן לו לצורך קבלת ההחלטה
+.
+בישראל
+, 
+הדרישה מעוגנת בחוק זכויות החולה
+, 1996
+ 
+ ובנוהל משרד
+הבריאות לניסויים רפואיים
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+נושאי ההרצאה
+ 
+ תהליך
+ההסכמה
+ 
+ דרישות משרד הבריאות
+לתהליך ולטופס 
+ההסכמה
+.
+ 
+ הסכמה בנוכחות
+  עד
+ הסכמה על ידי נציג חוקי
+.
+מקרים חריגים
+ עדכונים לטופס ההסכמה
+.
+© GCP Clinical Studies Ltd
+תהליך ההסכמה
+המידע הניתן לחולה צריך לכלול
+:
+ מידע בכתב
+)
+טופס ההסכמה
+(
+מידע בעל-  פה
+והסבר
+שאלות ותשובות
+הערכה של מידת ההבנה של החולה
+© GCP Clinical Studies Ltd
+אל הקתעהל
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+מי יכול להחתים על הסכמה מדעת
+?
+The investigator, or a person designated by the investigator, should fully inform the subject 
+of all pertinent aspects of the trial including the written information. 
+(ICH-GCP 4.8.5)
+ החוקר הראשי או חוקרי המשנה בתנאי
+שמתקיימים 3
+ תנאים
+:
+  
+ הם בעלי תעודתGCP
+ 
+ בתוקף
+, 
+בהתאם לדרישות המוסד ואושרו על ידי הועדה כחוקרים בניסוי 
+)
+טופס 1
+(
+בעלי השכלה רלוונטית לסוג הניסוי
+  קבלו
+האצלת סמכויות 
+בכתב  בטופס האצלת הסמכויות מהחוקר הראשי
+.
+החוקר הראשי יוודא כי מקבל הסמכות הוכשר לבצע התפקיד המוטל עליו ושהוא פועל בהתאם 
+להנחיות
+.
+ ©GCP Clinical Studies Ltd
+ מתי לדעתכם החוקר
+יכול לפנות 
+למשתתפים 
+ולהחתים 
+אותם 
+ 
+על טופס הסכמה 
+מדעת
+?
+ לפני בדיקת התאמה לניסוי
+)
+לפני SCREENING
+(
+?
+אחרי בדיקת התאמתם לניסוי
+ )
+אחרי SCREENING
+(
+?
+מה העיקרון המנחה
+?
+© GCP Clinical Studies Ltd
+אל הקתעהל
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אחריות החוקר לפי נוהל14-2-01
+ בתוקף ממאי2020
+© GCP Clinical Studies Ltd
+ ההנחיות משלימות ומוסיפות על דרישות הGCP
+-
+ICH
+החוקר יוודא כי קיים אישור
+ 
+בתוקף 
+לניסוי 
+לפני פנייה למשתתפים
+.
+ הסכמה
+להשתתפות בניסוי הרפואי תינתן 
+בכתב 
+)
+למעט יוצאים מן הכלל 
+,  (
+על גבי טופס הסכמה מדעת
+, 
+שאושר על ידי 
+ועדת הלסינקי לאותו ניסוי
+. 
+ החוקר ימסור למשתתף את
+המידע 
+בעל פה ובכתב 
+בשפה שמובנת למשתתף
+. )
+יש לדאוג לתרגומים במידת הצורך ולקבל 
+אישור מהועדה על התרגום
+(
+ הליך
+ההסכמה יבוצע מוקדם ככל 
+שניתן
+. 
+החוקר 
+יוודא כי ניתן למשתתף מספיק זמן לקרוא את טופס ההסכמה
+, 
+יאפשר 
+ויעודד את המשתתף להתייעץ עם גורמים נוספים ולשאול שאלות גם מעבר למעמד מתן ההסבר הראשוני
+. 
+החוקר יעשה 
+ככל שניתן לאפשר למשתתף לתת הסכמה מדעת ברצון ללא תלות 
+,
+או הפעלת לחץ או השפעה בלתי הוגנים
+. 
+ אחריות החוקר לפי נוהל14
+ 
+ פרק2
+ 
+© GCP Clinical Studies Ltd
+החוקר יתעד את הליך ההסכמה ברשומה הרפואית
+. 
+ בניסויים עם בדיקות
+גנטיות 
+ 
+החוקר יסביר אם יש משמעות רפואית קלינית לתוצאות ויתעד את רצון המשתתף 
+) 
+מעוניין
+/ 
+לא מעוניין 
+( 
+לקבל את התוצאות 
+)
+אם פרוטוקול המחקר מאפשר זאת
+(.
+טופס ההסכמה ייחתם ויתוארך על ידי המשתתף והחוקר המסביר
+. 
+אם קבלת ההסכמה מתבצעת ביום הטיפול הניסיוני יש לתעד גם את שעת החתימה
+.
+הטופס המקורי יישמר על ידי החוקר והעתק חתום של הטופס יימסר למשתתף
+.
+ לאחר החתימה
+, 
+באחריות 
+החוקר להעביר המידע על ההשתתפות בניסוי לרופא המטפל בקהילה
+. 
+העברת המידע לרופא 
+המטפל הינה תנאי להכללת המשתתף בניסוי
+. )
+טופס 11
+ 
+ ,
+ רלוונטי בניסויים
+התערבותיים
+(
+אל הקתעהל
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+ מתי יש צורך באנשים נוספים תהליך ההסכמה
+מדעת
+; 
+מלבד המשתתף והחוקר
+?
+תהליך ההסכמה מדעת
+; 
+צורך בעד-בלתי תלוי
+ כ
+שמשתתף 
+אינו מסוגל לקרוא את טופס ההסכמה 
+)
+בעיית ראייה
+, 
+אנאלפבית
+, 
+או מצב
+ 
+של דחיפות רפואית
+( 
+עד בלתי תלוי יהיה 
+נוכח 
+בכל תהליך 
+ההסכמה
+.
+ העד צריך לוודא שניתן הסבר
+ 
+למשתתף ושהקריאו לו את טופס ההסכמה וכל חומר נלווה לניסוי
+.
+ המשתתף יאשר בעל פה שהבין את הנאמר ויביע הסכמה להשתתף בניסוי ואם יכול
+, 
+יחתום על הטופס
+.
+ העד יחתום על הטופס
+.
+ חתימת העד מעידה כי המשתתף קיבל את מלוא ההסבר ונתן הסכמתו באופן חופשי
+   .
+ 
+ העד
+אינו 
+מסכים בשם המטופל
+.
+ מיהו העד הבלתי תלוי
+?
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+תהליך ההסכמה מדעת
+; 
+צורך בעד-בלתי תלוי
+ הגדרה של עד בלתי תלוי
+, 
+לפי נוהל משרד הבריאות 
+,
+הגדרות ומסמכים ישימים סעיף 46
+:
+"
+ עד בלתי תלויImpartial Witness -
+ :אדם
+, 
+שאינו קשור למחקר
+, 
+שאינו נתון להשפעה של מבצעי הניסוי
+.
+ )
+למשל
+, 
+מלווה או קרוב משפחה של המשתתף
+(.
+העד הבלתי תלוי נוכח בהליך ההסכמה וקורא את טופס ההסכמה או כל מידע כתוב אחר הנמסר למשתתף או 
+לאפוטרופסו
+."
+ ©GCP Clinical Studies Ltd
+העד נדרש לתעד הנוכחות שלו בתהליך  על טופס ההסכמה
+: 
+תהליך ההסכמה מדעת
+; 
+צורך במתורגמן
+ככלל
+, 
+לאחר שניסוי מאושר
+, 
+נוסח טופס ההסכמה בעברית
+, 
+ישמש כמקור לתרגום לשפות נוספות 
+בהתאם לאוכלוסייה אותה משרת המוסד
+. 
+אם משתתף קורא שפה אחרת מעברית וקיים טופס הסכמה מתורגם
+, 
+המשתתף יקבל טופס בשפה זו
+. 
+ההסבר בעל פה יינתן לחולה בשפה אותה הוא מבין
+. 
+ההסבר יינתן על-
+ ידי החוקר
+)
+במידה ויודע את שפת המשתתף
+,  (
+או באמצעות מתורגמן
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ במקרה והמשתתף אינו דובר עברית וחשוב לטובתו להכלילו בניסוי
+ואין אפשרות לספק תרגום כתוב 
+בפרק הזמן הנדרש
+ 
+וחשוב לטובתו 
+להכלילו
+ 
+בניסוי 
+:
+ יתאפשר תרגום בעל פה על ידי
+מתורגמן
+ 
+בנוכחות המשתתף
+, 
+החוקר
+ 
+ועד בלתי תלוי 
+שדוברים את שפת התרגום ואת 
+שפת הטופס
+.
+העד והמתורגמן
+ 
+יהיו נוכחים במעמד מתן ההסבר וקבלת ההסכמה 
+ויחתמו 
+על הטופס בנוסף למשתתף ולחוקר
+.
+המתורגמן
+ 
+הוא כל אדם שקורא את טופס ההסכמה
+, 
+דובר את שפת המשתתף 
+ואינו
+ 
+העד הבלתי תלוי
+.
+החוקר
+ 
+יתעד התהליך ברשומה הרפואית וידאג למסור למשתתף בהקדם תרגום של טופס ההסכמה לשפה שהוא 
+קורא
+.
+תהליך ההסכמה מדעת
+; 
+צורך בעד בלתי-תלוי ומתורגמן
+ ©GCP Clinical Studies Ltd
+במידה ולחוקר יש ספק לגבי כשירותו של המטופל
+, 
+וידוע לו 
+,
+שלא מונה למשתתף נציג חוקי
+, 
+על החוקר 
+לקבל הערכה של
+  
+פסיכיאטר
+, 
+גריאטר
+, 
+או רופא מומחה בתחום הרלוונטי
+ 
+שהוא בלתי-
+ תלוי במחקר או
+בחוקר
+.
+חוות דעתו של הרופא המומחה תתועד ברשומה לפני ביצוע הליך ההסכמה למשתתף
+.
+הרופא המומחה נדרש לחתום עם תאריך על חוות דעתו בנושא הכשירות
+.
+תהליך ההסכמה
+;
+ 
+צורך ברופא 
+מומחה להערכת כשירות המטופל 
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ תבניות
+טופס הסכמה לפי נוהל משרד הבריאות
+ תבנית
+טופס 2
+- 
+ לבגירים
+כשירים מגיל 18
+ :
+ 
+ סוגי טופס2
+:
+
+ טופס
+הסכמה מדעת להשתתפות בניסוי רפואי
+ 
+עם מוצר 
+)
+לשימוש 
+בניסויים 
+בתכשיר
+)2(/  'א
+) ר" אמ2(/  'ב
+תרפיה 
+מתקדמת
+) 2('ג
+
+ טופס הסכמה להשתתפות בניסוי ללא מוצר מחקר
+)
+טופס 2
+ ( '  ה
+
+ טופס הסכמה לניסוי גנטי
+)
+טופס 2
+ ( '  ד
+
+ טופס הסכמה מדעת להשתתפות במחקר שאלונים
+/ 
+נתונים קיימים 
+)
+טופס 2('ו
+ בהתאמה קיימות תבניות לטופס
+הסכמה
+, 
+טופס 3
+  למחקרים בקטינים ומחקרים בחוסים
+טופס הסכמה מדעת להשתתפות בניסוי רפואי- הורי קטין
+ )
+טופס 3.1
+ (
+טופס הסכמה מדעת להשתתפות בניסוי רפואי- אפוטרופוס
+ )
+טופס 3.2
+(
+דרישות טכניות בהכנת הטופס לאישור הוועדה
+:
+ מקסימום15
+ עמודים
+.© GCP Clinical Studies Ltd
+עיינו בתבנית טופס ההסכמה להשתתפות בניסוי רפואי וענו לעצמכם
+:
+לאיזה 
+מהנקודות הבאות 
+יש התייחסות בטופס 
+שיינתן למשתתף
+?
+שם החוקר הראשי
+?
+שם היוזם
+?
+נושא הניסוי
+?
+מטרות הניסוי
+?
+ההשתתפות היא בהתנדבות
+?
+מספר הפאזה בניסוי
+?
+תיאור מהלך הניסוי
+, 
+אופן הטיפול והמעקב
+?
+שיטות הניתוח הסטטיסטי
+?
+מידע על טיפול חליפי
+, 
+אם קיים
+?
+סיכונים ותופעות לוואי אפשריות
+?
+יידוע המשתתף בנוגע לשמירה על פרטיותו
+?
+הסכמה של המשתתף ליידע את רופא המשפחה על השתתפותו בניסוי
+?
+ הסכמה של המשתתף לכניסה של גורמים מורשים לתיק הרפואי שלו לצורך אימות
+ובקרה
+?
+כשיש מוצר מחקר בניסוי
+ 
+הוא יינתן למשתתף ללא עלות
+.
+ ישנה אפשרות שימשיך לקבל את מוצר המחקר בסיום הניסוי ללא עלות לתקופה
+מוגבלת
+?
+הסכמה נוספת לשימוש בניסויים בעתיד מידע או דגימות
+ ?
+ האם  המשתתף חייב להסכים להסכמה הנוספת וזה תנאי
+כדי שיוכל להשתתף בניסוי 
+כעת
+?
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+נושאים קבועים בהם רשאית הוועדה לאשר שינויים בנוסח הטופס
+ בניסוי עם מוצר
+מחקר
+, 
+ניתן לבקש אישור למחיקת סעיף -
+3.9
+ במקרים הבאים
+:
+.1
+ מוצר המחקר מיועד למתן חד פעמי או לתקופה קצובה
+)
+לא טיפול כרוני
+(.
+.2אם ידוע כבר בתחילת המחקר כי מתן ממושך לא מתאים ועלול להסב נזק
+.
+.3
+ כאשר מוצר המחקר אינו תכשיר רפואי
+)
+תרופה
+( 
+ואינו קנביס
+.
+.4כאשר יזם הניסוי הוא החוקר הראשי והניסוי לא ממומן בשום צורה על ידי חברה מסחרית
+.
+אם יאושר ע
+"
+י הוועדה למחוק
+, 
+חובה לציין מפורשות בטופס ההסכמה כי המשתתף לא ימשיך לקבל את 
+המוצר בסיום הניסוי
+ ©GCP Clinical Studies Ltd
+ נושאים קבועים בהם רשאית הוועדה לאשר שינויים בנוסח הטופס
+המשך
+ 
+ כאשר חלק
+מהסעיפים הקבועים בטופס לא רלוונטיים
+. 
+הוועדה רשאית לאשר הסרת הסעיפים 
+)
+כגון
+, 
+דגימות
+, 
+פוריות 
+וכד
+(. '
+לקיחת דגימות אינה נדרשת לצורך הכללת בניסוי או מעקב
+. 
+יש למחוק את סעיף 2
+ 
+ ולהשתמש בסעיפים8
+ 
+ או9
+.
+החוקר צריך לבקש בטופס הבקשה לניסוי את אישור הוועדה למחיקת מהסעיפים מטופס ההסכמה
+. 
+מחיקת הסעיפים מותנית באישור הוועדה
+.
+אישור החריגות יתועד בטופס 6
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+אוכלוסיות שלא יכולות לתת הסכמה
+ככלל
+, 
+מחקרים באוכלוסיות הבאות ייעשו רק אם המחקר תורם לקידום בריאותם
+.
+קטינים
+חסויים
+מי ייתן הסכמה במקומם
+?
+© GCP Clinical Studies Ltd
+הנציג
+ 
+החוקי
+?
+ הורים לקטין עד גיל18
+.
+ מעל גיל18
+ ,
+ אפוטרופוס שמונה על פי חוק הכשרות המשפטית
+והאפוטרופוסות
+ 
+תשכ
+ב  "1962
+.
+בן משפחה שלא מונה כנציג חוקי
+אינו רשאי
+לתת הסכמה במקום המשתתף
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ הליך הסכמה של
+קטינים
+ככלל
+, 
+שני הורי הקטין יקבלו הסבר
+, 
+יקראו את טופס ההסכמה ויחתמו עליו
+.
+ הקטין יקבל הסבר בהתאם לרמת הבנתו
+)
+ניתן להשתמש באמצעיים חזותיים שאושרו על ידי הוועדה
+(.
+ מגיל16
+ 
+ יש לקבל הסכמת הקטין על טופס הצהרה
+)ASSENT
+ (שיכיל את פרטי הניסוי בשפה פשוטה
+.
+ מתחת לגיל16
+ מספיקה הסכמת הקטין בעל- . פה
+על החוקר להתחשב בדעת הקטין לגבי אי-השתתפות בניסוי
+.
+ ©GCP Clinical Studies Ltd
+ הליך הסכמה של קטינים- המשך
+ קטין שבמהלך הניסוי מלאו לו18
+ שנה
+, 
+יחתום שוב על הסכמה ורשאי לבטל את ההסכמה
+.
+ 
+ במחקר גנטי קטין מעל גיל16
+ חייב
+ 
+לתת הסכמה 
+)
+בחתימה על טופס הסכמה
+( 
+ללקיחת דגימה גנטית
+.
+אסור
+ 
+להכין שורות תאים תמידיות מדגימות של קטינים
+.
+ההורים יקבלו עותק חתום של טופס ההסכמה
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ ניתן להסתפק בחתימת הורה אחד לאחר שהתקבל אישור לביצוע הניסוי
+ללא אישור מראש 
+במקרים 
+הבאים
+:
+.1
+ קטינים במשפחות
+יחידניות
+.
+.2
+ הורים
+גרושים או לא נשואים
+, 
+ויש
+ 
+צו בית משפט שקבע כי להורה אחד בלבד סמכות לקבל החלטות רפואיות
+.
+.3במחקר לא התערבותי בקטינים יש להוסיף על טופס ההסכמה
+ 
+הצהרה של ההורה החותם שהסכמתו מקובלת גם על 
+ההורה שאינו נוכח במקום
+. 
+לדוגמא
+:
+"
+בהסכמתי
+, 
+אתחייב לידע את אב
+/
+אם ילדנו על הסכמתי להשתתפות ילדנו בניסוי רפואי
+. 
+אם האב
+/
+האם אינו
+/
+אינה 
+מסכים לכך
+, 
+איידע את החוקר ואבטל את  הסכמתי להשתתפות ילדנו בניסוי
+"
+הסכמה של קטינים- הסכמה של הורה אחד
+, 
+למרות שהאישור 
+שניתן על ידי הוועדה דורש ככלל הסכמת שני הורים
+ ©GCP Clinical Studies Ltd
+ ניתן להסתפק בחתימת הורה אחד
+בתנאי
+שכן התקבל
+אישור
+ 
+מראש
+מוועדת הלסינקי 
+האישור תועד 
+ בטופס6
+ ,במקרים הבאים
+:
+.1בפרוטוקול ניסוי של טיפול שאינו סובל דיחוי במצב חירום
+.
+.2בפרוטוקול ניסוי של טיפול שאינו סובל דיחוי במצב דחיפות רפואית
+.
+הסכמה של קטינים- הסכמה של הורה אחד
+, 
+בתנאי שבהגשת 
+הניסוי לאישור הוגשה בקשה לוועדה וניתן אישור להחתמת הורה אחד
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+13
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+הליך הסכמה של חסויים
+ האפוטרופוס אחראי על מתן הסכמה בשם החסוי
+.
+ החסוי יקבל הסבר בהתאם לרמת הבנתו
+.
+ אסור
+ 
+להכין שורות תאים תמידיות מדגימות של חסויים
+.
+ החסוי לא נדרש לחתום על טופס ההסכמה אך על החוקר לתעד ברשומה כי ניתן לו הסבר
+.
+© GCP Clinical Studies Ltd
+הליך הסכמה של חסויים
+החוקר והאפוטרופוס יחתמו על טופס ההסכמה
+.
+ עותק חתום יינתן לאפוטרופוס
+.
+ אם צו האפוטרופסות מתבטל במהלך הניסוי יש ליידע החוקר
+, 
+והחוקר יבצע הליך הסכמה חדש לאפוטרופוס 
+החדש
+, 
+או למשתתף
+, 
+אם מתאפשר
+.
+ במקרה של אי-הסכמה בין בן-משפחה ואפוטרופוס
+, 
+רצוי לא להכליל המשתתף בניסוי
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+14
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+טופס הסכמה להורים לקטינים או לנציג חוקי
+טופס הסכמה מדעת להשתתפות בניסוי רפואי- הורי קטין
+ )
+טופס 3.1
+(
+טופס הסכמה מדעת להשתתפות בניסוי רפואי- אפוטרופוס
+ )
+טופס 3.2
+(
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+ 
+ בהכנות לקראת מחקר הכולל אוכלוסייה בגילאים15-25
+  
+איזה מסמכים נגיש לאישורה של ועדת הלסינקי
+?
+אל הקתעהל
+15
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+שינויים מהליך הסכמה רגיל
+ אפשרות לקבלת פטור מהסכמה בניסויים במטופלים במצבי חירום רפואיים
+)4.4.1
+(
+אפשרות לקבלת פטור מהסכמה בניסויים במטופלים במצב של אי-
+ כשירות זמנית
+)4.4.3
+(
+ ביצוע הליך הסכמה
+מקוצר
+ 
+בניסויים במטופלים במצב של דחיפות רפואית 
+)4.4.2
+(
+ אפשרות
+לקבלת פטור מהסכמה במחקרי דגימות 
+מותממות
+ )4.2
+(
+ אפשרות לקבלת פטור מהסכמה במחקרי איסוף מידע
+מותמם
+ 
+מרשומות רפואיות 
+)4.2
+(
+הסכמה במחקר שאלונים
+ ©GCP Clinical Studies Ltd
+פטור מהליך הסכמה במצב חירום רפואי
+הגדרה של מצב חירום
+: 
+סכנת 
+חיים 
+מיידית
+, 
+או קיימת סכנה 
+מיידית
+ 
+לנכות חמורה ובלתי הפיכה ו
+אין 
+אפשרות לתקשר עם החולה
+ 
+ואין 
+זמן להשיג הסכמה מאפוטרופוס 
+) 
+גם אם יש
+,  (
+כי הטיפול 
+חייב להינתן 
+ בחלון זמן
+קצוב
+. 
+ כאשר פרוטוקול ניסוי מיועד למטופלים במצב חירום
+ועדת 
+הלסינקי והוועדה העליונה רשאיות לאשר 
+ 
+את 
+ הניסוי
+ללא
+קבלת הסכמה אם מתקיימים כל התנאים הבאים
+:
+.1
+ הכללת
+המשתתף
+ 
+בניסוי בהתאם לקריטריונים
+ 
+בפרוטוקול תאושר
+גם
+על ידי 
+רופא בלתי תלוי במחקר
+.
+.2
+ החוקר מתחייב לנקוט בכל האמצעים הסבירים לקבלת הסכמה מאפוטרופוס
+)
+אם יש
+( 
+במסגרת חלון הזמן שהוגדר 
+בפרוטוקול הניסוי
+.
+.3
+ החוקר מתחייב שלא לשתף מטופל בניסוי שידוע שהוא או נציגו מתנגדים לקבלת טיפול רפואי וכן לא לשתף חולה שקרוביו
+הנמצאים במקום מתנגדים
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+16
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ פטור מהליך הסכמה במצב חירום רפואי- המשך
+5
+ .החוקר מתחייב שהמשתתף או נציגו החוקי יקבלו
+בהזדמנות הראשונה
+מידע מפורט על הניסוי ויחתמו על טופס הסכמה להמשך 
+השתתפות בניסוי
+. 
+המשתתף רשאי להפסיק השתתפותו בניסוי
+.
+6
+  .
+ אם לא יוגע במעמד הגיוס
+, 
+אז במהלך 
+הניסוי החוקר יידע קרוב משפחה מדרגה ראשונה על השתתפות החולה בניסוי
+. 
+אם קרוב 
+המשפחה מתנגד 
+, 
+תופסק השתתפות החולה בניסוי
+.
+-באופן כללי עדיף לשתף חולים שנתנו הסכמה בעבר להשתתף בכל ניסוי שקיבל אישור כדין
+, 
+או שיש להם
+ 
+אפוטרופוס לגוף
+, 
+או 
+מיופה כוח למתן טיפול רפואי 
+)
+בעדיפות לייפוי-כוח הכולל התייחסות להשתתפות
+במחקרים
+(.
+מתן פטור מהסכמה יתועד בטפסי האישורים לניסוי 
+)
+טפסים 6
+ ,
+8
+  ו-
+7
+.(
+© GCP Clinical Studies Ltd
+פטור מהליך הסכמה במצב של אי-כשירות זמנית
+ מצבים בהם משתתפים אינם כשירים לתת הסכמה
+  לא )
+מצב חירום או דחיפות רפואית
+,  (
+ למשל במחקרי
+איסוף מידע
+ 
+שאין בהם תועלת ישירה לחולה אך יש בו תועלת לציבור החולים במצבים 
+דומים בעתיד
+.
+ועדת הלסינקי המוסדית 
+והוועדה העליונה 
+רשאיות לתת פטור מהסכמה מדעת 
+אם מתקיימים התנאים 
+הבאים
+:
+.1המחקר מיועד לטובת טיפול
+/
+אבחון בעתיד של קבוצת חולים עליה נמנים משתתפי המחקר
+. 
+.2אין אפשרות לבצע המחקר בדרך סבירה אחרת
+.
+.3יש לתת עדיפות למשתתפים שהסכימו בעבר להשתתף בכל מחקר עתידי או שיש להם אפוטרופוס
+.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+17
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+פטור מהליך הסכמה במצב של אי-כשירות זמנית- המשך
+.5הפעולות במחקר אינן פולשניות
+. 
+פעולות פולשניות יאושרו במחקר כזה רק אם הן מבוצעות במילא במסגרת הטיפול 
+השגרתי
+, 
+ואינן
+ 
+גורמות נזק פיזי לנחקר
+.
+.6
+ הכללת חולה בניסוי תאושר
+בנוסף גם על ידי רופא בלתי תלוי
+.
+.7קרובי משפחה שנוכחים במקום לא מתנגדים
+. 
+בנוסף
+, 
+יש ליידע קרוב משפחה מקרבה ראשונה כי החולה הוכנס 
+למחקר
+. 
+במקרה של התנגדות יש להפסיק את השתתפות החולה במחקר
+.
+.8
+ הסכמה מדעת
+,
+בדיעבד
+, 
+תתקבל מהחולה בהזדמנות הראשונה בכל מקרה שזה אפשרי
+.
+מתן פטור מהסכמה יתועד בטפסים 6
+ 
+ ,
+8
+ ו-
+7
+.
+© GCP Clinical Studies Ltd
+אישור להליך הסכמה מקוצר במצב
+ 
+של דחיפות 
+רפואית
+הגדרת מצב דחוף
+:  
+כאשר 
+החולה במצב לחץ ונדרש טיפול רפואי דחוף וחתימה על טופס מלא אינה 
+אפשרית
+,  
+אך ניתן לתקשר עם החולה ולכן ניתן 
+לתת הסבר בעל פה
+.
+ בהגשת
+המחקר לאישור הוועדה רשאית לאשר שהמשתתף יקבל הסבר בעל-פה על ידי
+ 
+החוקר 
+בתנאים הבאים
+:
+.1
+ החוקר הגיש
+לועדה
+ 
+מראש
+ 
+ביחד עם כל מסמכי המחקר 
+ 
+נוסח מקוצר של טופס ההסכמה 
+בנוסף 
+לנוסח טופס ההסכמה 
+המלא
+. 
+נוסח ההסבר 
+המקוצר למטופל
+ 
+יכלול
+:
+אבחנה
+, 
+מטרה
+, 
+תיאור ההליך הניסיוני והיותו חדשני
+, 
+תועלת צפויה
+, 
+סיכונים הכרוכים בטיפול כולל תופעות לוואי
+, 
+כאב 
+ואי-נוחות
+, 
+תועלת וסיכונים של טיפולים חלופיים או של היעדר טיפול
+. 
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+18
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+הליך הסכמה במצב
+ 
+של דחיפות רפואית - המשך
+.3המטופל יחתום על
+ 
+נוסח טופס מקוצר טופס שמעיד כי קיבל כל ההסבר הנ
+"
+ל בעל פה תוך ציון הנסיבות להסבר בצורה זו
+. 
+אם המטופל לא מסוגל חתום על הטופס
+, 
+החוקר יסביר בטופס את הסיבה ויתעד קבלת ההסכמה בעל פה
+. 
+.4
+ 
+ ההסבר
+יינתן למטופל 
+בנוכחות עד בלתי-תלוי
+ 
+שיחתום גם על הטופס
+.
+.5לאחר התאוששות המטופל
+, 
+יידרש לחתום על טופס 
+ההסכמה 
+מלא במידה וירצה להמשיך בניסוי
+.
+אישור הוועדה להליך הסכמה מקוצר בעל-
+ פה יתועד בטפסים6
+ ו-
+7
+.
+© GCP Clinical Studies Ltd
+ 
+
+ אם הדגימות
+מזוהות
+ 
+באופן ישיר 
+או מקודדות 
+)
+זיהוי עקיף באמצעות קוד
+,  (
+יתאפשר 
+ להשתמש
+בדגימות ללא הסכמה עכשווית  
+רק בתנאי
+ 
+שנותני הדגימות חתמו בעבר על 
+הסכמה לשימוש בדגימות לכל ניסוי עתידי מאושר כדין
+.
+
+ אם
+אין הסכמה כזו שניתנה בעבר
+, 
+יש לאתר המטופל ולקבל 
+הסכמתו
+.
+
+ 
+  רק אם מאגר הדגימות  שרוצים לעשות עליו את המחקר הוא של דגימות אנונימיות
+בלתי 
+ מזוהות
+אז ניתן לקבל 
+פטור 
+מהסכמה 
+)
+לא נפוץ
+(
+ הסכמה
+מדעת במחקרים על דגימות 
+קיימות
+© GCP Clinical Studies Ltd
+אל הקתעהל
+19
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אפשרות לפטור מהסכמה מדעת במחקרי איסוף נתונים
+קיימים 
+)
+רטרוספקטיביים
+(
+תנאים 
+למתן הפטור
+:
+ המידע הרפואי שנלקח מהרשומה יעבור תהליך של
+התממה
+ )De Identification
+.(
+התממה
+: "
+תהליך להפחתת הסיכון לזיהוי הפרט מתוך מידע בריאות בין היתר באמצעות 
+אגרגציה
+ )
+קיבוץ נתונים
+,  (
+הפחתת דיוק הנתונים באמצעות שימוש בטווח במקום בערך מדויק
+, 
+השמטת פרטים
+, 
+קידוד הצפנה וכדומה
+".
+התממת
+ 
+הנתונים
+, 
+תעשה רק על ידי איש צוות מתוך ארגון הבריאות שבו נעשה המחקר ושיש לו הרשאה מתאימה
+.
+)
+חוזר מנכ
+ל  "1/2018
+ "שימושים משניים במידע בריאות
+"(.
+
+ מחקרי ביג דאטה- יש לבדוק אם יש במוסד תהליכים נוספים לצורך קבלת אישור
+ ©GCP Clinical Studies Ltd
+ הסכמה
+מדעת 
+במחקרי שאלונים
+ אם הוועדה תשתכנע שקיים סיכון למשתתף מחשיפת מידע מזהה אודותיו מעצם מילוי פרטיו
+בטופס ההסכמה
+, 
+או שלא מעשי לקבל הסכמת המשתתפים שממלאים את השאלון 
+)
+שאלונים 
+אנונימיים
+( 
+אז הוועדה רשאית לאפשר הקלות בהסכמה מדעת במחקרי שאלונים ובתנאי ש
+:
+ הוועדה תבין כיצד תעשה הפניה למשתתפים וכיצד תתקבל הסכמתם
+, 
+גם אם לא בכתב
+.
+ 
+ אם יינתן פטור
+מחתימה
+ 
+בכתב על טופס הסכמה מדעת למחקר שאלונים
+, 
+אז ההסכמה 
+תינתן בגוף השאלון
+. 
+השאלון יכלול פתיח שמסביר שמדובר בשאלון לצורך מחקר
+, 
+שאין חובה לענות על 
+השאלון ומענה של המשתתף על השאלות מהווה הסכמה
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+20
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+עדכונים לטופס הסכמה
+ יש להודיע למשתתף
+/ 
+נציגו החוקי על כל מידע חדש שיתגלה במהלך הניסוי שעשוי להשפיע על 
+החלטתו להמשיך בניסוי
+. 
+ 
+ כל שינוי במידע הנמסר למשתתפים בטופס ההסכמה וכל מסמך כתוב אחר נדרש לאישור מראש של
+ועדת הלסינקי
+.
+ יש לתעד הסכמת המשתתף להמשיך בניסוי
+.
+ 
+אישור ועדת הלסינקי
+- תאריך וגרסה
+ ©GCP Clinical Studies Ltd
+מי צריך לחתום על טופס ההסכמה המעודכן
+?
+ חולים שכבר במחקר שהמידע רלוונטי להם
+, 
+יחתמו על טופס מעודכן מלא או 
+נספח עם העדכונים
+ 
+בהקדם 
+ האפשרי
+)
+בהתאם למה שאושר על ידי הוועדה
+(.
+ משתתפים חדשים יחתמו על גרסה מלאה מעודכנת
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+21
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+Informed Consent 
+Electronic 
+Consent)
+-
+(e
+© GCP Clinical Studies Ltd
+ נוהל169
+ של משרד הבריאות
+תחולה החל מ-
+18.10.20
+אל הקתעהל
+22
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ עקרונות נוהל169
+:
+© GCP Clinical Studies Ltd
+ הבחירה האם לעשות שימוש באמצעים דיגיטליים בתהליך קבלת ההסכמה
+תיעשה תוך בחינה של הניסוי לגופו
+, 
+ותוך איזון בין התועלות עשויות להתקבל 
+משימוש באמצעים אלה לבין הסיכונים הכרוכים בהם
+. 
+יש לקחת בחשבון
+:
+סוג הניסוי
+;
+חומרת ההתערבות הרפואית
+;
+מידת סיכון למשתתף
+;
+מאפייני האוכלוסייה
+;
+מצב בריאותי
+; 
+מידת נגישות למקום בו מתנהל הניסוי
+;
+כמות משתתפים
+.
+               
+© GCP Clinical Studies Ltd
+ על
+הוועדה האתית לבחון ולאשר את השימוש באמצעים דיגיטליים בהליך הסכמה מדעת
+, 
+בדגש על 
+יתרונות
+, 
+חסרונות והאמצעים הקיימים למזעור סיכונים והדרת אוכלוסיות
+.
+ על
+המשתתף 
+להסכים לשימוש באמצעים דיגיטליים בהליך הסכמה מדעת
+.
+ יש לאפשר גמישות לשימוש בטופס הסכמה וחתימה ידניים
+.
+ בהסכמה מרחוק
+, 
+אותם עקרונות כמו הסכמה במפגש פיזי
+.
+ 
+ הסכמה מרחוק
+≠ 
+הסכמה אלקטרונית
+.
+ ככלל
+, 
+יש להעדיף ולקיים מפגש 
+"
+פנים מול פנים
+" )
+אפשרי גם באמצעים דיגיטליים
+(. 
+בניסוי עם סיכון משמעותי ייעשה מאמץ לקיים מפגש פיזי
+.
+עותק חתום פיזי או דיגיטלי של טופס ההסכמה יישמר על ידי החוקר ויימסר למשתתף
+.
+על אמצעי החתימה לספק תיעוד של מועד וזמן החתימה והמסמך יינעל לשינויים לאחר החתימה
+.
+ ככל שרמת הסיכון בניסוי גבוהה יותר יש לעשות שימוש באמצעים שיבטיחו זיהוי המשתתף ברמת
+ודאות גבוהה יותר במהלך תהליך ההסכמה והחתימה
+.
+עקרונות נוהל 169
+:
+אל הקתעהל
+23
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ סיכום
+ 
+ שימו לב שבחרתם בתבנית טופס ההסכמה שמתאימה לסוג הניסוי שלכם ולסוג
+האוכלוסייה 
+)
+בגירים
+, 
+קטינים
+, 
+חסויים
+(
+ טופס עם טקסט פשוט ומובן
+.
+ לפנות זמן ומקום ראויים לתהליך ההסכמה
+.
+ להאציל סמכות להחתמה לאנשי צוות מחקר נוספים
+.
+© GCP Clinical Studies Ltd
+© GCP Clinical Studies Ltd
+אל הקתעהל
+
+
+=== 9_Adverse Event.pdf ===
+
+1
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אירועים חריגים ודיווחי בטיחות
+בניסוי 
+קליני 
+עם מוצרי מחקר
+© GCP Clinical Studies Ltd
+מטרות
+ 
+ להגדיר
+מהם אירועים חריגים ולסווג אותם לקבוצות
+.
+להגדיר את מסלולי
+  
+התיעוד והדיווח של כל הצדדים המעורבים
+.
+References:
+ 
+ICH Guideline E6; GCP guidelines
+ 
+ICH Guideline E2A; Clinical Safety Data Management : Definitions and Standards for Expedited 
+Reporting
+נוהל משרד הבריאות-
+ נוהל164
+ 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+2
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ 
+ נוהל164
+-
+ דיווח ומעקב על מידע בטיחותי
+ 
+במהלך ניסויים רפואיים בבני 
+אדם
+הנוהל מתייחס למוצרי מחקר שאינם רשומים במדינת ישראל
+: 
+תכשירים
+, 
+ ר" אמ
+ותרפיות מתקדמות
+.
+הכוונה למוצרים שטרם נרשמו
+, 
+או מוצרים שנרשמו אך נעשה בהם שימוש באופן שונה מהשימוש הרשום
+  או ,
+כאשר השימוש הוא להתוויה חדשה
+, 
+או כאשר השימוש בו נועד לרכוש מידע נוסף על השימוש הרשום
+.
+כמו כן
+, 
+יש לדווח על אירועים חריגים שהתרחשו כתוצאה 
+מפרוצדורות רפואיות 
+המהוות חלק מתוכנית 
+הניסוי
+, 
+לרבות פרוצדורות מקדימות למתן מוצר המחקר
+.
+דיווחי בטיחות 
+למוצרים רשומים בארץ
+, 
+כאשר השימוש במוצר הוא בהתאם לתנאי הרישום יישלחו למחלקה 
+לניהול סיכונים ומידע תרופתי לתכשירים כולל תרפיות מתקדמות
+, 
+בהתאם להנחיות 
+נוהל 6
+ 
+ של מערך
+הרוקחות והאכיפה
+.
+לאגף 
+ ר" אמ- 
+ למוצרים בעלי אישור
+,  ר" אמ
+בהתאם להנחיות האגף
+.
+© GCP Clinical Studies Ltd
+הגדרות
+© GCP Clinical Studies Ltd
+אל הקתעהל
+3
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Adverse Event (AE)
+- אירוע חריג
+“Any untoward medical occurrence in a patient or clinical investigation 
+subject administered a pharmaceutical product and that does not necessarily 
+have a causal relationship with this treatment” (ICH-GCP 1.2, ICH E2A).
+A causal relationship is not required !
+ אירוע חריג-  תופעה רפואית בלתי רצויה שאירעה למשתתף בניסוי קליני
+, 
+המטופל במוצר 
+מחקר
+, 
+ואשר אין בהכרח קשר בין התופעה לטיפול במוצר
+.
+)נוהל משרד הבריאות
+, 
+הגדרות
+( 
+ ©GCP Clinical Studies Ltd
+Adverse Event (AE)
+An AE can therefore be any unfavourable and unintended
+sign (including abnormal finding).
+symptom.
+disease.
+(ICH-GCP 1.2, ICH E2A)
+© GCP Clinical Studies Ltd
+הקתעהל אל
+4
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אירוע חריג רציני- 
+Serious Adverse Event (SAE)
+אירוע חריג שהוא אחד מאלה יוגדר כSAE
+:
+מוות
+.
+מסכן חיים
+.
+ דורש אשפוז
+או להארכת משך האשפוז הקיים 
+)
+למשל לצורך 
+התערבות רפואית
+(.
+ 
+ מסתיים
+ב
+נכות 
+או למוגבלות קשה ו
+/
+או ממושכת
+.
+ 
+ מסתיים
+ב
+מות 
+עובר
+, 
+או מצוקה עוברית
+, 
+או מום מולד
+.
+*   
+וכל אירוע אחר שלשיקול דעתו של החוקר הוא משמעותי והחוקר 
+חושב שצריך להתייחס אליו כSAE 
+results in death.
+is life-threatening.
+requires or prolongs existing 
+hospitalization.
+results in persistent or significant 
+disability or incapacity.
+is a congenital anomaly/birth defect”.
+ICH E6 1.50
+© GCP Clinical Studies Ltd
+Adverse Drug Reaction (ADR/SADR) 
+“All noxious and unintended responses to a medicinal product related to any dose 
+should be considered adverse drug reactions.
+Responses to a medicinal product -
+a causal relationship between a medicinal product and an adverse event is at least a 
+reasonable possibility, ie. The relationship cannot be ruled out.”
+(ICH-GCP 1.1, ICH E2A)
+© GCP Clinical Studies Ltd
+ בניסויים במכשור רפואי ייקראAdverse Device Effect : ADE/ SADE
+אל הקתעהל
+5
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+Unexpected AE/SAE
+“An adverse event, which the nature or severity is not consistent with the 
+applicable product information”
+  
+(e.g., Investigator’s Brochure for an unapproved investigational product or package 
+insert/summary of product characteristics for an approved product)”
+(ICH-GCP 1.60, ICH E2A)
+© GCP Clinical Studies Ltd
+SUSAR / USADE 
+SUSAR: 
+SUSPECTED UNEXPECTED SERIOUS ADVERSE REACTION
+USADE:
+UNANTICIPATED SERIOUS ADVERSE DEVICE EFFECT
+אירוע חריג רציני
+, 
+שאופיו
+,
+תדירותו
+, 
+הופעתו או חומרתו אינם תואמים את המידע הקיים ואשר נמצא 
+קשר נסיבתי סביר או אפשרי בין התכשיר לאירוע
+. 
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+6
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ תיעוד ודיווח על אירועים
+חריגים
+© GCP Clinical Studies Ltd
+ תיעוד
+ודיווח על אירועים חריגים
+:
+ תיעוד שגרתי על אירוע חריג
+)AE
+(
+ תיעוד
+ודיווח 
+מיידי
+ 
+על SAE
+ דיווח
+על SUSAR
+© GCP Clinical Studies Ltd
+אל הקתעהל
+7
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ תיעוד שגרתי עלAE
+מה יתועד כ-
+AE
+ 
+?
+AE 
+ כוללים
+:
+שינוי ממצב הבסיס
+.
+תוצאות מעבדה חריגות
+, 
+בדיקות 
+הדמייה
+ 
+עם ממצאים וכד
+'.
+AE 
+ כוללים גם אירועים שדרושים התערבות כגון
+:
+שינויים במינון תרופת המחקר
+.
+שינויים במינון תרופות נוספות קבועות או מתן תרופות חדשות
+.
+הפנייה לבדיקות
+.
+)
+המידע על האירוע יגיע ליוזם דרך ה-
+CRF
+ ודוחות המוניטור- 
+CRA
+(
+© GCP Clinical Studies Ltd
+ תיעוד אירועים חריגים
+)
+(AE/ADR
+ אירועים חריגים
+)AEs 
+ (
+ ותופעות לוואי
+) Adverse Drug Reaction
+(
+ ברשומה הרפואית של המטופל
+= source document
+ 
+ב- 
+Case Report Form 
+)
+CRF
+(
+באחריות החוקר לתעד
+© GCP Clinical Studies Ltd
+אל הקתעהל
+8
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ דוגמא לטופס תיעוד
+)- (AE/ADR
+© GCP Clinical Studies Ltd
+דירוג חומרת האירוע על ידי החוקר
+מקובל לסווג לפי
+ )mild, moderate, severe
+(
+שימו
+ 
+לב 
+!
+Serious ≠ Severe
+© GCP Clinical Studies Ltd
+אל הקתעהל
+9
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ תיעוד ודיווח על
+/ SAE, SADR
+ 
+    
+ כלSAE
+ 
+ יתועד ברשומה
+  ובCRF
+ ובנוסף
+:
+ ה כל-
+SAE
+ 
+ חייבים בדיווח
+מיידי
+ 
+ליוזם המחקר לפי לו
+"
+ז שהגדיר היוזם 
+בפרוטוקול
+.
+יוצאים מהכלל
+, 
+יהיו אירועים ספציפיים שנחשבים לפי ההגדרה
+  SAE
+ ,
+ אבל
+היוזם ציין בפרוטוקול שאינם דורשים דיווח 
+מיידי
+.
+ בדרך כלל הדרישה היא תוך24
+ שעות
+.
+ממתי השעון מתחיל לתקתק
+?
+© GCP Clinical Studies Ltd
+ דוגמה לטופס דיווח ליזם עלSAE 
+© GCP Clinical Studies Ltd
+אל הקתעהל
+10
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ דוגמה לטופס13
+  
+ לדיווח
+לועדת
+ 
+הלסינקי על SAE 
+© GCP Clinical Studies Ltd
+ כל אירועSAE
+ 
+  ייבדק
+מיידית
+ 
+על ידי היזם 
+ויוחלט האם מדובר בSUSAR
+ לוחות זמנים שהיוזם
+נדרש להוציא די
+ו
+וח  
+אם הוחלט על SUSAR
+ על פי הנהלים הבינלאומיים ונוהל
+164
+:
+ 
+SUSAR   
+  מוות או מסכן חיים- 
+7
+ ימים
+SUSAR    
+  אשפוז
+, 
+נכות
+, 
+מום מולד
+ –15
+  יום
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+11
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ השלכות
+אפשריות של 
+מידע בטיחותי חדש על הניסוי 
+הקליני
+ 
+אם היוזם הגדיר SUSAR 
+  
+ או יש לו מידע
+בטיחותי 
+חדש מבוסס סטטיסטית 
+רשויות רגולציה 
+חוקר  ועדת הלסינקי
+ ההשלכות
+בעקבות 
+מידע בטיחותי 
+ חדש מבוסס סטטיסטית
+יכולות 
+להיות
+:
+1
+ .עדכוני הסכמה מדעת
+2
+ .תיקונים לפרוטוקול
+3
+ .השהיית גיוס משתתפים
+4
+ .הפסקת הניסוי© GCP Clinical Studies Ltd
+אם נדרש על פי רגולציה מקומית
+ דרישות
+נוספות
+  
+ לדיווח
+על פי נוהל 
+ 164
+ 
+ של משרד
+הבריאות
+על אירועי SAE
+© GCP Clinical Studies Ltd
+אל הקתעהל
+12
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אחריות החוקר-
+ תיעוד ודיווחSAE
+ 
+ על פי נוהל164
+ של משרד הבריאות בניסויים עם חברות יוזמות-
+SAE  מוות
+. 
+החוקר יתעד ברשומה 
+ובCRF
+ וידווח ל
+:
+SAE 
+ מסכן חיים
+. 
+החוקר יתעד 
+ברשומה 
+ובCRF
+   
+ וידווח ל
+:
+SAE
+ אשפוז
+, 
+נכות
+, 
+מום מולד החוקר 
+יתעד ברשומה 
+ובCRF
+ וידווח ל
+:
+וועדת הלסינקי
+יוזם
+ לא
+SUSAR
+ היוזם
+  לא
+יודיע 
+ לחוקר אבל
+החוקר 
+  כן
+צריך 
+ להודיע לוועדה
+שזה לא 
+SUSAR
+© GCP Clinical Studies Ltd
+מיידית
+ 
+תוך 
+24
+ שעות
+תוך 48
+ 
+ שעות
+ כן
+SUSAR
+ החוקר צריך לדווח
+לועדה
+  
+מיידית
+ 
+שזה SUSAR 
+ היוזם יודיע לחוקר
+תוך 7
+ 
+   ימים
+יוזם
+מיידית
+ 
+תוך 
+24
+ שעות
+ החוקר
+יתעד כי 
+הוחלט 
+שזה לא
+SUSAR 
+ ואין
+צורך לדווח 
+לוועדה
+. 
+החוקר 
+רשאי לדווח 
+לוועדה אם 
+לדעתו הסיווג 
+שונה
+.*
+ החוקר צריך לדווח
+לועדה
+ 
+מיידית
+ 
+שזה SUSAR 
+יוזם
+מיידית
+ 
+תוך 
+24
+ שעות
+ החוקר יתעד כי הוחלט
+שזה 
+לא SUSAR
+ 
+ ואין צורך
+לדווח לוועדה
+. 
+החוקר רשאי לדווח 
+לוועדה אם לדעתו 
+הסיווג שונה
+.* החוקר צריך
+לדווח 
+לועדה
+ 
+שזה 
+SUSAR 
+ היוזם יודיע לחוקר
+תוך 15
+ 
+   ימים
+ היוזם יודיע לחוקר
+תוך 7
+ 
+   ימים
+*
+ 
+ לבדוק
+בנוהל הועדה במוסד אם דורשת דיווח בכל מקרה
+אחריות החוקר- המשך
+יש להודיע לוועדה
+  
+תוך 7
+-
+ ימים
+על החלטה של רשות רגולציה
+, 
+המתייחסת להמשך הניסוי מטעמי בטיחות 
+)הפסקה זמנית או מוחלטת
+, 
+המשך לאחר הפסקה
+  (.
+.1עדכון ב- 
+IB
+  לאחר שאושר במדינה מוכרת
+. 
+.2
+ ממצאים שעלולים להשפיע על בטיחותם של המשתתפים בניסוי
+)
+למשל קרצינוגניות
+, 
+חוסר יעילות במחלה מסכנת חיים
+  .(
+.3מידע חדש שפורסם ע
+"
+י היצרן
+, 
+רשות בריאות או בספרות שיש לו השלכות על בטיחות של המוצר
+. )
+מידע הכולל איסור
+, 
+הגבלה
+, 
+אזהרה שקשורה לבטיחות
+(
+.4מסקנות ועדת הבטיחות לניסוי הרפואי בה הוחלט על שינויים בפרוטוקול בעלי השפעה
+  
+על בטיחות המטופלים או הפסקת ניסוי
+.
+.5יש לדווח על כל אירועי ה- 
+SUSAR/USADE
+  לפחות פעם בחצי שנה
+, 
+תוך שמירה על סמיות המחקר
+.
+לכל הדיווחים לעיל
+, 
+החוקר
+ 
+יצרף סיכום של הממצאים בנושא הבטיחות וכן השלכתם על המידע
+ 
+שיש למסור למשתתפים בניסוי שגויסו או 
+גויסו
+.
+במקרים בהם נדרש עדכון טופס
+ 
+ההסכמה
+, 
+יצורף גם המידע החדש שיימסר למשתתפים כולל לוחות הזמנים ואופן הפנייה למשתתפים
+.
+© GCP Clinical Studies Ltd
+אל הקתעהל
+13
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ דיווח של החוקר
+חברה היוזמת 
+על אירועים חריגים 
+ רציניים
+)SAEs
+(
+ב-
+CRF
+ ברשומה
+הרפואית
+של המטופל
+ דיווחיSUSAR
+שהתקבלו מהיוזם
+לועדת
+ 
+הלסינקי
++
+ דיווח על
+מקרה 
+מוות 
+גם 
+אם 
+לא הוגדר 
+SUSAR
+ 
+  
+ אם
+מוות- 
+ דיווח בכתב
+" ליו
+ר ועדת הלסינקי
+, 
+תוך 48
+ שעות
+, 
+בטופס 13
+ דיווח
+מיידי
+ 
+ליוזם הניסוי
+ בכתבSAE REPORT
+ דוחות
+בטיחות 
+שמתקבלים 
+מהיוזם
+2
+1
+3
+4
+5
+© GCP Clinical Studies Ltd
+ אחריות החוקר  בדיווח
+על SAE 
+ במחקר של
+חוקר- יוזם
+ על פי נוהל164
+© GCP Clinical Studies Ltd
+אל הקתעהל
+14
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ 
+ אחריות
+יוזם- חוקר-
+ תיעוד ודיווחSAE
+ 
+ על פי נוהל164
+ של משרד הבריאות
+SAE  מוות
+. 
+החוקר יתעד ברשומה 
+ובCRF
+ וידווח ל
+:
+SAE 
+ מסכן חיים
+. 
+החוקר יתעד 
+ברשומה 
+ובCRF
+   
+ וידווח ל
+:
+SAE
+ אשפוז
+, 
+נכות
+, 
+מום מולד החוקר 
+יתעד ברשומה 
+ובCRF
+ וידווח ל
+:
+וועדת הלסינקי
+© GCP Clinical Studies Ltd
+ תוך48
+ 
+ שעות
+תוך 7
+ ימים תוך15
+ יום
+וועדת הלסינקי
+וועדת הלסינקי
+בכל המקרים הנ
+"
+ל של
+  SAE
+ 
+ באחריות החוקר
+להיות בקשר עם היצרן או 
+בעל הרישום של מוצר המחקר
+, 
+לדווח על האירוע החריג ולקבל את המידע 
+הבטיחותי המעודכן ביותר על מוצר המחקר
+. 
+זאת
+, 
+על מנת לבצע הערכת 
+בטיחות מבוססת מידע 
+על מידת הרצינות של האירוע
+, 
+הקשר האפשרי למוצר המחקר וכן הערכה 
+האם האירוע צפוי
+.
+ הדיווח לוועדה באמצעות טופס13
+.
+© GCP Clinical Studies Ltd
+דרישות
+לדיווח 
+על פי נוהל משרד הבריאות
+נוהל 164
+ ו- 
+E2A
+ 
+ICH
+ 
+                          אחריות היוזם
+אל הקתעהל
+15
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אחריות היוזם בדיווח
+)1
+(
+ 
+ דיווחיSUSAR
+ לחוקרים
+:
+
+ היזם יעביר
+לכל החוקרים 
+" דו
+ח בטיחות על אירוע שהגדיר  SUSAR
+.
+
+ במקרה של מוות או אירוע מסכן חיים בתוך7
+ ימים
+, 
+במקרים אחרים 
+–
+בתוך 15
+ ימים
+.
+אם נדרש עדכון טופס ההסכמה
+, 
+יצורף גם המידע החדש שיימסר למשתתפים כולל לוחות הזמנים ואופן הפניה 
+למשתתפים
+.
+
+ היוזם יעביר
+לחוקר
+ 
+רשימה מרוכזת תקופתית 
+)
+לפחות כל חצי שנה
+(  
+של כל דיווחי ה-
+SUSAR
+.
+© GCP Clinical Studies Ltd
+ אחריות היוזם בדיווח
+)2
+(
+ דיווחיSUSAR 
+  למשרד הבריאות
+:  
+
+ היזם ידווח
+למשרד הבריאות רק אם
+ 
+מדובר ב- 
+SUSAR
+ 
+ שהתרחש במרכזים
+בארץ
+.
+הדיווח יישלח בדוא
+"
+ל לתיבת 
+'
+בקרה על ניסויים קליניים
+':ct_compliance@MOH.GOV.IL
+ 
+בנושא ההודעה
+: 
+מחקר סמוי
+/
+לא סמוי
+, 
+מספר הפרוטוקול
+, 
+המרכז בארץ ותאריך הדיווח הכולל חודש ושנה
+. 
+בגוף ההודעה יש לצרף את פרטי המקרה ולהתייחס למוצר אותו קיבל המשתתף
+. 
+המידע שיישלח למשרד הבריאות יהיה ללא סמיות
+. 
+בנוסף ההודעה תכלול החלטת היזם על המשך הניסוי ושינויים הנדרשים במידע שיימסר למשתתפים
+.
+היוזם ידווח למשרד הבריאות ללא סמיות בתקציר דו
+"
+ח שנתי 
+)DSUR
+ 
+ הכולל את כל מידע הבטיחותי חדש
+שהצטבר בניסוי במהלך השנה
+(. 
+הדיווח ייעשה תוך 60
+ יום
+  
+מהפקת הדו
+"ח.
+ ©GCP Clinical Studies Ltd
+אל הקתעהל
+16
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+ אחריות היוזם בדיווח
+)3
+(
+ היוזם ידווח
+לחוקר ולמשרד 
+הבריאות תוך 15
+ 
+ יום על
+:
+
+ כל ממצא חדש שעלול להשפיע על בטיחות החולים
+.
+
+ 
+ מסקנותDSMB
+ לגבי שינויים בפרוטוקול
+, 
+המשך או הפסקת הניסוי
+.
+
+ עדכוני בטיחות לחוברת לחוקר שאושרו במדינה מוכרת
+.
+ על היזם להעביר
+גם 
+לחוקר  
+למשרד הבריאות בתוך 7
+ ימים
+: על 
+
+ החלטות עקרוניות של רשויות רגולטוריות ממדינות מוכרות
+, 
+המתייחסות להמשך ביצוע הניסוי
+.
+
+ דיווחי היוזם יישלחו למשרד הבריאות לכתובת
+    :
+clinicaltrials.pharm@moh.health.gov.il
+clinical.trials.devices@moh.health.gov.il
+ עבור תרופה רשומה גם לadr@moh.health.gov.il
+© GCP Clinical Studies Ltd
+Data & Safety Monitoring 
+Board (DSMB)
+© GCP Clinical Studies Ltd
+Independent Data Monitoring 
+Committee (IDMC)
+אל הקתעהל
+17
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+DSMB / IDMC 
+Definition:
+Independent expert panel appointed to assess at intervals the progress of a 
+Independent expert panel appointed to assess at intervals the progress of a 
+Independent expert panel appointed to assess at intervals the progress of a 
+Independent expert panel appointed to assess at intervals the progress of a 
+clinical trial, the safety data and the critical efficacy endpoints, and to 
+clinical trial, the safety data and the critical efficacy endpoints, and to 
+clinical trial, the safety data and the critical efficacy endpoints, and to 
+clinical trial, the safety data and the critical efficacy endpoints, and to 
+recommend to the sponsor whether to continue, modify or stop a trial.
+recommend to the sponsor whether to continue, modify or stop a trial.
+recommend to the sponsor whether to continue, modify or stop a trial.
+recommend to the sponsor whether to continue, modify or stop a trial.
+© GCP Clinical Studies Ltd
+DSMB / DMC
+ The board should have written operating procedures and maintain written records of all its 
+meetings (ICH-GCP 5.5.2)
+The board composition:
+
+Clinicians who are experts in the therapeutic area
+
+Biostatisticians who understand the statistical methods used to analyze the data
+
+Medical ethicists to give advice on ethical aspects
+
+Pharmacologists, epidemiologists, toxicologists
+WHO: Operational Guidelines for the Establishment and functioning of DSMBs
+© GCP Clinical Studies Ltd
+אל הקתעהל
+18
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+DSMB / DMC
+The DSMB/ DMC  advises when the research should not continue 
+because:
+Benefit/risk ratio had worsened.
+Strong evidence that study has attained its original objectives.
+Strong evidence that the primary objectives will not be met.
+© GCP Clinical Studies Ltd
+Clinical Safety Information
+IB
+SUSAR
+)
+Expedite report
+(
+)
+Serious Unexpected 
+ADR
+(
+SADR
+ 
+)
+Side Effects
+( 
+ADR
+ 
+)
+Side Effects
+( 
+SAE
+ 
+AE
+None-ADR
+None-ADR
+Pt. Package 
+Insert
+Physician 
+/Pharmacist
+leaflet
+  
+C l I n I c a l 
+T r I a l s
+investigator
+S P O N S O R
+Investigator
+Post Marketing
+© GCP Clinical Studies Ltd
+Ethics Committee
+אל הקתעהל
+19
+ קורסGCP
+ ונהלי משרד הבריאות
+חברת 
+  פי . סי .' גי
+ניסויים קליניים
+www.gcp.co.il 
+© GCP Clinical Studies Ltd
+אל הקתעהל

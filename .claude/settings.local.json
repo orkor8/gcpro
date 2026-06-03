@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"src/app/page.tsx\" \"src/app/\\(student\\)/page.tsx\")",
+      "Bash(mv \"src/app/HomeClient.tsx\" \"src/app/\\(student\\)/HomeClient.tsx\")",
+      "Bash(mv \"src/app/jobs/page.tsx\" \"src/app/\\(student\\)/jobs/page.tsx\")",
+      "Bash(mv \"src/app/jobs/[id]/page.tsx\" \"src/app/\\(student\\)/jobs/[id]/page.tsx\")",
+      "Bash(mv \"src/app/profile/edit/page.tsx\" \"src/app/\\(student\\)/profile/edit/page.tsx\")",
+      "Bash(npx next:*)",
+      "Bash(npm list:*)",
+      "Bash(npm install:*)",
+      "Bash(copy \"C:\\\\Users\\\\Administrator.DESKTOP-147A89P\\\\Presentation\\\\gcp_content.txt\" \"C:\\\\Users\\\\Administrator.DESKTOP-147A89P\\\\Claude_Projects\\\\clinhub\\\\src\\\\content\\\\gcp_content.txt\")",
+      "Bash(cp \"/c/Users/Administrator.DESKTOP-147A89P/Presentation/gcp_content.txt\" \"/c/Users/Administrator.DESKTOP-147A89P/Claude_Projects/clinhub/src/content/gcp_content.txt\")",
+      "Bash(dir src\\\\content)",
+      "Bash(node create-test-users.mjs)",
+      "Bash(node check-profiles.mjs)",
+      "Bash(node -e \"const p = require\\('./node_modules/@supabase/ssr/package.json'\\); console.log\\('ssr:', p.version\\)\")",
+      "Bash(node -e \"const p = require\\('./node_modules/@supabase/supabase-js/package.json'\\); console.log\\('supabase-js:', p.version\\)\")",
+      "Bash(node -e ' *)",
+      "PowerShell(Get-Process -Name \"node\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Stop-Process -Force)",
+      "Bash(gh --version)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Administrator.DESKTOP-147A89P\\Claude_Projects\\clinhub\\src\\app\\(student)\\jobs",
+      "c:\\Users\\Administrator.DESKTOP-147A89P\\Claude_Projects\\clinhub\\src\\app",
+      "C:\\Users\\Administrator.DESKTOP-147A89P\\Presentation"
+    ]
+  }
+}

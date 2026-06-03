@@ -1,0 +1,188 @@
+@import "tailwindcss";
+
+:root {
+  --navy: #0F2645;
+  --navy-light: #162f55;
+  --navy-dark: #091a30;
+  --teal: #0EA5E9;
+  --teal-light: #38bdf8;
+  --teal-glow: rgba(14, 165, 233, 0.15);
+  --white: #ffffff;
+  --off-white: #f0f4f8;
+  --text-muted: #94a3b8;
+  --background: var(--white);
+  --foreground: var(--navy);
+  --font-rubik: var(--font-rubik);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-rubik);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-rubik), 'Rubik', sans-serif;
+  direction: rtl;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes floatSlow {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50%       { transform: translateY(-18px) rotate(3deg); }
+}
+
+@keyframes pulseTeal {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(14, 165, 233, 0.4); }
+  50%       { box-shadow: 0 0 0 16px rgba(14, 165, 233, 0); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes bounce-dot {
+  0%, 80%, 100% { transform: translateY(0); opacity: 0.4; }
+  40%           { transform: translateY(-6px); opacity: 1; }
+}
+
+@keyframes glowPulse {
+  0%, 100% { opacity: 0.4; transform: scale(1); }
+  50%       { opacity: 0.7; transform: scale(1.08); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes gradientShift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.dot-1 { animation: bounce-dot 1.4s ease-in-out infinite; animation-delay: 0s; }
+.dot-2 { animation: bounce-dot 1.4s ease-in-out infinite; animation-delay: 0.2s; }
+.dot-3 { animation: bounce-dot 1.4s ease-in-out infinite; animation-delay: 0.4s; }
+
+.glow-orb { animation: glowPulse 4s ease-in-out infinite; }
+.glow-orb-2 { animation: glowPulse 5s ease-in-out infinite; animation-delay: 1.5s; }
+
+.animated-gradient-text {
+  background: linear-gradient(270deg, #0EA5E9, #38bdf8, #ffffff, #0EA5E9);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradientShift 5s ease infinite;
+}
+
+.chat-msg-in {
+  animation: slideInRight 0.4s ease forwards;
+}
+
+.sidebar-nav-item {
+  transition: background 0.18s, color 0.18s;
+  border-right: 3px solid transparent;
+}
+
+.sidebar-nav-item:hover {
+  background: rgba(14,165,233,0.08);
+  color: #38bdf8;
+}
+
+.sidebar-nav-item.active {
+  background: rgba(14,165,233,0.12);
+  color: #0EA5E9;
+  border-right-color: #0EA5E9;
+}
+
+.blur-lock-overlay {
+  backdrop-filter: blur(2px);
+  background: rgba(255,255,255,0.6);
+}
+
+.section-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.7s ease forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease forwards;
+}
+
+.animate-float {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(14,165,233,0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(14,165,233,0.07) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 48px rgba(14, 165, 233, 0.12), 0 8px 16px rgba(15, 38, 69, 0.08);
+}
+
+.shimmer-text {
+  background: linear-gradient(90deg, #0EA5E9 0%, #ffffff 50%, #0EA5E9 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 4s linear infinite;
+}
+
+.nav-link {
+  position: relative;
+  transition: color 0.2s;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  right: 0;
+  width: 0;
+  height: 2px;
+  background: var(--teal);
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
