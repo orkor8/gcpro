@@ -208,12 +208,12 @@ function RegisterPage() {
 
     const userId = data.user.id;
 
-    // Create profile
+    // Create profile — employers are auto-approved (no certificate check needed)
     await supabase.from("profiles").insert({
       id: crypto.randomUUID(),
       user_id: userId,
       role: selectedRole!,
-      status: "pending",
+      status: selectedRole === "employer" ? "approved" : "pending",
       full_name: form.fullName,
       email: form.email,
       phone: form.phone || null,
@@ -540,6 +540,10 @@ function RegisterPage() {
             <Link href="/login" className="font-semibold" style={{ color: "#0EA5E9" }}>
               התחבר כאן
             </Link>
+          </p>
+          <p className="text-center text-slate-600 text-xs mt-3">
+            בהרשמה אתה מסכים ל
+            <Link href="/privacy" className="font-semibold" style={{ color: "#0EA5E9" }}> מדיניות הפרטיות</Link>
           </p>
         </div>
       </div>
