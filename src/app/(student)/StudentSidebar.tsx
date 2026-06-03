@@ -45,7 +45,7 @@ function SidebarContent({ profile, onClose }: Props & { onClose?: () => void }) 
 
   return (
     <aside
-      className="fixed top-0 h-screen z-40 flex flex-col"
+      className="fixed top-14 lg:top-0 z-40 flex flex-col h-[calc(100dvh-3.5rem)] lg:h-screen"
       style={{
         right: 0,
         width: 260,
@@ -99,7 +99,7 @@ function SidebarContent({ profile, onClose }: Props & { onClose?: () => void }) 
       </nav>
 
       {/* Bottom */}
-      <div className="px-4 pb-6 pt-4 space-y-2.5" style={{ borderTop: "1px solid rgba(255,255,255,0.07)" }}>
+      <div className="px-4 pt-4 space-y-2.5" style={{ borderTop: "1px solid rgba(255,255,255,0.07)", paddingBottom: "max(1.5rem, env(safe-area-inset-bottom))" }}>
         {profile ? (
           <>
             <div className="flex items-center gap-3 px-1 mb-3">
