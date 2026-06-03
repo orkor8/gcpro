@@ -2,6 +2,7 @@ import { createClient } from "@/lib/supabase/server";
 import { redirect } from "next/navigation";
 import { saveProfile } from "./actions";
 import CertificatesSection from "./CertificatesSection";
+import { CvUpload } from "./CvUpload";
 
 const DEGREES = ["תואר ראשון (B.Sc/B.A)", "תואר שני (M.Sc/M.A)", "PhD", "MD", "PharmD", "אחר"];
 const FIELDS = ["מדעי החיים", "רוקחות", "סיעוד", "רפואה", "ביוטכנולוגיה", "כימיה", "פסיכולוגיה", "אחר"];
@@ -190,6 +191,15 @@ export default async function ProfileEditPage() {
                 placeholder="ICH-GCP, GxP, CDISC, SAS, Excel..."
               />
             </div>
+          </section>
+
+          {/* קורות חיים */}
+          <section className="rounded-2xl p-6 space-y-4" style={{ background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.08)" }}>
+            <div>
+              <div className="text-white font-bold text-sm mb-1">קורות חיים</div>
+              <div className="text-slate-500 text-xs mb-4">קובץ PDF שיוצג למעסיקים שמחפשים בוגרים</div>
+            </div>
+            <CvUpload currentUrl={profile?.cv_url} />
           </section>
 
           <button

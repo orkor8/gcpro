@@ -32,7 +32,7 @@ export default async function CandidatesPage({
   const admin = createAdminClient();
   let query = admin
     .from("profiles")
-    .select("user_id, full_name, email, phone, city, linkedin_url, skills, bio, role, degree, field_of_study, institution, english_level, edc_systems, has_coordinator_experience")
+    .select("user_id, full_name, email, phone, city, linkedin_url, cv_url, skills, bio, role, degree, field_of_study, institution, english_level, edc_systems, has_coordinator_experience")
     .in("role", ["student_gcp", "student_cra"])
     .eq("status", "approved")
     .eq("is_open_to_work", true);
@@ -133,6 +133,12 @@ export default async function CandidatesPage({
                     <a href={`tel:${c.phone}`} className="flex items-center gap-2 text-sm text-slate-600 hover:underline">
                       <svg width="14" height="14" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" /></svg>
                       {c.phone}
+                    </a>
+                  )}
+                  {c.cv_url && (
+                    <a href={c.cv_url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm font-semibold hover:underline" style={{ color: "#0EA5E9" }}>
+                      <svg width="14" height="14" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" /></svg>
+                      הורד קורות חיים
                     </a>
                   )}
                   {c.linkedin_url && (
